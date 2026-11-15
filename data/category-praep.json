@@ -1,0 +1,158 @@
+[
+  {
+    "id": "w_0341",
+    "de": "mit",
+    "ru": "с, при помощи",
+    "categories": [
+      "praep"
+    ],
+    "lesson": 15,
+    "example": "Ich fahre mit dem Bus.",
+    "exampleRu": "Я еду на автобусе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0342",
+    "de": "nach",
+    "ru": "в, после",
+    "categories": [
+      "praep"
+    ],
+    "lesson": 15,
+    "example": "Ich fahre nach Berlin.",
+    "exampleRu": "Я еду в Берлин.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0343",
+    "de": "zu",
+    "ru": "к",
+    "categories": [
+      "praep"
+    ],
+    "lesson": 15,
+    "example": "Ich gehe zum Arzt.",
+    "exampleRu": "Я иду к врачу.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0344",
+    "de": "aus",
+    "ru": "из",
+    "categories": [
+      "praep"
+    ],
+    "lesson": 15,
+    "example": "Ich komme aus der Ukraine.",
+    "exampleRu": "Я из Украины.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0345",
+    "de": "von",
+    "ru": "от, из",
+    "categories": [
+      "praep"
+    ],
+    "lesson": 15,
+    "example": "Ich komme von der Arbeit.",
+    "exampleRu": "Я иду с работы.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0346",
+    "de": "bei",
+    "ru": "у, при",
+    "categories": [
+      "praep"
+    ],
+    "lesson": 15,
+    "example": "Ich bin bei meiner Freundin.",
+    "exampleRu": "Я у подруги.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0347",
+    "de": "in",
+    "ru": "в",
+    "categories": [
+      "praep"
+    ],
+    "lesson": 15,
+    "example": "Ich bin in der Küche.",
+    "exampleRu": "Я на кухне.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0348",
+    "de": "auf",
+    "ru": "на",
+    "categories": [
+      "praep"
+    ],
+    "lesson": 15,
+    "example": "Das Buch liegt auf dem Tisch.",
+    "exampleRu": "Книга лежит на столе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0349",
+    "de": "unter",
+    "ru": "под",
+    "categories": [
+      "praep"
+    ],
+    "lesson": 15,
+    "example": "Der Ball liegt unter dem Tisch.",
+    "exampleRu": "Мяч лежит под столом.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0350",
+    "de": "neben",
+    "ru": "рядом с",
+    "categories": [
+      "praep"
+    ],
+    "lesson": 15,
+    "example": "Die Tasche steht neben dem Bett.",
+    "exampleRu": "Сумка стоит рядом с кроватью.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0351",
+    "de": "hinter",
+    "ru": "за",
+    "categories": [
+      "praep"
+    ],
+    "lesson": 15,
+    "example": "Der Garten ist hinter dem Haus.",
+    "exampleRu": "Сад за домом.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0352",
+    "de": "vor",
+    "ru": "перед",
+    "categories": [
+      "praep"
+    ],
+    "lesson": 15,
+    "example": "Das Auto steht vor dem Haus.",
+    "exampleRu": "Машина стоит перед домом.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

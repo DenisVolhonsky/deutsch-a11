@@ -1,0 +1,165 @@
+[
+  {
+    "id": "w_0009",
+    "de": "der Tisch, die Tische",
+    "ru": "стол",
+    "categories": [
+      "gegen",
+      "wohnen"
+    ],
+    "lesson": 3,
+    "example": "Der Tisch steht im Zimmer.",
+    "exampleRu": "Стол стоит в комнате.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0010",
+    "de": "der Stuhl, die Stühle",
+    "ru": "стул",
+    "categories": [
+      "gegen",
+      "wohnen"
+    ],
+    "lesson": 3,
+    "example": "Der Stuhl ist bequem.",
+    "exampleRu": "Стул удобный.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0081",
+    "de": "das Buch",
+    "ru": "книга",
+    "categories": [
+      "gegen"
+    ],
+    "lesson": 3,
+    "example": "Ich lese ein Buch.",
+    "exampleRu": "Я читаю книгу.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Bücher",
+    "image": "images/photo/buch.webp"
+  },
+  {
+    "id": "w_0082",
+    "de": "der Stift",
+    "ru": "ручка, карандаш",
+    "categories": [
+      "gegen"
+    ],
+    "lesson": 3,
+    "example": "Hast du einen Stift?",
+    "exampleRu": "У тебя есть ручка?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0083",
+    "de": "der Schlüssel",
+    "ru": "ключ",
+    "categories": [
+      "gegen"
+    ],
+    "lesson": 3,
+    "example": "Wo ist mein Schlüssel?",
+    "exampleRu": "Где мой ключ?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0084",
+    "de": "die Tasche",
+    "ru": "сумка",
+    "categories": [
+      "gegen"
+    ],
+    "lesson": 3,
+    "example": "Meine Tasche ist schwer.",
+    "exampleRu": "Моя сумка тяжёлая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Taschen"
+  },
+  {
+    "id": "w_0085",
+    "de": "das Handy",
+    "ru": "мобильный телефон",
+    "categories": [
+      "gegen"
+    ],
+    "lesson": 3,
+    "example": "Mein Handy ist neu.",
+    "exampleRu": "Мой телефон новый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0086",
+    "de": "der Tisch",
+    "ru": "стол",
+    "categories": [
+      "gegen"
+    ],
+    "lesson": 3,
+    "example": "Das Buch liegt auf dem Tisch.",
+    "exampleRu": "Книга лежит на столе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Tische"
+  },
+  {
+    "id": "w_0087",
+    "de": "der Stuhl",
+    "ru": "стул",
+    "categories": [
+      "gegen"
+    ],
+    "lesson": 3,
+    "example": "Der Stuhl steht am Fenster.",
+    "exampleRu": "Стул стоит у окна.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Stühle"
+  },
+  {
+    "id": "w_0088",
+    "de": "die Brille",
+    "ru": "очки",
+    "categories": [
+      "gegen"
+    ],
+    "lesson": 3,
+    "example": "Ich brauche meine Brille.",
+    "exampleRu": "Мне нужны мои очки.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0089",
+    "de": "der Regenschirm",
+    "ru": "зонт",
+    "categories": [
+      "gegen"
+    ],
+    "lesson": 3,
+    "example": "Nimm einen Regenschirm mit.",
+    "exampleRu": "Возьми с собой зонт.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0090",
+    "de": "der Rucksack",
+    "ru": "рюкзак",
+    "categories": [
+      "gegen"
+    ],
+    "lesson": 3,
+    "example": "Mein Rucksack ist blau.",
+    "exampleRu": "Мой рюкзак синий.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

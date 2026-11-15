@@ -1,0 +1,271 @@
+[
+  {
+    "id": "w_0016",
+    "de": "der Apfel, die Äpfel",
+    "ru": "яблоко",
+    "categories": [
+      "essen",
+      "einkauf"
+    ],
+    "lesson": 7,
+    "example": "Ich esse einen Apfel.",
+    "exampleRu": "Я ем яблоко.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0017",
+    "de": "das Brot, die Brote",
+    "ru": "хлеб",
+    "categories": [
+      "essen",
+      "einkauf"
+    ],
+    "lesson": 7,
+    "example": "Ich kaufe Brot.",
+    "exampleRu": "Я покупаю хлеб.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0128",
+    "de": "der Apfel",
+    "ru": "яблоко",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Ich esse einen Apfel.",
+    "exampleRu": "Я ем яблоко.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Äpfel",
+    "image": "images/photo/apfel.webp"
+  },
+  {
+    "id": "w_0129",
+    "de": "die Banane",
+    "ru": "банан",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Die Banane ist gelb.",
+    "exampleRu": "Банан жёлтый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Bananen"
+  },
+  {
+    "id": "w_0130",
+    "de": "das Brot",
+    "ru": "хлеб",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Ich kaufe Brot.",
+    "exampleRu": "Я покупаю хлеб.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "image": "images/photo/brot.webp"
+  },
+  {
+    "id": "w_0131",
+    "de": "die Milch",
+    "ru": "молоко",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Ich trinke Milch.",
+    "exampleRu": "Я пью молоко.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0132",
+    "de": "das Wasser",
+    "ru": "вода",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Ich trinke gern Wasser.",
+    "exampleRu": "Я люблю пить воду.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "image": "images/photo/wasser.webp"
+  },
+  {
+    "id": "w_0133",
+    "de": "der Kaffee",
+    "ru": "кофе",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Ich möchte einen Kaffee.",
+    "exampleRu": "Я хотел бы кофе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "image": "images/photo/kaffee.webp"
+  },
+  {
+    "id": "w_0134",
+    "de": "der Tee",
+    "ru": "чай",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Möchtest du Tee?",
+    "exampleRu": "Хочешь чай?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0135",
+    "de": "das Gemüse",
+    "ru": "овощи",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Ich esse gern Gemüse.",
+    "exampleRu": "Я люблю есть овощи.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0136",
+    "de": "das Obst",
+    "ru": "фрукты",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Obst ist gesund.",
+    "exampleRu": "Фрукты полезны.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0137",
+    "de": "der Käse",
+    "ru": "сыр",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Ich esse Brot mit Käse.",
+    "exampleRu": "Я ем хлеб с сыром.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0138",
+    "de": "die Butter",
+    "ru": "сливочное масло",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Ich brauche Butter.",
+    "exampleRu": "Мне нужно масло.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0139",
+    "de": "das Ei",
+    "ru": "яйцо",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Ich möchte ein Ei.",
+    "exampleRu": "Я хочу яйцо.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0140",
+    "de": "das Fleisch",
+    "ru": "мясо",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Isst du Fleisch?",
+    "exampleRu": "Ты ешь мясо?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0141",
+    "de": "der Fisch",
+    "ru": "рыба",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Ich esse heute Fisch.",
+    "exampleRu": "Сегодня я ем рыбу.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0142",
+    "de": "der Reis",
+    "ru": "рис",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Wir kochen Reis.",
+    "exampleRu": "Мы готовим рис.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0143",
+    "de": "die Kartoffel",
+    "ru": "картофель",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Ich kaufe Kartoffeln.",
+    "exampleRu": "Я покупаю картофель.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0144",
+    "de": "die Tomate",
+    "ru": "помидор",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Die Tomate ist rot.",
+    "exampleRu": "Помидор красный.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Tomaten"
+  },
+  {
+    "id": "w_0145",
+    "de": "das Salz",
+    "ru": "соль",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Gib mir bitte das Salz.",
+    "exampleRu": "Передай, пожалуйста, соль.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

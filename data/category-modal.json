@@ -1,0 +1,114 @@
+[
+  {
+    "id": "w_0405",
+    "de": "können",
+    "ru": "мочь, уметь",
+    "categories": [
+      "modal"
+    ],
+    "lesson": 1,
+    "example": "Ich kann Deutsch sprechen.",
+    "exampleRu": "Я могу говорить по-немецки.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "kann",
+      "perfekt": "hat gekonnt"
+    }
+  },
+  {
+    "id": "w_0406",
+    "de": "müssen",
+    "ru": "быть должным",
+    "categories": [
+      "modal"
+    ],
+    "lesson": 1,
+    "example": "Ich muss heute arbeiten.",
+    "exampleRu": "Я должен сегодня работать.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "muss",
+      "perfekt": "hat gemusst"
+    }
+  },
+  {
+    "id": "w_0407",
+    "de": "dürfen",
+    "ru": "иметь разрешение",
+    "categories": [
+      "modal"
+    ],
+    "lesson": 1,
+    "example": "Darf ich hier parken?",
+    "exampleRu": "Можно мне здесь парковаться?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "darf",
+      "perfekt": "hat gedurft"
+    }
+  },
+  {
+    "id": "w_0408",
+    "de": "sollen",
+    "ru": "следует, должен",
+    "categories": [
+      "modal"
+    ],
+    "lesson": 1,
+    "example": "Du sollst viel trinken.",
+    "exampleRu": "Тебе следует много пить.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "soll",
+      "perfekt": "hat gesollt"
+    }
+  },
+  {
+    "id": "w_0409",
+    "de": "wollen",
+    "ru": "хотеть",
+    "categories": [
+      "modal"
+    ],
+    "lesson": 1,
+    "example": "Ich will nach Hause.",
+    "exampleRu": "Я хочу домой.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "will",
+      "perfekt": "hat gewollt"
+    }
+  },
+  {
+    "id": "w_0410",
+    "de": "mögen",
+    "ru": "любить, нравиться",
+    "categories": [
+      "modal"
+    ],
+    "lesson": 1,
+    "example": "Ich mag Kaffee.",
+    "exampleRu": "Я люблю кофе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "mag",
+      "perfekt": "hat gemocht"
+    }
+  },
+  {
+    "id": "w_0411",
+    "de": "möchten",
+    "ru": "хотел(а) бы",
+    "categories": [
+      "modal"
+    ],
+    "lesson": 1,
+    "example": "Ich möchte einen Tee.",
+    "exampleRu": "Я хотел бы чай.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "möchte",
+      "perfekt": "—"
+    }
+  }
+]

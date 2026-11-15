@@ -1,0 +1,147 @@
+[
+  {
+    "id": "w_0007",
+    "de": "zehn",
+    "ru": "десять",
+    "categories": [
+      "zahlen"
+    ],
+    "lesson": 2,
+    "example": "Ich habe zehn Euro.",
+    "exampleRu": "У меня десять евро.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0008",
+    "de": "acht Uhr",
+    "ru": "восемь часов",
+    "categories": [
+      "zahlen"
+    ],
+    "lesson": 8,
+    "example": "Es ist acht Uhr.",
+    "exampleRu": "Сейчас восемь часов.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0072",
+    "de": "null",
+    "ru": "ноль",
+    "categories": [
+      "zahlen"
+    ],
+    "lesson": 2,
+    "example": "Das kostet null Euro.",
+    "exampleRu": "Это стоит ноль евро.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0073",
+    "de": "eins",
+    "ru": "один",
+    "categories": [
+      "zahlen"
+    ],
+    "lesson": 2,
+    "example": "Ich habe nur einen Euro.",
+    "exampleRu": "У меня только один евро.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0074",
+    "de": "zwei",
+    "ru": "два",
+    "categories": [
+      "zahlen"
+    ],
+    "lesson": 2,
+    "example": "Wir haben zwei Kinder.",
+    "exampleRu": "У нас двое детей.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0075",
+    "de": "drei",
+    "ru": "три",
+    "categories": [
+      "zahlen"
+    ],
+    "lesson": 2,
+    "example": "Ich komme um drei Uhr.",
+    "exampleRu": "Я приду в три часа.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0076",
+    "de": "zwanzig",
+    "ru": "двадцать",
+    "categories": [
+      "zahlen"
+    ],
+    "lesson": 2,
+    "example": "Ich habe zwanzig Minuten.",
+    "exampleRu": "У меня двадцать минут.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0077",
+    "de": "hundert",
+    "ru": "сто",
+    "categories": [
+      "zahlen"
+    ],
+    "lesson": 2,
+    "example": "Das kostet hundert Euro.",
+    "exampleRu": "Это стоит сто евро.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0078",
+    "de": "die Uhr",
+    "ru": "часы",
+    "categories": [
+      "zahlen"
+    ],
+    "lesson": 2,
+    "example": "Wie viel Uhr ist es?",
+    "exampleRu": "Который час?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Uhren",
+    "image": "images/photo/uhr.webp"
+  },
+  {
+    "id": "w_0079",
+    "de": "die Minute",
+    "ru": "минута",
+    "categories": [
+      "zahlen"
+    ],
+    "lesson": 2,
+    "example": "Warte eine Minute.",
+    "exampleRu": "Подожди минуту.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0080",
+    "de": "die Stunde",
+    "ru": "час",
+    "categories": [
+      "zahlen"
+    ],
+    "lesson": 2,
+    "example": "Ich brauche eine Stunde.",
+    "exampleRu": "Мне нужен час.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

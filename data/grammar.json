@@ -1,0 +1,1718 @@
+[
+  {
+    "id": "articles",
+    "title": "Артикли: der / die / das",
+    "section": "Существительные",
+    "intro": "Учи существительное вместе с артиклем и множественным числом.",
+    "table": {
+      "columns": [
+        "Род",
+        "Артикль",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "мужской",
+          "der",
+          "der Tisch"
+        ],
+        [
+          "женский",
+          "die",
+          "die Lampe"
+        ],
+        [
+          "средний",
+          "das",
+          "das Kind"
+        ],
+        [
+          "множественное",
+          "die",
+          "die Kinder"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Das ist ein Tisch.",
+        "ru": "Это стол."
+      },
+      {
+        "de": "Die Lampe ist neu.",
+        "ru": "Лампа новая."
+      }
+    ],
+    "note": "",
+    "practice": {
+      "q": "___ Buch liegt auf dem Tisch.",
+      "a": "Das Buch liegt auf dem Tisch."
+    },
+    "level": "A1"
+  },
+  {
+    "id": "nounplural",
+    "title": "Множественное число",
+    "section": "Существительные",
+    "intro": "Множественное число образуется по-разному; окончания лучше учить со словом.",
+    "table": {
+      "columns": [
+        "Тип",
+        "Ед. число",
+        "Мн. число"
+      ],
+      "rows": [
+        [
+          "-e",
+          "der Tisch",
+          "die Tische"
+        ],
+        [
+          "-er / Umlaut",
+          "das Buch",
+          "die Bücher"
+        ],
+        [
+          "-n / -en",
+          "die Frau",
+          "die Frauen"
+        ],
+        [
+          "-s",
+          "das Auto",
+          "die Autos"
+        ],
+        [
+          "без окончания",
+          "das Mädchen",
+          "die Mädchen"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Ich habe zwei Bücher.",
+        "ru": "У меня две книги."
+      },
+      {
+        "de": "Die Kinder spielen.",
+        "ru": "Дети играют."
+      }
+    ],
+    "note": "Слова die Eltern, die Leute обычно используются только во множественном числе.",
+    "practice": null,
+    "level": "A1"
+  },
+  {
+    "id": "nominativ",
+    "title": "Nominativ — кто? что?",
+    "section": "Падежи",
+    "intro": "Nominativ обозначает подлежащее: кто или что выполняет действие.",
+    "table": {
+      "columns": [
+        "Род",
+        "Nominativ",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "мужской",
+          "der / ein",
+          "der Mann"
+        ],
+        [
+          "женский",
+          "die / eine",
+          "die Frau"
+        ],
+        [
+          "средний",
+          "das / ein",
+          "das Kind"
+        ],
+        [
+          "множественное",
+          "die / —",
+          "die Kinder"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Der Mann kommt.",
+        "ru": "Мужчина приходит."
+      },
+      {
+        "de": "Ein Kind spielt.",
+        "ru": "Ребёнок играет."
+      }
+    ],
+    "note": "",
+    "practice": null,
+    "level": "A1"
+  },
+  {
+    "id": "akk",
+    "title": "Akkusativ — кого? что?",
+    "section": "Падежи",
+    "intro": "Часто отвечает на «кого? что?». У мужского рода меняется артикль der → den и ein → einen.",
+    "table": {
+      "columns": [
+        "Род",
+        "Nominativ",
+        "Akkusativ"
+      ],
+      "rows": [
+        [
+          "мужской",
+          "der / ein",
+          "den / einen"
+        ],
+        [
+          "женский",
+          "die / eine",
+          "die / eine"
+        ],
+        [
+          "средний",
+          "das / ein",
+          "das / ein"
+        ],
+        [
+          "множественное",
+          "die / —",
+          "die / —"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Ich sehe den Mann.",
+        "ru": "Я вижу мужчину."
+      },
+      {
+        "de": "Ich kaufe einen Apfel.",
+        "ru": "Я покупаю яблоко."
+      },
+      {
+        "de": "Ich habe eine Tasche.",
+        "ru": "У меня есть сумка."
+      }
+    ],
+    "note": "Предлоги: durch, für, gegen, ohne, um — всегда Akkusativ.",
+    "practice": {
+      "q": "Ich kaufe ___ Apfel.",
+      "a": "Ich kaufe einen Apfel."
+    },
+    "level": "A1"
+  },
+  {
+    "id": "dat",
+    "title": "Dativ — кому? чему?",
+    "section": "Падежи",
+    "intro": "Dativ часто отвечает на «кому? чему?». После mit, nach, aus, zu, von, bei, seit всегда Dativ.",
+    "table": {
+      "columns": [
+        "Род",
+        "Nominativ",
+        "Dativ"
+      ],
+      "rows": [
+        [
+          "мужской",
+          "der / ein",
+          "dem / einem"
+        ],
+        [
+          "женский",
+          "die / eine",
+          "der / einer"
+        ],
+        [
+          "средний",
+          "das / ein",
+          "dem / einem"
+        ],
+        [
+          "множественное",
+          "die / —",
+          "den (+n) / —"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Ich fahre mit dem Bus.",
+        "ru": "Я еду на автобусе."
+      },
+      {
+        "de": "Ich helfe meiner Mutter.",
+        "ru": "Я помогаю маме."
+      },
+      {
+        "de": "Ich fahre zu den Freunden.",
+        "ru": "Я еду к друзьям."
+      }
+    ],
+    "note": "У многих существительных во множественном числе добавляется -n: mit den Kindern.",
+    "practice": {
+      "q": "Ich fahre mit ___ Auto.",
+      "a": "Ich fahre mit dem Auto."
+    },
+    "level": "A1"
+  },
+  {
+    "id": "cases",
+    "title": "Таблица артиклей: Nominativ → Akkusativ → Dativ",
+    "section": "Падежи",
+    "intro": "Главная таблица для повторения падежей. Порядок колонок сохраняем: Nominativ, Akkusativ, Dativ.",
+    "table": {
+      "columns": [
+        "Род",
+        "Nominativ",
+        "Akkusativ",
+        "Dativ"
+      ],
+      "rows": [
+        [
+          "der",
+          "der / ein",
+          "den / einen",
+          "dem / einem"
+        ],
+        [
+          "die",
+          "die / eine",
+          "die / eine",
+          "der / einer"
+        ],
+        [
+          "das",
+          "das / ein",
+          "das / ein",
+          "dem / einem"
+        ],
+        [
+          "Plural",
+          "die",
+          "die",
+          "den (+n)"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Der Hund sieht den Mann.",
+        "ru": "Собака видит мужчину."
+      },
+      {
+        "de": "Ich gebe dem Kind ein Buch.",
+        "ru": "Я даю ребёнку книгу."
+      }
+    ],
+    "note": "",
+    "practice": null,
+    "level": "A1"
+  },
+  {
+    "id": "pronouns",
+    "title": "Личные местоимения",
+    "section": "Местоимения",
+    "intro": "Короткие формы личных местоимений по падежам.",
+    "table": {
+      "columns": [
+        "Nominativ",
+        "Akkusativ",
+        "Dativ"
+      ],
+      "rows": [
+        [
+          "ich",
+          "mich",
+          "mir"
+        ],
+        [
+          "du",
+          "dich",
+          "dir"
+        ],
+        [
+          "er",
+          "ihn",
+          "ihm"
+        ],
+        [
+          "sie",
+          "sie",
+          "ihr"
+        ],
+        [
+          "es",
+          "es",
+          "ihm"
+        ],
+        [
+          "wir",
+          "uns",
+          "uns"
+        ],
+        [
+          "ihr",
+          "euch",
+          "euch"
+        ],
+        [
+          "sie / Sie",
+          "sie / Sie",
+          "ihnen / Ihnen"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Ich sehe dich.",
+        "ru": "Я вижу тебя."
+      },
+      {
+        "de": "Kannst du mir helfen?",
+        "ru": "Ты можешь мне помочь?"
+      }
+    ],
+    "note": "",
+    "practice": null,
+    "level": "A1"
+  },
+  {
+    "id": "possessives",
+    "title": "Притяжательные местоимения",
+    "section": "Местоимения",
+    "intro": "mein, dein, sein, ihr, unser, euer, ihr, Ihr согласуются с существительным.",
+    "table": {
+      "columns": [
+        "Лицо",
+        "Основа",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "ich",
+          "mein-",
+          "mein Vater"
+        ],
+        [
+          "du",
+          "dein-",
+          "deine Mutter"
+        ],
+        [
+          "er",
+          "sein-",
+          "sein Auto"
+        ],
+        [
+          "sie",
+          "ihr-",
+          "ihre Tasche"
+        ],
+        [
+          "wir",
+          "unser-",
+          "unser Haus"
+        ],
+        [
+          "ihr",
+          "euer-",
+          "eure Kinder"
+        ],
+        [
+          "Sie",
+          "Ihr-",
+          "Ihre Adresse"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Das ist meine Tochter.",
+        "ru": "Это моя дочь."
+      },
+      {
+        "de": "Wo ist dein Buch?",
+        "ru": "Где твоя книга?"
+      }
+    ],
+    "note": "",
+    "practice": null,
+    "level": "A1"
+  },
+  {
+    "id": "presens",
+    "title": "Präsens — настоящее время",
+    "section": "Глаголы",
+    "intro": "Обычно глагол в повествовательном предложении стоит на втором месте.",
+    "table": {
+      "columns": [
+        "Лицо",
+        "lernen",
+        "machen"
+      ],
+      "rows": [
+        [
+          "ich",
+          "lerne",
+          "mache"
+        ],
+        [
+          "du",
+          "lernst",
+          "machst"
+        ],
+        [
+          "er / sie / es",
+          "lernt",
+          "macht"
+        ],
+        [
+          "wir",
+          "lernen",
+          "machen"
+        ],
+        [
+          "ihr",
+          "lernt",
+          "macht"
+        ],
+        [
+          "sie / Sie",
+          "lernen",
+          "machen"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Ich lerne Deutsch.",
+        "ru": "Я учу немецкий."
+      },
+      {
+        "de": "Heute lerne ich Deutsch.",
+        "ru": "Сегодня я учу немецкий."
+      }
+    ],
+    "note": "",
+    "practice": null,
+    "level": "A1"
+  },
+  {
+    "id": "sein-haben",
+    "title": "sein и haben",
+    "section": "Глаголы",
+    "intro": "Это два самых частотных глагола. Их формы нужно выучить.",
+    "table": {
+      "columns": [
+        "Лицо",
+        "sein",
+        "haben"
+      ],
+      "rows": [
+        [
+          "ich",
+          "bin",
+          "habe"
+        ],
+        [
+          "du",
+          "bist",
+          "hast"
+        ],
+        [
+          "er / sie / es",
+          "ist",
+          "hat"
+        ],
+        [
+          "wir",
+          "sind",
+          "haben"
+        ],
+        [
+          "ihr",
+          "seid",
+          "habt"
+        ],
+        [
+          "sie / Sie",
+          "sind",
+          "haben"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Ich bin zu Hause.",
+        "ru": "Я дома."
+      },
+      {
+        "de": "Ich habe Zeit.",
+        "ru": "У меня есть время."
+      }
+    ],
+    "note": "",
+    "practice": null,
+    "level": "A1"
+  },
+  {
+    "id": "vowel",
+    "title": "Смена гласной в Präsens",
+    "section": "Глаголы",
+    "intro": "Некоторые сильные глаголы меняют гласную в формах du и er/sie/es.",
+    "table": {
+      "columns": [
+        "Infinitiv",
+        "du",
+        "er / sie / es"
+      ],
+      "rows": [
+        [
+          "fahren",
+          "fährst",
+          "fährt"
+        ],
+        [
+          "lesen",
+          "liest",
+          "liest"
+        ],
+        [
+          "essen",
+          "isst",
+          "isst"
+        ],
+        [
+          "sprechen",
+          "sprichst",
+          "spricht"
+        ],
+        [
+          "nehmen",
+          "nimmst",
+          "nimmt"
+        ],
+        [
+          "laufen",
+          "läufst",
+          "läuft"
+        ],
+        [
+          "schlafen",
+          "schläfst",
+          "schläft"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Du fährst mit dem Bus.",
+        "ru": "Ты едешь на автобусе."
+      },
+      {
+        "de": "Er liest ein Buch.",
+        "ru": "Он читает книгу."
+      }
+    ],
+    "note": "",
+    "practice": null,
+    "level": "A1"
+  },
+  {
+    "id": "perfekt",
+    "title": "Perfekt — разговорное прошедшее",
+    "section": "Глаголы",
+    "intro": "Perfekt обычно состоит из haben/sein и Partizip II. Вспомогательный глагол стоит на 2-м месте, причастие — в конце.",
+    "table": {
+      "columns": [
+        "Тип",
+        "Пример",
+        "Перевод"
+      ],
+      "rows": [
+        [
+          "haben + ge-…-t",
+          "hat gemacht",
+          "сделал"
+        ],
+        [
+          "haben + ge-…-en",
+          "hat gelesen",
+          "прочитал"
+        ],
+        [
+          "sein + ge-…-en",
+          "ist gegangen",
+          "ушёл"
+        ],
+        [
+          "без ge-",
+          "hat besucht",
+          "посетил"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Ich habe Brot gekauft.",
+        "ru": "Я купил хлеб."
+      },
+      {
+        "de": "Ich bin nach Hause gefahren.",
+        "ru": "Я поехал домой."
+      }
+    ],
+    "note": "Для карточек глаголов показываем только Infinitiv, er/sie/es и Perfekt.",
+    "practice": {
+      "q": "Ich ___ gestern gearbeitet.",
+      "a": "Ich habe gestern gearbeitet."
+    },
+    "level": "A1"
+  },
+  {
+    "id": "praeteritum",
+    "title": "Präteritum: sein, haben, modal",
+    "section": "Глаголы",
+    "intro": "На A1 особенно полезны war, hatte и формы модальных глаголов.",
+    "table": {
+      "columns": [
+        "Infinitiv",
+        "ich / er",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "sein",
+          "war",
+          "Ich war krank."
+        ],
+        [
+          "haben",
+          "hatte",
+          "Ich hatte keine Zeit."
+        ],
+        [
+          "können",
+          "konnte",
+          "Ich konnte nicht kommen."
+        ],
+        [
+          "müssen",
+          "musste",
+          "Ich musste arbeiten."
+        ],
+        [
+          "wollen",
+          "wollte",
+          "Ich wollte schlafen."
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Gestern war ich krank.",
+        "ru": "Вчера я болел."
+      },
+      {
+        "de": "Ich hatte einen Termin.",
+        "ru": "У меня была встреча."
+      }
+    ],
+    "note": "",
+    "practice": null,
+    "level": "A1"
+  },
+  {
+    "id": "modal",
+    "title": "Модальные глаголы",
+    "section": "Глаголы",
+    "intro": "Модальный глагол стоит на втором месте, смысловой инфинитив — в конце.",
+    "table": {
+      "columns": [
+        "Infinitiv",
+        "ich",
+        "er / sie / es"
+      ],
+      "rows": [
+        [
+          "können",
+          "kann",
+          "kann"
+        ],
+        [
+          "müssen",
+          "muss",
+          "muss"
+        ],
+        [
+          "dürfen",
+          "darf",
+          "darf"
+        ],
+        [
+          "sollen",
+          "soll",
+          "soll"
+        ],
+        [
+          "wollen",
+          "will",
+          "will"
+        ],
+        [
+          "mögen",
+          "mag",
+          "mag"
+        ],
+        [
+          "möchten",
+          "möchte",
+          "möchte"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Ich muss heute arbeiten.",
+        "ru": "Сегодня я должен работать."
+      },
+      {
+        "de": "Darf ich hier sitzen?",
+        "ru": "Можно мне здесь сидеть?"
+      },
+      {
+        "de": "Ich möchte einen Kaffee.",
+        "ru": "Я бы хотел кофе."
+      }
+    ],
+    "note": "",
+    "practice": null,
+    "level": "A1"
+  },
+  {
+    "id": "prefix",
+    "title": "Отделяемые приставки",
+    "section": "Глаголы",
+    "intro": "В Präsens приставка уходит в конец главного предложения. В Perfekt она обычно стоит перед ge-.",
+    "table": {
+      "columns": [
+        "Infinitiv",
+        "Präsens",
+        "Perfekt"
+      ],
+      "rows": [
+        [
+          "aufstehen",
+          "steht auf",
+          "ist aufgestanden"
+        ],
+        [
+          "einkaufen",
+          "kauft ein",
+          "hat eingekauft"
+        ],
+        [
+          "anrufen",
+          "ruft an",
+          "hat angerufen"
+        ],
+        [
+          "ankommen",
+          "kommt an",
+          "ist angekommen"
+        ],
+        [
+          "aufmachen",
+          "macht auf",
+          "hat aufgemacht"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Ich stehe um sieben Uhr auf.",
+        "ru": "Я встаю в семь."
+      },
+      {
+        "de": "Ich bin früh aufgestanden.",
+        "ru": "Я рано встал."
+      }
+    ],
+    "note": "",
+    "practice": null,
+    "level": "A1"
+  },
+  {
+    "id": "imperative",
+    "title": "Imperativ — повелительное наклонение",
+    "section": "Глаголы",
+    "intro": "Повелительная форма зависит от du, ihr и Sie. Приставка остаётся в конце.",
+    "table": {
+      "columns": [
+        "Форма",
+        "machen",
+        "aufmachen"
+      ],
+      "rows": [
+        [
+          "du",
+          "Mach!",
+          "Mach auf!"
+        ],
+        [
+          "ihr",
+          "Macht!",
+          "Macht auf!"
+        ],
+        [
+          "Sie",
+          "Machen Sie!",
+          "Machen Sie auf!"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Räum dein Zimmer auf!",
+        "ru": "Убери свою комнату!"
+      },
+      {
+        "de": "Kommen Sie bitte!",
+        "ru": "Подойдите, пожалуйста!"
+      }
+    ],
+    "note": "У некоторых сильных глаголов особые формы: Lies! Nimm! Iss!",
+    "practice": null,
+    "level": "A1"
+  },
+  {
+    "id": "questions",
+    "title": "Вопросы: Ja/Nein и W-Fragen",
+    "section": "Предложения",
+    "intro": "В вопросе без вопросительного слова глагол стоит первым. В W-Frage вопросительное слово — первым, глагол — вторым.",
+    "table": {
+      "columns": [
+        "Тип",
+        "Схема",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "Ja/Nein",
+          "Глагол + подлежащее",
+          "Kommst du?"
+        ],
+        [
+          "W-Frage",
+          "W-слово + глагол + подлежащее",
+          "Wann kommst du?"
+        ],
+        [
+          "Уточнение",
+          "W-слово + глагол + …",
+          "Wo wohnst du?"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Hast du Zeit?",
+        "ru": "У тебя есть время?"
+      },
+      {
+        "de": "Warum bist du hier?",
+        "ru": "Почему ты здесь?"
+      }
+    ],
+    "note": "",
+    "practice": null,
+    "level": "A1"
+  },
+  {
+    "id": "w-questions",
+    "title": "Все основные W-Fragen (A1–B1)",
+    "section": "Вопросы",
+    "intro": "Основные вопросительные слова собраны в отдельной категории карточек. Некоторые слова (woran, wofür, worüber) обычно изучают позже A1.",
+    "table": {
+      "columns": [
+        "Слово",
+        "Перевод",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "wer",
+          "кто",
+          "Wer kommt heute?"
+        ],
+        [
+          "wen",
+          "кого (Akkusativ)",
+          "Wen besuchst du?"
+        ],
+        [
+          "wem",
+          "кому (Dativ)",
+          "Wem hilfst du?"
+        ],
+        [
+          "wessen",
+          "чей, чья, чьё",
+          "Wessen Tasche ist das?"
+        ],
+        [
+          "was",
+          "что",
+          "Was machst du?"
+        ],
+        [
+          "wann",
+          "когда",
+          "Wann beginnt der Kurs?"
+        ],
+        [
+          "wo",
+          "где",
+          "Wo wohnst du?"
+        ],
+        [
+          "wohin",
+          "куда",
+          "Wohin gehst du?"
+        ],
+        [
+          "woher",
+          "откуда",
+          "Woher kommst du?"
+        ],
+        [
+          "warum",
+          "почему",
+          "Warum lernst du Deutsch?"
+        ],
+        [
+          "wieso",
+          "почему",
+          "Wieso bist du müde?"
+        ],
+        [
+          "weshalb",
+          "по какой причине",
+          "Weshalb bist du hier?"
+        ],
+        [
+          "wie",
+          "как",
+          "Wie geht es dir?"
+        ],
+        [
+          "wie viel",
+          "сколько (масса/количество)",
+          "Wie viel Wasser brauchst du?"
+        ],
+        [
+          "wie viele",
+          "сколько (штук)",
+          "Wie viele Kinder hast du?"
+        ],
+        [
+          "wie lange",
+          "как долго",
+          "Wie lange dauert der Kurs?"
+        ],
+        [
+          "wie oft",
+          "как часто",
+          "Wie oft trainierst du?"
+        ],
+        [
+          "wie spät",
+          "который час",
+          "Wie spät ist es?"
+        ],
+        [
+          "seit wann",
+          "с каких пор",
+          "Seit wann wohnst du hier?"
+        ],
+        [
+          "bis wann",
+          "до какого момента",
+          "Bis wann arbeitest du?"
+        ],
+        [
+          "ab wann",
+          "с какого момента",
+          "Ab wann hast du Zeit?"
+        ],
+        [
+          "mit wem",
+          "с кем",
+          "Mit wem gehst du?"
+        ],
+        [
+          "womit",
+          "чем, с помощью чего",
+          "Womit fährst du?"
+        ],
+        [
+          "wofür",
+          "для чего",
+          "Wofür brauchst du das?"
+        ],
+        [
+          "woran",
+          "о чём / над чем",
+          "Woran denkst du?"
+        ],
+        [
+          "worauf",
+          "на что / чего",
+          "Worauf wartest du?"
+        ],
+        [
+          "worüber",
+          "о чём",
+          "Worüber sprecht ihr?"
+        ],
+        [
+          "wovon",
+          "о чём / от чего",
+          "Wovon träumst du?"
+        ],
+        [
+          "wobei",
+          "при чём / в чём",
+          "Wobei kann ich helfen?"
+        ],
+        [
+          "wodurch",
+          "через что / благодаря чему",
+          "Wodurch ist das passiert?"
+        ],
+        [
+          "welcher",
+          "какой (м.р.)",
+          "Welcher Bus fährt zum Bahnhof?"
+        ],
+        [
+          "welche",
+          "какая / какие",
+          "Welche Jacke gefällt dir?"
+        ],
+        [
+          "welches",
+          "какое (ср.р.)",
+          "Welches Buch liest du?"
+        ],
+        [
+          "wie alt",
+          "сколько лет",
+          "Wie alt bist du?"
+        ],
+        [
+          "wie groß",
+          "какого роста / насколько большой",
+          "Wie groß bist du?"
+        ],
+        [
+          "wie weit",
+          "как далеко",
+          "Wie weit ist es zum Bahnhof?"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Wem hilfst du?",
+        "ru": "Кому ты помогаешь?"
+      },
+      {
+        "de": "Wofür brauchst du das?",
+        "ru": "Для чего тебе это нужно?"
+      }
+    ],
+    "note": "Ключевая разница: wer (кто), wen (кого), wem (кому), wessen (чей).",
+    "practice": null,
+    "level": "A1–B1"
+  },
+  {
+    "id": "sentence",
+    "title": "Порядок слов в предложении",
+    "section": "Предложения",
+    "intro": "В главном повествовательном предложении спрягаемый глагол стоит на втором месте.",
+    "table": {
+      "columns": [
+        "Начало",
+        "Глагол",
+        "Остальное"
+      ],
+      "rows": [
+        [
+          "Ich",
+          "gehe",
+          "heute zur Arbeit."
+        ],
+        [
+          "Heute",
+          "gehe",
+          "ich zur Arbeit."
+        ],
+        [
+          "Am Montag",
+          "lerne",
+          "ich Deutsch."
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Morgen habe ich Zeit.",
+        "ru": "Завтра у меня есть время."
+      },
+      {
+        "de": "Dann rufe ich dich an.",
+        "ru": "Потом я тебе позвоню."
+      }
+    ],
+    "note": "",
+    "practice": null,
+    "level": "A1"
+  },
+  {
+    "id": "negation",
+    "title": "Отрицание nicht и kein",
+    "section": "Предложения",
+    "intro": "kein отрицает существительное; nicht — действие, признак или часть предложения.",
+    "table": {
+      "columns": [
+        "Форма",
+        "Когда",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "kein / keine",
+          "существительное",
+          "Ich habe kein Auto."
+        ],
+        [
+          "nicht",
+          "действие",
+          "Ich komme nicht."
+        ],
+        [
+          "nicht",
+          "прилагательное",
+          "Das ist nicht teuer."
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Ich habe keine Zeit.",
+        "ru": "У меня нет времени."
+      },
+      {
+        "de": "Mein Zimmer ist nicht aufgeräumt.",
+        "ru": "Моя комната не убрана."
+      }
+    ],
+    "note": "",
+    "practice": null,
+    "level": "A1"
+  },
+  {
+    "id": "prepositions-dat",
+    "title": "Предлоги с Dativ",
+    "section": "Предлоги",
+    "intro": "После этих предлогов используется Dativ — независимо от движения.",
+    "table": {
+      "columns": [
+        "Предлог",
+        "Перевод",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "mit",
+          "с / на (транспорт)",
+          "mit dem Bus"
+        ],
+        [
+          "nach",
+          "в / после",
+          "nach Berlin"
+        ],
+        [
+          "aus",
+          "из",
+          "aus der Schule"
+        ],
+        [
+          "zu",
+          "к",
+          "zum Arzt"
+        ],
+        [
+          "von",
+          "от / с",
+          "von der Arbeit"
+        ],
+        [
+          "bei",
+          "у / при",
+          "bei meiner Mutter"
+        ],
+        [
+          "seit",
+          "с какого-то времени",
+          "seit einem Jahr"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Ich fahre mit dem Auto.",
+        "ru": "Я еду на машине."
+      },
+      {
+        "de": "Ich gehe zum Arzt.",
+        "ru": "Я иду к врачу."
+      }
+    ],
+    "note": "",
+    "practice": null,
+    "level": "A1"
+  },
+  {
+    "id": "prepositions-akk",
+    "title": "Предлоги с Akkusativ",
+    "section": "Предлоги",
+    "intro": "Некоторые предлоги требуют Akkusativ всегда.",
+    "table": {
+      "columns": [
+        "Предлог",
+        "Перевод",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "durch",
+          "через",
+          "durch den Park"
+        ],
+        [
+          "für",
+          "для",
+          "für meinen Bruder"
+        ],
+        [
+          "gegen",
+          "против / около",
+          "gegen die Wand"
+        ],
+        [
+          "ohne",
+          "без",
+          "ohne meinen Schlüssel"
+        ],
+        [
+          "um",
+          "вокруг / в (час)",
+          "um den Tisch"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Das Geschenk ist für dich.",
+        "ru": "Этот подарок для тебя."
+      },
+      {
+        "de": "Ich gehe durch den Park.",
+        "ru": "Я иду через парк."
+      }
+    ],
+    "note": "",
+    "practice": null,
+    "level": "A1"
+  },
+  {
+    "id": "wechsel",
+    "title": "Wechselpräpositionen: Wo? / Wohin?",
+    "section": "Предлоги",
+    "intro": "Wo? — положение (Dativ). Wohin? — перемещение к месту (Akkusativ). Это относится к предлогам in, an, auf, unter, über, vor, hinter, neben, zwischen.",
+    "table": {
+      "columns": [
+        "Вопрос",
+        "Падеж",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "Wo?",
+          "Dativ",
+          "Das Buch liegt auf dem Tisch."
+        ],
+        [
+          "Wohin?",
+          "Akkusativ",
+          "Ich lege das Buch auf den Tisch."
+        ],
+        [
+          "Wo?",
+          "Dativ",
+          "Ich bin in der Küche."
+        ],
+        [
+          "Wohin?",
+          "Akkusativ",
+          "Ich gehe in die Küche."
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Das Kind sitzt auf dem Stuhl.",
+        "ru": "Ребёнок сидит на стуле."
+      },
+      {
+        "de": "Das Kind setzt sich auf den Stuhl.",
+        "ru": "Ребёнок садится на стул."
+      }
+    ],
+    "note": "Не путай: nach и zu всегда с Dativ, даже когда обозначают направление.",
+    "practice": null,
+    "level": "A1"
+  },
+  {
+    "id": "direction",
+    "title": "Wohin: nach, zu, in",
+    "section": "Предлоги",
+    "intro": "Направление выбирается по типу места, а не только по факту движения.",
+    "table": {
+      "columns": [
+        "Куда",
+        "Предлог",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "город / страна без артикля",
+          "nach",
+          "nach Berlin"
+        ],
+        [
+          "человек / учреждение",
+          "zu + Dativ",
+          "zum Arzt"
+        ],
+        [
+          "внутрь / страна с артиклем",
+          "in + Akkusativ",
+          "in die Schweiz"
+        ],
+        [
+          "домой",
+          "nach",
+          "nach Hause"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Ich fahre nach Deutschland.",
+        "ru": "Я еду в Германию."
+      },
+      {
+        "de": "Ich gehe zur Schule.",
+        "ru": "Я иду в школу."
+      },
+      {
+        "de": "Ich fahre in die Ukraine.",
+        "ru": "Я еду в Украину."
+      }
+    ],
+    "note": "",
+    "practice": null,
+    "level": "A1"
+  },
+  {
+    "id": "place",
+    "title": "Где? unter / unten, hinter / hinten",
+    "section": "Предлоги",
+    "intro": "unter и hinter — предлоги, им нужно существительное; unten и hinten — наречия, могут стоять отдельно.",
+    "table": {
+      "columns": [
+        "Предлог",
+        "Наречие",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "unter dem Tisch",
+          "unten",
+          "Die Tasche liegt unten."
+        ],
+        [
+          "hinter dem Haus",
+          "hinten",
+          "Der Garten ist hinten."
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Die Katze sitzt unter dem Tisch.",
+        "ru": "Кошка сидит под столом."
+      },
+      {
+        "de": "Das Bad ist hinten.",
+        "ru": "Ванная находится сзади."
+      }
+    ],
+    "note": "",
+    "practice": null,
+    "level": "A1"
+  },
+  {
+    "id": "time",
+    "title": "Время: um / am / im",
+    "section": "Время",
+    "intro": "Время на часах с um, дни с am, месяцы и времена года с im.",
+    "table": {
+      "columns": [
+        "С чем",
+        "Предлог",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "час",
+          "um",
+          "um 8 Uhr"
+        ],
+        [
+          "день недели",
+          "am",
+          "am Montag"
+        ],
+        [
+          "месяц",
+          "im",
+          "im November"
+        ],
+        [
+          "время года",
+          "im",
+          "im Winter"
+        ],
+        [
+          "часть дня",
+          "am",
+          "am Morgen"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Der Kurs beginnt um 18 Uhr.",
+        "ru": "Курс начинается в 18:00."
+      },
+      {
+        "de": "Im Sommer fahren wir ans Meer.",
+        "ru": "Летом мы едем к морю."
+      }
+    ],
+    "note": "",
+    "practice": null,
+    "level": "A1"
+  },
+  {
+    "id": "days",
+    "title": "Дата и дни недели",
+    "section": "Время",
+    "intro": "После am употребляется день недели или дата. Для дат используется порядковое числительное.",
+    "table": {
+      "columns": [
+        "Выражение",
+        "Пример",
+        "Перевод"
+      ],
+      "rows": [
+        [
+          "день",
+          "am Montag",
+          "в понедельник"
+        ],
+        [
+          "дата",
+          "am 15. Mai",
+          "15 мая"
+        ],
+        [
+          "с... до...",
+          "von Montag bis Freitag",
+          "с понедельника по пятницу"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Ich habe am Freitag frei.",
+        "ru": "В пятницу я свободен."
+      },
+      {
+        "de": "Mein Geburtstag ist am 15. Mai.",
+        "ru": "Мой день рождения 15 мая."
+      }
+    ],
+    "note": "",
+    "practice": null,
+    "level": "A1"
+  },
+  {
+    "id": "comparative",
+    "title": "Сравнительная степень прилагательных",
+    "section": "Прилагательные",
+    "intro": "Сравнение часто строится с -er и als. Некоторые формы неправильные.",
+    "table": {
+      "columns": [
+        "Обычная",
+        "Сравнительная",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "klein",
+          "kleiner",
+          "kleiner als"
+        ],
+        [
+          "groß",
+          "größer",
+          "größer als"
+        ],
+        [
+          "gut",
+          "besser",
+          "besser als"
+        ],
+        [
+          "viel",
+          "mehr",
+          "mehr als"
+        ],
+        [
+          "gern",
+          "lieber",
+          "lieber als"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Der Zug ist schneller als der Bus.",
+        "ru": "Поезд быстрее автобуса."
+      }
+    ],
+    "note": "",
+    "practice": null,
+    "level": "A2–B1"
+  },
+  {
+    "id": "conjunction",
+    "title": "weil, denn, deshalb, trotzdem",
+    "section": "Предложения",
+    "intro": "После weil спрягаемый глагол уходит в конец придаточного. После deshalb и trotzdem глагол остаётся на втором месте.",
+    "table": {
+      "columns": [
+        "Союз / наречие",
+        "Порядок",
+        "Пример"
+      ],
+      "rows": [
+        [
+          "weil",
+          "глагол в конце",
+          "Ich bleibe, weil ich krank bin."
+        ],
+        [
+          "denn",
+          "обычный порядок",
+          "Ich bleibe, denn ich bin krank."
+        ],
+        [
+          "deshalb",
+          "инверсия",
+          "Ich bin krank. Deshalb bleibe ich."
+        ],
+        [
+          "trotzdem",
+          "инверсия",
+          "Es regnet. Trotzdem gehe ich."
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Ich lerne Deutsch, weil ich hier wohne.",
+        "ru": "Я учу немецкий, потому что живу здесь."
+      }
+    ],
+    "note": "",
+    "practice": null,
+    "level": "A2–B1"
+  },
+  {
+    "id": "imperative-health",
+    "title": "Советы и здоровье",
+    "section": "Разговорные конструкции",
+    "intro": "Полезные готовые фразы для врача и повседневных рекомендаций.",
+    "table": {
+      "columns": [
+        "Ситуация",
+        "Фраза",
+        "Перевод"
+      ],
+      "rows": [
+        [
+          "боль",
+          "Mein Rücken tut weh.",
+          "У меня болит спина."
+        ],
+        [
+          "вопрос врача",
+          "Was fehlt Ihnen?",
+          "Что вас беспокоит?"
+        ],
+        [
+          "совет",
+          "Trinken Sie viel Wasser.",
+          "Пейте больше воды."
+        ],
+        [
+          "пожелание",
+          "Gute Besserung!",
+          "Выздоравливайте!"
+        ]
+      ]
+    },
+    "examples": [
+      {
+        "de": "Ich habe seit zwei Tagen Schmerzen.",
+        "ru": "У меня боли уже два дня."
+      }
+    ],
+    "note": "",
+    "practice": null,
+    "level": "A1"
+  }
+]

@@ -1,0 +1,181 @@
+[
+  {
+    "id": "w_0110",
+    "de": "aufräumen",
+    "ru": "прибирать",
+    "categories": [
+      "alltag",
+      "separable"
+    ],
+    "lesson": 5,
+    "example": "Ich räume mein Zimmer auf.",
+    "exampleRu": "Я убираю свою комнату.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "räumt auf",
+      "perfekt": "hat aufgeräumt"
+    }
+  },
+  {
+    "id": "w_0113",
+    "de": "aufstehen",
+    "ru": "вставать",
+    "categories": [
+      "alltag",
+      "separable"
+    ],
+    "lesson": 5,
+    "example": "Ich stehe um sieben auf.",
+    "exampleRu": "Я встаю в семь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "steht auf",
+      "perfekt": "ist aufgestanden"
+    }
+  },
+  {
+    "id": "w_0115",
+    "de": "einkaufen",
+    "ru": "делать покупки",
+    "categories": [
+      "alltag",
+      "separable"
+    ],
+    "lesson": 5,
+    "example": "Ich kaufe heute ein.",
+    "exampleRu": "Я сегодня делаю покупки.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "kauft ein",
+      "perfekt": "hat eingekauft"
+    }
+  },
+  {
+    "id": "w_0412",
+    "de": "anrufen",
+    "ru": "звонить",
+    "categories": [
+      "separable"
+    ],
+    "lesson": 1,
+    "example": "Ich rufe meine Mutter an.",
+    "exampleRu": "Я звоню маме.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "ruft an",
+      "perfekt": "hat angerufen"
+    }
+  },
+  {
+    "id": "w_0413",
+    "de": "ankommen",
+    "ru": "прибывать",
+    "categories": [
+      "separable"
+    ],
+    "lesson": 1,
+    "example": "Der Zug kommt um neun an.",
+    "exampleRu": "Поезд прибывает в девять.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "kommt an",
+      "perfekt": "ist angekommen"
+    }
+  },
+  {
+    "id": "w_0414",
+    "de": "abfahren",
+    "ru": "отправляться",
+    "categories": [
+      "separable"
+    ],
+    "lesson": 1,
+    "example": "Der Zug fährt um acht ab.",
+    "exampleRu": "Поезд отправляется в восемь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "fährt ab",
+      "perfekt": "ist abgefahren"
+    }
+  },
+  {
+    "id": "w_0415",
+    "de": "einsteigen",
+    "ru": "садиться (в транспорт)",
+    "categories": [
+      "separable"
+    ],
+    "lesson": 1,
+    "example": "Ich steige in den Bus ein.",
+    "exampleRu": "Я сажусь в автобус.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "steigt ein",
+      "perfekt": "ist eingestiegen"
+    }
+  },
+  {
+    "id": "w_0416",
+    "de": "aussteigen",
+    "ru": "выходить (из транспорта)",
+    "categories": [
+      "separable"
+    ],
+    "lesson": 1,
+    "example": "Ich steige hier aus.",
+    "exampleRu": "Я выхожу здесь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "steigt aus",
+      "perfekt": "ist ausgestiegen"
+    }
+  },
+  {
+    "id": "w_0417",
+    "de": "umsteigen",
+    "ru": "делать пересадку",
+    "categories": [
+      "separable"
+    ],
+    "lesson": 1,
+    "example": "Ich steige am Bahnhof um.",
+    "exampleRu": "Я пересаживаюсь на вокзале.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "steigt um",
+      "perfekt": "ist umgestiegen"
+    }
+  },
+  {
+    "id": "w_0418",
+    "de": "mitbringen",
+    "ru": "приносить с собой",
+    "categories": [
+      "separable"
+    ],
+    "lesson": 1,
+    "example": "Ich bringe Brot mit.",
+    "exampleRu": "Я принесу хлеб.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "bringt mit",
+      "perfekt": "hat mitgebracht"
+    }
+  },
+  {
+    "id": "w_0419",
+    "de": "fernsehen",
+    "ru": "смотреть телевизор",
+    "categories": [
+      "separable"
+    ],
+    "lesson": 1,
+    "example": "Ich sehe abends fern.",
+    "exampleRu": "Я смотрю телевизор по вечерам.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "sieht fern",
+      "perfekt": "hat ferngesehen"
+    }
+  }
+]

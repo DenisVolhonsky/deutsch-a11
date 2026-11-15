@@ -1,0 +1,363 @@
+[
+  {
+    "id": "w_0111",
+    "de": "putzen",
+    "ru": "чистить, убирать",
+    "categories": [
+      "alltag",
+      "regular"
+    ],
+    "lesson": 5,
+    "example": "Ich putze das Bad.",
+    "exampleRu": "Я убираю ванную.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "putzt",
+      "perfekt": "hat geputzt"
+    }
+  },
+  {
+    "id": "w_0152",
+    "de": "bezahlen",
+    "ru": "платить",
+    "categories": [
+      "einkauf",
+      "regular"
+    ],
+    "lesson": 7,
+    "example": "Ich habe mit Karte bezahlt.",
+    "exampleRu": "Я заплатил картой.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "bezahlt",
+      "perfekt": "hat bezahlt"
+    }
+  },
+  {
+    "id": "w_0230",
+    "de": "feiern",
+    "ru": "праздновать",
+    "categories": [
+      "feste",
+      "regular"
+    ],
+    "lesson": 13,
+    "example": "Wir feiern Geburtstag.",
+    "exampleRu": "Мы празднуем день рождения.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "feiert",
+      "perfekt": "hat gefeiert"
+    }
+  },
+  {
+    "id": "w_0312",
+    "de": "lernen",
+    "ru": "учить",
+    "categories": [
+      "schule",
+      "regular"
+    ],
+    "lesson": 10,
+    "example": "Ich lerne Deutsch.",
+    "exampleRu": "Я учу немецкий.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "lernt",
+      "perfekt": "hat gelernt"
+    }
+  },
+  {
+    "id": "w_0313",
+    "de": "sagen",
+    "ru": "сказать",
+    "categories": [
+      "kommunikation",
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Was sagst du?",
+    "exampleRu": "Что ты говоришь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "sagt",
+      "perfekt": "hat gesagt"
+    }
+  },
+  {
+    "id": "w_0314",
+    "de": "fragen",
+    "ru": "спрашивать",
+    "categories": [
+      "kommunikation",
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Ich frage den Lehrer.",
+    "exampleRu": "Я спрашиваю учителя.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "fragt",
+      "perfekt": "hat gefragt"
+    }
+  },
+  {
+    "id": "w_0315",
+    "de": "antworten",
+    "ru": "отвечать",
+    "categories": [
+      "kommunikation",
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Sie antwortet schnell.",
+    "exampleRu": "Она быстро отвечает.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "antwortet",
+      "perfekt": "hat geantwortet"
+    }
+  },
+  {
+    "id": "w_0319",
+    "de": "hören",
+    "ru": "слушать",
+    "categories": [
+      "kommunikation",
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Ich höre Musik.",
+    "exampleRu": "Я слушаю музыку.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "hört",
+      "perfekt": "hat gehört"
+    }
+  },
+  {
+    "id": "w_0322",
+    "de": "erklären",
+    "ru": "объяснять",
+    "categories": [
+      "kommunikation",
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Die Lehrerin erklärt es.",
+    "exampleRu": "Учительница это объясняет.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "erklärt",
+      "perfekt": "hat erklärt"
+    }
+  },
+  {
+    "id": "w_0387",
+    "de": "machen",
+    "ru": "делать",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Ich mache die Hausaufgaben.",
+    "exampleRu": "Я делаю домашнее задание.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "macht",
+      "perfekt": "hat gemacht"
+    }
+  },
+  {
+    "id": "w_0388",
+    "de": "spielen",
+    "ru": "играть",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Die Kinder spielen draußen.",
+    "exampleRu": "Дети играют на улице.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "spielt",
+      "perfekt": "hat gespielt"
+    }
+  },
+  {
+    "id": "w_0389",
+    "de": "kaufen",
+    "ru": "покупать",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Ich kaufe ein Brot.",
+    "exampleRu": "Я покупаю хлеб.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "kauft",
+      "perfekt": "hat gekauft"
+    }
+  },
+  {
+    "id": "w_0390",
+    "de": "wohnen",
+    "ru": "жить, проживать",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Ich wohne in Augsburg.",
+    "exampleRu": "Я живу в Аугсбурге.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "wohnt",
+      "perfekt": "hat gewohnt"
+    }
+  },
+  {
+    "id": "w_0391",
+    "de": "arbeiten",
+    "ru": "работать",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Ich arbeite heute.",
+    "exampleRu": "Я сегодня работаю.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "arbeitet",
+      "perfekt": "hat gearbeitet"
+    }
+  },
+  {
+    "id": "w_0392",
+    "de": "kochen",
+    "ru": "готовить",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Ich koche heute.",
+    "exampleRu": "Я сегодня готовлю.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "kocht",
+      "perfekt": "hat gekocht"
+    }
+  },
+  {
+    "id": "w_0393",
+    "de": "besuchen",
+    "ru": "посещать",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Ich besuche meine Eltern.",
+    "exampleRu": "Я навещаю родителей.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "besucht",
+      "perfekt": "hat besucht"
+    }
+  },
+  {
+    "id": "w_0394",
+    "de": "brauchen",
+    "ru": "нуждаться",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Ich brauche Hilfe.",
+    "exampleRu": "Мне нужна помощь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "braucht",
+      "perfekt": "hat gebraucht"
+    }
+  },
+  {
+    "id": "w_0395",
+    "de": "suchen",
+    "ru": "искать",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Ich suche meine Tasche.",
+    "exampleRu": "Я ищу сумку.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "sucht",
+      "perfekt": "hat gesucht"
+    }
+  },
+  {
+    "id": "w_0396",
+    "de": "zeigen",
+    "ru": "показывать",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Zeig mir das Foto.",
+    "exampleRu": "Покажи мне фотографию.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "zeigt",
+      "perfekt": "hat gezeigt"
+    }
+  },
+  {
+    "id": "w_0397",
+    "de": "öffnen",
+    "ru": "открывать",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Ich öffne das Fenster.",
+    "exampleRu": "Я открываю окно.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "öffnet",
+      "perfekt": "hat geöffnet"
+    }
+  },
+  {
+    "id": "w_0398",
+    "de": "lieben",
+    "ru": "любить",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Ich liebe meine Familie.",
+    "exampleRu": "Я люблю свою семью.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "liebt",
+      "perfekt": "hat geliebt"
+    }
+  },
+  {
+    "id": "w_0399",
+    "de": "leben",
+    "ru": "жить",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Wir leben in Deutschland.",
+    "exampleRu": "Мы живём в Германии.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "lebt",
+      "perfekt": "hat gelebt"
+    }
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "w_0031",
+    "de": "der Geburtstag, die Geburtstage",
+    "ru": "день рождения",
+    "categories": [
+      "feste"
+    ],
+    "lesson": 13,
+    "example": "Heute habe ich Geburtstag.",
+    "exampleRu": "У меня сегодня день рождения.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0032",
+    "de": "das Geschenk, die Geschenke",
+    "ru": "подарок",
+    "categories": [
+      "feste"
+    ],
+    "lesson": 13,
+    "example": "Das Geschenk ist für dich.",
+    "exampleRu": "Этот подарок для тебя.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0226",
+    "de": "der Geburtstag",
+    "ru": "день рождения",
+    "categories": [
+      "feste"
+    ],
+    "lesson": 13,
+    "example": "Wann hast du Geburtstag?",
+    "exampleRu": "Когда у тебя день рождения?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0227",
+    "de": "das Geschenk",
+    "ru": "подарок",
+    "categories": [
+      "feste"
+    ],
+    "lesson": 13,
+    "example": "Das Geschenk ist für dich.",
+    "exampleRu": "Этот подарок тебе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "image": "images/photo/geschenk.webp"
+  },
+  {
+    "id": "w_0228",
+    "de": "die Einladung",
+    "ru": "приглашение",
+    "categories": [
+      "feste"
+    ],
+    "lesson": 13,
+    "example": "Danke für die Einladung.",
+    "exampleRu": "Спасибо за приглашение.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0229",
+    "de": "die Party",
+    "ru": "вечеринка",
+    "categories": [
+      "feste"
+    ],
+    "lesson": 13,
+    "example": "Die Party beginnt um acht.",
+    "exampleRu": "Вечеринка начинается в восемь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0230",
+    "de": "feiern",
+    "ru": "праздновать",
+    "categories": [
+      "feste",
+      "regular"
+    ],
+    "lesson": 13,
+    "example": "Wir feiern Geburtstag.",
+    "exampleRu": "Мы празднуем день рождения.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "feiert",
+      "perfekt": "hat gefeiert"
+    }
+  },
+  {
+    "id": "w_0231",
+    "de": "Weihnachten",
+    "ru": "Рождество",
+    "categories": [
+      "feste"
+    ],
+    "lesson": 13,
+    "example": "Wir feiern Weihnachten.",
+    "exampleRu": "Мы празднуем Рождество.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0232",
+    "de": "Ostern",
+    "ru": "Пасха",
+    "categories": [
+      "feste"
+    ],
+    "lesson": 13,
+    "example": "An Ostern besuchen wir die Familie.",
+    "exampleRu": "На Пасху мы навещаем семью.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0233",
+    "de": "gratulieren",
+    "ru": "поздравлять",
+    "categories": [
+      "feste"
+    ],
+    "lesson": 13,
+    "example": "Ich gratuliere dir.",
+    "exampleRu": "Я тебя поздравляю.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

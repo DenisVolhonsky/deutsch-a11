@@ -1,0 +1,145 @@
+[
+  {
+    "id": "w_0281",
+    "de": "heute",
+    "ru": "сегодня",
+    "categories": [
+      "zeiten"
+    ],
+    "lesson": 8,
+    "example": "Heute habe ich Zeit.",
+    "exampleRu": "Сегодня у меня есть время.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0282",
+    "de": "morgen",
+    "ru": "завтра",
+    "categories": [
+      "zeiten"
+    ],
+    "lesson": 8,
+    "example": "Morgen arbeite ich.",
+    "exampleRu": "Завтра я работаю.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0283",
+    "de": "gestern",
+    "ru": "вчера",
+    "categories": [
+      "zeiten"
+    ],
+    "lesson": 8,
+    "example": "Gestern war ich zu Hause.",
+    "exampleRu": "Вчера я был дома.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0284",
+    "de": "jetzt",
+    "ru": "сейчас",
+    "categories": [
+      "zeiten"
+    ],
+    "lesson": 8,
+    "example": "Ich komme jetzt.",
+    "exampleRu": "Я сейчас иду.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0285",
+    "de": "gleich",
+    "ru": "скоро, сейчас",
+    "categories": [
+      "zeiten"
+    ],
+    "lesson": 8,
+    "example": "Ich komme gleich.",
+    "exampleRu": "Я скоро приду.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0286",
+    "de": "immer",
+    "ru": "всегда",
+    "categories": [
+      "zeiten"
+    ],
+    "lesson": 8,
+    "example": "Ich stehe immer früh auf.",
+    "exampleRu": "Я всегда рано встаю.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0287",
+    "de": "oft",
+    "ru": "часто",
+    "categories": [
+      "zeiten"
+    ],
+    "lesson": 8,
+    "example": "Ich gehe oft spazieren.",
+    "exampleRu": "Я часто гуляю.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0288",
+    "de": "manchmal",
+    "ru": "иногда",
+    "categories": [
+      "zeiten"
+    ],
+    "lesson": 8,
+    "example": "Manchmal lese ich abends.",
+    "exampleRu": "Иногда я читаю по вечерам.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0289",
+    "de": "nie",
+    "ru": "никогда",
+    "categories": [
+      "zeiten"
+    ],
+    "lesson": 8,
+    "example": "Ich rauche nie.",
+    "exampleRu": "Я никогда не курю.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0290",
+    "de": "zuerst",
+    "ru": "сначала",
+    "categories": [
+      "zeiten"
+    ],
+    "lesson": 8,
+    "example": "Zuerst frühstücke ich.",
+    "exampleRu": "Сначала я завтракаю.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0291",
+    "de": "dann",
+    "ru": "потом",
+    "categories": [
+      "zeiten"
+    ],
+    "lesson": 8,
+    "example": "Dann gehe ich zur Arbeit.",
+    "exampleRu": "Потом я иду на работу.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

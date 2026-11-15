@@ -1,0 +1,137 @@
+[
+  {
+    "id": "w_0019",
+    "de": "der Regen",
+    "ru": "дождь",
+    "categories": [
+      "wetter"
+    ],
+    "lesson": 8,
+    "example": "Heute gibt es Regen.",
+    "exampleRu": "Сегодня дождь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0020",
+    "de": "die Sonne",
+    "ru": "солнце",
+    "categories": [
+      "wetter"
+    ],
+    "lesson": 8,
+    "example": "Die Sonne scheint.",
+    "exampleRu": "Светит солнце.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "image": "images/photo/sonne.webp"
+  },
+  {
+    "id": "w_0156",
+    "de": "der Schnee",
+    "ru": "снег",
+    "categories": [
+      "wetter"
+    ],
+    "lesson": 8,
+    "example": "Im Winter gibt es Schnee.",
+    "exampleRu": "Зимой бывает снег.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0157",
+    "de": "der Wind",
+    "ru": "ветер",
+    "categories": [
+      "wetter"
+    ],
+    "lesson": 8,
+    "example": "Heute ist viel Wind.",
+    "exampleRu": "Сегодня сильный ветер.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0158",
+    "de": "die Wolke",
+    "ru": "облако",
+    "categories": [
+      "wetter"
+    ],
+    "lesson": 8,
+    "example": "Am Himmel sind Wolken.",
+    "exampleRu": "На небе облака.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0159",
+    "de": "warm",
+    "ru": "тёплый",
+    "categories": [
+      "wetter",
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 8,
+    "example": "Heute ist es warm.",
+    "exampleRu": "Сегодня тепло.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0160",
+    "de": "kalt",
+    "ru": "холодный",
+    "categories": [
+      "wetter",
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 8,
+    "example": "Mir ist kalt.",
+    "exampleRu": "Мне холодно.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0161",
+    "de": "sonnig",
+    "ru": "солнечный",
+    "categories": [
+      "wetter"
+    ],
+    "lesson": 8,
+    "example": "Heute ist es sonnig.",
+    "exampleRu": "Сегодня солнечно.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0162",
+    "de": "regnen",
+    "ru": "идти (о дожде)",
+    "categories": [
+      "wetter"
+    ],
+    "lesson": 8,
+    "example": "Es regnet.",
+    "exampleRu": "Идёт дождь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0163",
+    "de": "schneien",
+    "ru": "идти (о снеге)",
+    "categories": [
+      "wetter"
+    ],
+    "lesson": 8,
+    "example": "Es schneit.",
+    "exampleRu": "Идёт снег.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

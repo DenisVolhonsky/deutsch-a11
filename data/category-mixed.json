@@ -1,0 +1,130 @@
+[
+  {
+    "id": "w_0400",
+    "de": "bringen",
+    "ru": "приносить",
+    "categories": [
+      "mixed"
+    ],
+    "lesson": 1,
+    "example": "Ich bringe dir das Buch.",
+    "exampleRu": "Я принесу тебе книгу.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "bringt",
+      "perfekt": "hat gebracht"
+    }
+  },
+  {
+    "id": "w_0401",
+    "de": "denken",
+    "ru": "думать",
+    "categories": [
+      "mixed"
+    ],
+    "lesson": 1,
+    "example": "Ich denke an dich.",
+    "exampleRu": "Я думаю о тебе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "denkt",
+      "perfekt": "hat gedacht"
+    }
+  },
+  {
+    "id": "w_0402",
+    "de": "kennen",
+    "ru": "знать (быть знакомым)",
+    "categories": [
+      "mixed"
+    ],
+    "lesson": 1,
+    "example": "Ich kenne den Mann.",
+    "exampleRu": "Я знаю этого мужчину.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "kennt",
+      "perfekt": "hat gekannt"
+    }
+  },
+  {
+    "id": "w_0403",
+    "de": "wissen",
+    "ru": "знать (факт)",
+    "categories": [
+      "mixed"
+    ],
+    "lesson": 1,
+    "example": "Ich weiß die Antwort.",
+    "exampleRu": "Я знаю ответ.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "weiß",
+      "perfekt": "hat gewusst"
+    }
+  },
+  {
+    "id": "w_0404",
+    "de": "haben",
+    "ru": "иметь",
+    "categories": [
+      "mixed"
+    ],
+    "lesson": 1,
+    "example": "Ich habe zwei Kinder.",
+    "exampleRu": "У меня двое детей.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "hat",
+      "perfekt": "hat gehabt"
+    }
+  },
+  {
+    "id": "verb_extra_010",
+    "de": "nennen",
+    "ru": "называть",
+    "categories": [
+      "mixed"
+    ],
+    "lesson": null,
+    "example": "Wie nennt man das?",
+    "exampleRu": "Как это называется?",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "nennt",
+      "perfekt": "hat genannt"
+    }
+  },
+  {
+    "id": "verb_extra_011",
+    "de": "rennen",
+    "ru": "бежать",
+    "categories": [
+      "mixed"
+    ],
+    "lesson": null,
+    "example": "Das Kind rennt schnell.",
+    "exampleRu": "Ребёнок быстро бежит.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "rennt",
+      "perfekt": "ist gerannt"
+    }
+  },
+  {
+    "id": "verb_extra_026",
+    "de": "brennen",
+    "ru": "гореть",
+    "categories": [
+      "mixed"
+    ],
+    "lesson": null,
+    "example": "Das Licht brennt noch.",
+    "exampleRu": "Свет ещё горит.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "brennt",
+      "perfekt": "hat gebrannt"
+    }
+  }
+]

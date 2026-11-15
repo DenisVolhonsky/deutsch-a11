@@ -1,0 +1,145 @@
+[
+  {
+    "id": "w_0035",
+    "de": "der Urlaub",
+    "ru": "отпуск",
+    "categories": [
+      "reisen"
+    ],
+    "lesson": 16,
+    "example": "Wir machen Urlaub in Italien.",
+    "exampleRu": "Мы отдыхаем в Италии.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0036",
+    "de": "das Hotel, die Hotels",
+    "ru": "отель",
+    "categories": [
+      "reisen"
+    ],
+    "lesson": 16,
+    "example": "Das Hotel ist in der Stadt.",
+    "exampleRu": "Отель находится в городе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0244",
+    "de": "die Reise",
+    "ru": "поездка",
+    "categories": [
+      "reisen"
+    ],
+    "lesson": 16,
+    "example": "Die Reise war schön.",
+    "exampleRu": "Поездка была хорошей.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0245",
+    "de": "das Hotel",
+    "ru": "отель",
+    "categories": [
+      "reisen"
+    ],
+    "lesson": 16,
+    "example": "Wir wohnen im Hotel.",
+    "exampleRu": "Мы живём в отеле.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0246",
+    "de": "die Fahrkarte",
+    "ru": "проездной билет",
+    "categories": [
+      "reisen"
+    ],
+    "lesson": 16,
+    "example": "Ich kaufe eine Fahrkarte.",
+    "exampleRu": "Я покупаю билет.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0247",
+    "de": "der Koffer",
+    "ru": "чемодан",
+    "categories": [
+      "reisen"
+    ],
+    "lesson": 16,
+    "example": "Mein Koffer ist schwer.",
+    "exampleRu": "Мой чемодан тяжёлый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0248",
+    "de": "der Ausflug",
+    "ru": "экскурсия",
+    "categories": [
+      "reisen"
+    ],
+    "lesson": 16,
+    "example": "Wir machen einen Ausflug.",
+    "exampleRu": "Мы едем на экскурсию.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0249",
+    "de": "die Berge",
+    "ru": "горы",
+    "categories": [
+      "reisen"
+    ],
+    "lesson": 16,
+    "example": "Wir fahren in die Berge.",
+    "exampleRu": "Мы едем в горы.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0250",
+    "de": "das Meer",
+    "ru": "море",
+    "categories": [
+      "reisen"
+    ],
+    "lesson": 16,
+    "example": "Wir fahren ans Meer.",
+    "exampleRu": "Мы едем к морю.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0251",
+    "de": "die Unterkunft",
+    "ru": "жильё на время поездки",
+    "categories": [
+      "reisen"
+    ],
+    "lesson": 16,
+    "example": "Wir suchen eine Unterkunft.",
+    "exampleRu": "Мы ищем жильё.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0252",
+    "de": "buchen",
+    "ru": "бронировать",
+    "categories": [
+      "reisen"
+    ],
+    "lesson": 16,
+    "example": "Ich buche ein Hotel.",
+    "exampleRu": "Я бронирую отель.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

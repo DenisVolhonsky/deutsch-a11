@@ -1,0 +1,542 @@
+[
+  {
+    "id": "w_0011",
+    "de": "rot",
+    "ru": "красный",
+    "categories": [
+      "farben",
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 3,
+    "example": "Die Tasche ist rot.",
+    "exampleRu": "Сумка красная.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0012",
+    "de": "blau",
+    "ru": "синий",
+    "categories": [
+      "farben",
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 3,
+    "example": "Das Auto ist blau.",
+    "exampleRu": "Машина синяя.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0037",
+    "de": "groß",
+    "ru": "большой",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 11,
+    "example": "Das Zimmer ist groß.",
+    "exampleRu": "Комната большая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0038",
+    "de": "klein",
+    "ru": "маленький",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 11,
+    "example": "Das Bad ist klein.",
+    "exampleRu": "Ванная маленькая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0154",
+    "de": "billig",
+    "ru": "дешёвый",
+    "categories": [
+      "einkauf",
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 7,
+    "example": "Das ist sehr billig.",
+    "exampleRu": "Это очень дёшево.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0155",
+    "de": "teuer",
+    "ru": "дорогой",
+    "categories": [
+      "einkauf",
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 7,
+    "example": "Das ist zu teuer.",
+    "exampleRu": "Это слишком дорого.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0159",
+    "de": "warm",
+    "ru": "тёплый",
+    "categories": [
+      "wetter",
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 8,
+    "example": "Heute ist es warm.",
+    "exampleRu": "Сегодня тепло.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0160",
+    "de": "kalt",
+    "ru": "холодный",
+    "categories": [
+      "wetter",
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 8,
+    "example": "Mir ist kalt.",
+    "exampleRu": "Мне холодно.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0214",
+    "de": "gesund",
+    "ru": "здоровый",
+    "categories": [
+      "gesund",
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 12,
+    "example": "Ich bin wieder gesund.",
+    "exampleRu": "Я снова здоров.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0215",
+    "de": "krank",
+    "ru": "больной",
+    "categories": [
+      "gesund",
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 12,
+    "example": "Heute bin ich krank.",
+    "exampleRu": "Сегодня я болею.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0253",
+    "de": "alt",
+    "ru": "старый",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Das Haus ist alt.",
+    "exampleRu": "Дом старый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0254",
+    "de": "neu",
+    "ru": "новый",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Mein Handy ist neu.",
+    "exampleRu": "Мой телефон новый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0255",
+    "de": "schön",
+    "ru": "красивый",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Das Wetter ist schön.",
+    "exampleRu": "Погода хорошая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0256",
+    "de": "hässlich",
+    "ru": "некрасивый",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Das Gebäude ist hässlich.",
+    "exampleRu": "Здание некрасивое.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0257",
+    "de": "schnell",
+    "ru": "быстрый",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Der Zug ist schnell.",
+    "exampleRu": "Поезд быстрый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0258",
+    "de": "langsam",
+    "ru": "медленный",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Der Bus fährt langsam.",
+    "exampleRu": "Автобус едет медленно.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0259",
+    "de": "leicht",
+    "ru": "лёгкий",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Die Tasche ist leicht.",
+    "exampleRu": "Сумка лёгкая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0260",
+    "de": "schwer",
+    "ru": "тяжёлый",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Der Koffer ist schwer.",
+    "exampleRu": "Чемодан тяжёлый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0261",
+    "de": "hell",
+    "ru": "светлый",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Das Zimmer ist hell.",
+    "exampleRu": "Комната светлая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0262",
+    "de": "dunkel",
+    "ru": "тёмный",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Das Zimmer ist dunkel.",
+    "exampleRu": "Комната тёмная.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0263",
+    "de": "laut",
+    "ru": "громкий",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Die Musik ist laut.",
+    "exampleRu": "Музыка громкая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0264",
+    "de": "leise",
+    "ru": "тихий",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Bitte sei leise.",
+    "exampleRu": "Пожалуйста, веди себя тихо.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0265",
+    "de": "sauber",
+    "ru": "чистый",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Die Küche ist sauber.",
+    "exampleRu": "Кухня чистая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0266",
+    "de": "schmutzig",
+    "ru": "грязный",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Die Schuhe sind schmutzig.",
+    "exampleRu": "Обувь грязная.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0267",
+    "de": "voll",
+    "ru": "полный",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Der Bus ist voll.",
+    "exampleRu": "Автобус полный.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0268",
+    "de": "leer",
+    "ru": "пустой",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Das Glas ist leer.",
+    "exampleRu": "Стакан пустой.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0269",
+    "de": "freundlich",
+    "ru": "дружелюбный",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Die Nachbarin ist freundlich.",
+    "exampleRu": "Соседка дружелюбная.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0270",
+    "de": "müde",
+    "ru": "уставший",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Ich bin müde.",
+    "exampleRu": "Я устал.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0271",
+    "de": "interessant",
+    "ru": "интересный",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Das Buch ist interessant.",
+    "exampleRu": "Книга интересная.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0272",
+    "de": "langweilig",
+    "ru": "скучный",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Der Film ist langweilig.",
+    "exampleRu": "Фильм скучный.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0273",
+    "de": "richtig",
+    "ru": "правильный",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Das ist richtig.",
+    "exampleRu": "Это правильно.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0274",
+    "de": "falsch",
+    "ru": "неправильный",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Das ist falsch.",
+    "exampleRu": "Это неправильно.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0275",
+    "de": "offen",
+    "ru": "открытый",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Das Fenster ist offen.",
+    "exampleRu": "Окно открыто.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0276",
+    "de": "geschlossen",
+    "ru": "закрытый",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Die Tür ist geschlossen.",
+    "exampleRu": "Дверь закрыта.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0277",
+    "de": "wichtig",
+    "ru": "важный",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Das ist wichtig.",
+    "exampleRu": "Это важно.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0278",
+    "de": "einfach",
+    "ru": "простой",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Die Aufgabe ist einfach.",
+    "exampleRu": "Задание простое.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0279",
+    "de": "schwierig",
+    "ru": "сложный",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Das ist schwierig.",
+    "exampleRu": "Это сложно.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0280",
+    "de": "bequem",
+    "ru": "удобный",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Der Stuhl ist bequem.",
+    "exampleRu": "Стул удобный.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

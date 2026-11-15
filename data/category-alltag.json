@@ -1,0 +1,166 @@
+[
+  {
+    "id": "w_0040",
+    "de": "der Termin, die Termine",
+    "ru": "назначенная встреча, запись",
+    "categories": [
+      "beruf",
+      "alltag"
+    ],
+    "lesson": 10,
+    "example": "Ich habe morgen einen Termin.",
+    "exampleRu": "У меня завтра назначенная встреча.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0106",
+    "de": "der Morgen",
+    "ru": "утро",
+    "categories": [
+      "alltag"
+    ],
+    "lesson": 5,
+    "example": "Am Morgen trinke ich Kaffee.",
+    "exampleRu": "Утром я пью кофе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0107",
+    "de": "der Abend",
+    "ru": "вечер",
+    "categories": [
+      "alltag"
+    ],
+    "lesson": 5,
+    "example": "Am Abend lese ich.",
+    "exampleRu": "Вечером я читаю.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0108",
+    "de": "früh",
+    "ru": "рано",
+    "categories": [
+      "alltag"
+    ],
+    "lesson": 5,
+    "example": "Ich stehe früh auf.",
+    "exampleRu": "Я рано встаю.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0109",
+    "de": "spät",
+    "ru": "поздно",
+    "categories": [
+      "alltag"
+    ],
+    "lesson": 5,
+    "example": "Heute komme ich spät.",
+    "exampleRu": "Сегодня я приду поздно.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0110",
+    "de": "aufräumen",
+    "ru": "прибирать",
+    "categories": [
+      "alltag",
+      "separable"
+    ],
+    "lesson": 5,
+    "example": "Ich räume mein Zimmer auf.",
+    "exampleRu": "Я убираю свою комнату.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "räumt auf",
+      "perfekt": "hat aufgeräumt"
+    }
+  },
+  {
+    "id": "w_0111",
+    "de": "putzen",
+    "ru": "чистить, убирать",
+    "categories": [
+      "alltag",
+      "regular"
+    ],
+    "lesson": 5,
+    "example": "Ich putze das Bad.",
+    "exampleRu": "Я убираю ванную.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "putzt",
+      "perfekt": "hat geputzt"
+    }
+  },
+  {
+    "id": "w_0112",
+    "de": "schlafen",
+    "ru": "спать",
+    "categories": [
+      "alltag",
+      "strong"
+    ],
+    "lesson": 5,
+    "example": "Ich schlafe acht Stunden.",
+    "exampleRu": "Я сплю восемь часов.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "schläft",
+      "perfekt": "hat geschlafen"
+    }
+  },
+  {
+    "id": "w_0113",
+    "de": "aufstehen",
+    "ru": "вставать",
+    "categories": [
+      "alltag",
+      "separable"
+    ],
+    "lesson": 5,
+    "example": "Ich stehe um sieben auf.",
+    "exampleRu": "Я встаю в семь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "steht auf",
+      "perfekt": "ist aufgestanden"
+    }
+  },
+  {
+    "id": "w_0114",
+    "de": "frühstücken",
+    "ru": "завтракать",
+    "categories": [
+      "alltag"
+    ],
+    "lesson": 5,
+    "example": "Wir frühstücken um acht.",
+    "exampleRu": "Мы завтракаем в восемь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0115",
+    "de": "einkaufen",
+    "ru": "делать покупки",
+    "categories": [
+      "alltag",
+      "separable"
+    ],
+    "lesson": 5,
+    "example": "Ich kaufe heute ein.",
+    "exampleRu": "Я сегодня делаю покупки.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "kauft ein",
+      "perfekt": "hat eingekauft"
+    }
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "id": "w_0014",
+    "de": "die Mutter, die Mütter",
+    "ru": "мама, мать",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Meine Mutter kommt morgen.",
+    "exampleRu": "Моя мама приедет завтра.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0015",
+    "de": "der Bruder, die Brüder",
+    "ru": "брат",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Ich habe einen Bruder.",
+    "exampleRu": "У меня есть брат.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0116",
+    "de": "die Familie",
+    "ru": "семья",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Meine Familie wohnt hier.",
+    "exampleRu": "Моя семья живёт здесь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Familien"
+  },
+  {
+    "id": "w_0117",
+    "de": "die Mutter",
+    "ru": "мама",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Meine Mutter arbeitet.",
+    "exampleRu": "Моя мама работает.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0118",
+    "de": "der Vater",
+    "ru": "папа",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Mein Vater kocht gern.",
+    "exampleRu": "Мой папа любит готовить.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0119",
+    "de": "das Kind",
+    "ru": "ребёнок",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Das Kind spielt.",
+    "exampleRu": "Ребёнок играет.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Kinder"
+  },
+  {
+    "id": "w_0120",
+    "de": "der Sohn",
+    "ru": "сын",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Mein Sohn geht zur Schule.",
+    "exampleRu": "Мой сын ходит в школу.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0121",
+    "de": "die Tochter",
+    "ru": "дочь",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Meine Tochter liest gern.",
+    "exampleRu": "Моя дочь любит читать.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0122",
+    "de": "der Bruder",
+    "ru": "брат",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Mein Bruder wohnt in Berlin.",
+    "exampleRu": "Мой брат живёт в Берлине.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Brüder"
+  },
+  {
+    "id": "w_0123",
+    "de": "die Schwester",
+    "ru": "сестра",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Meine Schwester ist neun Jahre alt.",
+    "exampleRu": "Моей сестре девять лет.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Schwestern"
+  },
+  {
+    "id": "w_0124",
+    "de": "die Eltern",
+    "ru": "родители",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Meine Eltern kommen morgen.",
+    "exampleRu": "Мои родители приезжают завтра.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0125",
+    "de": "der Freund",
+    "ru": "друг",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Mein Freund hilft mir.",
+    "exampleRu": "Мой друг мне помогает.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0126",
+    "de": "die Freundin",
+    "ru": "подруга",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Ich treffe meine Freundin.",
+    "exampleRu": "Я встречаюсь с подругой.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0127",
+    "de": "die Großmutter",
+    "ru": "бабушка",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Meine Großmutter ist fit.",
+    "exampleRu": "Моя бабушка в форме.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

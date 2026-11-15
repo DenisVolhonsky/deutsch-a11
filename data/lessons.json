@@ -1,0 +1,82 @@
+[
+  {
+    "number": 1,
+    "de": "Willkommen!",
+    "ru": "Добро пожаловать!"
+  },
+  {
+    "number": 2,
+    "de": "Neue Kontakte",
+    "ru": "Новые знакомства"
+  },
+  {
+    "number": 3,
+    "de": "Was ist das?",
+    "ru": "Что это?"
+  },
+  {
+    "number": 4,
+    "de": "Im Fitnessstudio",
+    "ru": "В фитнес-клубе"
+  },
+  {
+    "number": 5,
+    "de": "Putzen oder schlafen?",
+    "ru": "Убирать или спать?"
+  },
+  {
+    "number": 6,
+    "de": "Familie und Freunde",
+    "ru": "Семья и друзья"
+  },
+  {
+    "number": 7,
+    "de": "Was isst du gern?",
+    "ru": "Что ты любишь есть?"
+  },
+  {
+    "number": 8,
+    "de": "Von früh bis spät",
+    "ru": "С утра до вечера"
+  },
+  {
+    "number": 9,
+    "de": "Unterwegs im Alltag",
+    "ru": "Повседневные поездки"
+  },
+  {
+    "number": 10,
+    "de": "Im Praktikum",
+    "ru": "На практике"
+  },
+  {
+    "number": 11,
+    "de": "Mein neues Zuhause",
+    "ru": "Мой новый дом"
+  },
+  {
+    "number": 12,
+    "de": "Gesund und munter",
+    "ru": "Здоров и бодр"
+  },
+  {
+    "number": 13,
+    "de": "Andere feiern, ich arbeite",
+    "ru": "Другие празднуют, я работаю"
+  },
+  {
+    "number": 14,
+    "de": "T-Shirt oder Pullover?",
+    "ru": "Футболка или свитер?"
+  },
+  {
+    "number": 15,
+    "de": "Geradeaus bis zur Ampel",
+    "ru": "Прямо до светофора"
+  },
+  {
+    "number": 16,
+    "de": "Urlaub? Urlaub!",
+    "ru": "Отпуск? Отпуск!"
+  }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "id": "w_0021",
+    "de": "der Bus, die Busse",
+    "ru": "автобус",
+    "categories": [
+      "verkehr"
+    ],
+    "lesson": 9,
+    "example": "Ich fahre mit dem Bus.",
+    "exampleRu": "Я еду на автобусе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0022",
+    "de": "der Zug, die Züge",
+    "ru": "поезд",
+    "categories": [
+      "verkehr"
+    ],
+    "lesson": 9,
+    "example": "Der Zug kommt um zehn.",
+    "exampleRu": "Поезд прибывает в десять.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0164",
+    "de": "der Bus",
+    "ru": "автобус",
+    "categories": [
+      "verkehr"
+    ],
+    "lesson": 9,
+    "example": "Ich fahre mit dem Bus.",
+    "exampleRu": "Я еду на автобусе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Busse",
+    "image": "images/photo/bus.webp"
+  },
+  {
+    "id": "w_0165",
+    "de": "die Straßenbahn",
+    "ru": "трамвай",
+    "categories": [
+      "verkehr"
+    ],
+    "lesson": 9,
+    "example": "Wir fahren mit der Straßenbahn.",
+    "exampleRu": "Мы едем на трамвае.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0166",
+    "de": "der Zug",
+    "ru": "поезд",
+    "categories": [
+      "verkehr"
+    ],
+    "lesson": 9,
+    "example": "Der Zug kommt später.",
+    "exampleRu": "Поезд прибывает позже.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Züge",
+    "image": "images/photo/zug.webp"
+  },
+  {
+    "id": "w_0167",
+    "de": "die U-Bahn",
+    "ru": "метро",
+    "categories": [
+      "verkehr"
+    ],
+    "lesson": 9,
+    "example": "Ich fahre mit der U-Bahn.",
+    "exampleRu": "Я еду на метро.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0168",
+    "de": "die S-Bahn",
+    "ru": "городская электричка",
+    "categories": [
+      "verkehr"
+    ],
+    "lesson": 9,
+    "example": "Wir nehmen die S-Bahn.",
+    "exampleRu": "Мы поедем на электричке.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0169",
+    "de": "das Auto",
+    "ru": "автомобиль",
+    "categories": [
+      "verkehr"
+    ],
+    "lesson": 9,
+    "example": "Ich fahre mit dem Auto.",
+    "exampleRu": "Я еду на машине.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Autos"
+  },
+  {
+    "id": "w_0170",
+    "de": "das Flugzeug",
+    "ru": "самолёт",
+    "categories": [
+      "verkehr"
+    ],
+    "lesson": 9,
+    "example": "Das Flugzeug fliegt nach Wien.",
+    "exampleRu": "Самолёт летит в Вену.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0171",
+    "de": "das Ticket",
+    "ru": "билет",
+    "categories": [
+      "verkehr"
+    ],
+    "lesson": 9,
+    "example": "Ich brauche ein Ticket.",
+    "exampleRu": "Мне нужен билет.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0172",
+    "de": "der Bahnhof",
+    "ru": "вокзал",
+    "categories": [
+      "verkehr"
+    ],
+    "lesson": 9,
+    "example": "Wo ist der Bahnhof?",
+    "exampleRu": "Где вокзал?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0173",
+    "de": "der Fahrplan",
+    "ru": "расписание",
+    "categories": [
+      "verkehr"
+    ],
+    "lesson": 9,
+    "example": "Wo ist der Fahrplan?",
+    "exampleRu": "Где расписание?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

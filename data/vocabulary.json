@@ -1,0 +1,6764 @@
+[
+  {
+    "id": "w_0001",
+    "de": "Guten Morgen!",
+    "ru": "Доброе утро!",
+    "categories": [
+      "begr",
+      "phrases"
+    ],
+    "lesson": 1,
+    "example": "Guten Morgen! Wie geht es dir?",
+    "exampleRu": "Доброе утро! Как дела?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0002",
+    "de": "Guten Tag!",
+    "ru": "Добрый день!",
+    "categories": [
+      "begr"
+    ],
+    "lesson": 1,
+    "example": "Guten Tag, Frau Müller!",
+    "exampleRu": "Добрый день, госпожа Мюллер!",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0003",
+    "de": "Ich heiße …",
+    "ru": "Меня зовут …",
+    "categories": [
+      "person",
+      "phrases"
+    ],
+    "lesson": 1,
+    "example": "Ich heiße Anna.",
+    "exampleRu": "Меня зовут Анна.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0004",
+    "de": "Woher kommst du?",
+    "ru": "Откуда ты?",
+    "categories": [
+      "person"
+    ],
+    "lesson": 1,
+    "example": "Ich komme aus Deutschland.",
+    "exampleRu": "Я из Германии.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0005",
+    "de": "der Arzt, die Ärzte",
+    "ru": "врач",
+    "categories": [
+      "beruf"
+    ],
+    "lesson": 2,
+    "example": "Der Arzt arbeitet heute.",
+    "exampleRu": "Врач сегодня работает.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0006",
+    "de": "die Lehrerin, die Lehrerinnen",
+    "ru": "учительница",
+    "categories": [
+      "beruf"
+    ],
+    "lesson": 2,
+    "example": "Sie ist Lehrerin.",
+    "exampleRu": "Она учительница.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0007",
+    "de": "zehn",
+    "ru": "десять",
+    "categories": [
+      "zahlen"
+    ],
+    "lesson": 2,
+    "example": "Ich habe zehn Euro.",
+    "exampleRu": "У меня десять евро.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0008",
+    "de": "acht Uhr",
+    "ru": "восемь часов",
+    "categories": [
+      "zahlen"
+    ],
+    "lesson": 8,
+    "example": "Es ist acht Uhr.",
+    "exampleRu": "Сейчас восемь часов.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0009",
+    "de": "der Tisch, die Tische",
+    "ru": "стол",
+    "categories": [
+      "gegen",
+      "wohnen"
+    ],
+    "lesson": 3,
+    "example": "Der Tisch steht im Zimmer.",
+    "exampleRu": "Стол стоит в комнате.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0010",
+    "de": "der Stuhl, die Stühle",
+    "ru": "стул",
+    "categories": [
+      "gegen",
+      "wohnen"
+    ],
+    "lesson": 3,
+    "example": "Der Stuhl ist bequem.",
+    "exampleRu": "Стул удобный.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0011",
+    "de": "rot",
+    "ru": "красный",
+    "categories": [
+      "farben",
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 3,
+    "example": "Die Tasche ist rot.",
+    "exampleRu": "Сумка красная.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0012",
+    "de": "blau",
+    "ru": "синий",
+    "categories": [
+      "farben",
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 3,
+    "example": "Das Auto ist blau.",
+    "exampleRu": "Машина синяя.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0013",
+    "de": "Fußball spielen",
+    "ru": "играть в футбол",
+    "categories": [
+      "freizeit"
+    ],
+    "lesson": 4,
+    "example": "Wir spielen am Sonntag Fußball.",
+    "exampleRu": "Мы играем в футбол в воскресенье.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0014",
+    "de": "die Mutter, die Mütter",
+    "ru": "мама, мать",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Meine Mutter kommt morgen.",
+    "exampleRu": "Моя мама приедет завтра.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0015",
+    "de": "der Bruder, die Brüder",
+    "ru": "брат",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Ich habe einen Bruder.",
+    "exampleRu": "У меня есть брат.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0016",
+    "de": "der Apfel, die Äpfel",
+    "ru": "яблоко",
+    "categories": [
+      "essen",
+      "einkauf"
+    ],
+    "lesson": 7,
+    "example": "Ich esse einen Apfel.",
+    "exampleRu": "Я ем яблоко.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0017",
+    "de": "das Brot, die Brote",
+    "ru": "хлеб",
+    "categories": [
+      "essen",
+      "einkauf"
+    ],
+    "lesson": 7,
+    "example": "Ich kaufe Brot.",
+    "exampleRu": "Я покупаю хлеб.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0018",
+    "de": "Wie viel kostet das?",
+    "ru": "Сколько это стоит?",
+    "categories": [
+      "einkauf",
+      "phrases"
+    ],
+    "lesson": 7,
+    "example": "Wie viel kostet das Brot?",
+    "exampleRu": "Сколько стоит хлеб?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0019",
+    "de": "der Regen",
+    "ru": "дождь",
+    "categories": [
+      "wetter"
+    ],
+    "lesson": 8,
+    "example": "Heute gibt es Regen.",
+    "exampleRu": "Сегодня дождь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0020",
+    "de": "die Sonne",
+    "ru": "солнце",
+    "categories": [
+      "wetter"
+    ],
+    "lesson": 8,
+    "example": "Die Sonne scheint.",
+    "exampleRu": "Светит солнце.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "image": "images/photo/sonne.webp"
+  },
+  {
+    "id": "w_0021",
+    "de": "der Bus, die Busse",
+    "ru": "автобус",
+    "categories": [
+      "verkehr"
+    ],
+    "lesson": 9,
+    "example": "Ich fahre mit dem Bus.",
+    "exampleRu": "Я еду на автобусе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0022",
+    "de": "der Zug, die Züge",
+    "ru": "поезд",
+    "categories": [
+      "verkehr"
+    ],
+    "lesson": 9,
+    "example": "Der Zug kommt um zehn.",
+    "exampleRu": "Поезд прибывает в десять.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0023",
+    "de": "links",
+    "ru": "слева, налево",
+    "categories": [
+      "wege"
+    ],
+    "lesson": 15,
+    "example": "Gehen Sie hier links.",
+    "exampleRu": "Поверните здесь налево.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0024",
+    "de": "rechts",
+    "ru": "справа, направо",
+    "categories": [
+      "wege"
+    ],
+    "lesson": 15,
+    "example": "Dann gehen Sie rechts.",
+    "exampleRu": "Затем поверните направо.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0025",
+    "de": "die Küche, die Küchen",
+    "ru": "кухня",
+    "categories": [
+      "wohnen",
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Die Küche ist hell.",
+    "exampleRu": "Кухня светлая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0026",
+    "de": "der Schrank, die Schränke",
+    "ru": "шкаф",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Der Schrank steht im Schlafzimmer.",
+    "exampleRu": "Шкаф стоит в спальне.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0027",
+    "de": "der Teller, die Teller",
+    "ru": "тарелка",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Der Teller steht auf dem Tisch.",
+    "exampleRu": "Тарелка стоит на столе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0028",
+    "de": "die Tasse, die Tassen",
+    "ru": "чашка",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Die Tasse ist sauber.",
+    "exampleRu": "Чашка чистая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0029",
+    "de": "der Kopf, die Köpfe",
+    "ru": "голова",
+    "categories": [
+      "gesund"
+    ],
+    "lesson": 12,
+    "example": "Mein Kopf tut weh.",
+    "exampleRu": "У меня болит голова.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0030",
+    "de": "zum Arzt gehen",
+    "ru": "идти к врачу",
+    "categories": [
+      "gesund"
+    ],
+    "lesson": 12,
+    "example": "Ich muss zum Arzt gehen.",
+    "exampleRu": "Мне нужно пойти к врачу.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0031",
+    "de": "der Geburtstag, die Geburtstage",
+    "ru": "день рождения",
+    "categories": [
+      "feste"
+    ],
+    "lesson": 13,
+    "example": "Heute habe ich Geburtstag.",
+    "exampleRu": "У меня сегодня день рождения.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0032",
+    "de": "das Geschenk, die Geschenke",
+    "ru": "подарок",
+    "categories": [
+      "feste"
+    ],
+    "lesson": 13,
+    "example": "Das Geschenk ist für dich.",
+    "exampleRu": "Этот подарок для тебя.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0033",
+    "de": "die Jacke, die Jacken",
+    "ru": "куртка",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Die Jacke ist warm.",
+    "exampleRu": "Куртка тёплая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0034",
+    "de": "die Hose, die Hosen",
+    "ru": "брюки",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Die Hose ist zu groß.",
+    "exampleRu": "Брюки слишком большие.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0035",
+    "de": "der Urlaub",
+    "ru": "отпуск",
+    "categories": [
+      "reisen"
+    ],
+    "lesson": 16,
+    "example": "Wir machen Urlaub in Italien.",
+    "exampleRu": "Мы отдыхаем в Италии.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0036",
+    "de": "das Hotel, die Hotels",
+    "ru": "отель",
+    "categories": [
+      "reisen"
+    ],
+    "lesson": 16,
+    "example": "Das Hotel ist in der Stadt.",
+    "exampleRu": "Отель находится в городе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0037",
+    "de": "groß",
+    "ru": "большой",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 11,
+    "example": "Das Zimmer ist groß.",
+    "exampleRu": "Комната большая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0038",
+    "de": "klein",
+    "ru": "маленький",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 11,
+    "example": "Das Bad ist klein.",
+    "exampleRu": "Ванная маленькая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0039",
+    "de": "Entschuldigung!",
+    "ru": "Извините!",
+    "categories": [
+      "phrases"
+    ],
+    "lesson": 15,
+    "example": "Entschuldigung, wo ist der Bahnhof?",
+    "exampleRu": "Извините, где вокзал?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0040",
+    "de": "der Termin, die Termine",
+    "ru": "назначенная встреча, запись",
+    "categories": [
+      "beruf",
+      "alltag"
+    ],
+    "lesson": 10,
+    "example": "Ich habe morgen einen Termin.",
+    "exampleRu": "У меня завтра назначенная встреча.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0041",
+    "de": "der Pullover, die Pullover",
+    "ru": "свитер",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Der Pullover ist blau.",
+    "exampleRu": "Свитер синий.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0042",
+    "de": "Hallo",
+    "ru": "привет",
+    "categories": [
+      "begr"
+    ],
+    "lesson": 1,
+    "example": "Hallo, wie geht es dir?",
+    "exampleRu": "Привет, как у тебя дела?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0043",
+    "de": "Guten Abend",
+    "ru": "добрый вечер",
+    "categories": [
+      "begr"
+    ],
+    "lesson": 1,
+    "example": "Guten Abend, Frau Klein!",
+    "exampleRu": "Добрый вечер, госпожа Кляйн!",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0044",
+    "de": "Gute Nacht",
+    "ru": "спокойной ночи",
+    "categories": [
+      "begr"
+    ],
+    "lesson": 1,
+    "example": "Gute Nacht, bis morgen!",
+    "exampleRu": "Спокойной ночи, до завтра!",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0045",
+    "de": "Auf Wiedersehen",
+    "ru": "до свидания",
+    "categories": [
+      "begr"
+    ],
+    "lesson": 1,
+    "example": "Auf Wiedersehen, bis Montag!",
+    "exampleRu": "До свидания, до понедельника!",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0046",
+    "de": "Tschüss",
+    "ru": "пока",
+    "categories": [
+      "begr"
+    ],
+    "lesson": 1,
+    "example": "Tschüss, bis bald!",
+    "exampleRu": "Пока, до скорого!",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0047",
+    "de": "Bis später",
+    "ru": "до встречи позже",
+    "categories": [
+      "begr"
+    ],
+    "lesson": 1,
+    "example": "Bis später im Kurs!",
+    "exampleRu": "До встречи позже на курсах!",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0048",
+    "de": "Danke",
+    "ru": "спасибо",
+    "categories": [
+      "begr"
+    ],
+    "lesson": 1,
+    "example": "Danke für deine Hilfe.",
+    "exampleRu": "Спасибо за твою помощь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0049",
+    "de": "Bitte",
+    "ru": "пожалуйста",
+    "categories": [
+      "begr"
+    ],
+    "lesson": 1,
+    "example": "Ein Wasser, bitte.",
+    "exampleRu": "Воду, пожалуйста.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0050",
+    "de": "Entschuldigung",
+    "ru": "извините",
+    "categories": [
+      "begr"
+    ],
+    "lesson": 1,
+    "example": "Entschuldigung, wo ist der Bahnhof?",
+    "exampleRu": "Извините, где вокзал?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0051",
+    "de": "der Name",
+    "ru": "имя",
+    "categories": [
+      "person"
+    ],
+    "lesson": 1,
+    "example": "Wie ist dein Name?",
+    "exampleRu": "Как тебя зовут?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0052",
+    "de": "der Vorname",
+    "ru": "имя",
+    "categories": [
+      "person"
+    ],
+    "lesson": 1,
+    "example": "Mein Vorname ist Anna.",
+    "exampleRu": "Меня зовут Анна.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0053",
+    "de": "der Nachname",
+    "ru": "фамилия",
+    "categories": [
+      "person"
+    ],
+    "lesson": 1,
+    "example": "Wie ist Ihr Nachname?",
+    "exampleRu": "Какая у вас фамилия?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0054",
+    "de": "die Adresse",
+    "ru": "адрес",
+    "categories": [
+      "person"
+    ],
+    "lesson": 1,
+    "example": "Wie ist deine Adresse?",
+    "exampleRu": "Какой у тебя адрес?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0055",
+    "de": "die Telefonnummer",
+    "ru": "номер телефона",
+    "categories": [
+      "person"
+    ],
+    "lesson": 1,
+    "example": "Was ist deine Telefonnummer?",
+    "exampleRu": "Какой у тебя номер телефона?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0056",
+    "de": "die E-Mail-Adresse",
+    "ru": "адрес электронной почты",
+    "categories": [
+      "person"
+    ],
+    "lesson": 1,
+    "example": "Ich brauche deine E-Mail-Adresse.",
+    "exampleRu": "Мне нужен твой адрес электронной почты.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0057",
+    "de": "das Land",
+    "ru": "страна",
+    "categories": [
+      "person"
+    ],
+    "lesson": 1,
+    "example": "Aus welchem Land kommst du?",
+    "exampleRu": "Из какой ты страны?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0058",
+    "de": "die Stadt",
+    "ru": "город",
+    "categories": [
+      "person"
+    ],
+    "lesson": 1,
+    "example": "Ich wohne in einer Stadt.",
+    "exampleRu": "Я живу в городе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Städte"
+  },
+  {
+    "id": "w_0059",
+    "de": "die Sprache",
+    "ru": "язык",
+    "categories": [
+      "person"
+    ],
+    "lesson": 1,
+    "example": "Welche Sprachen sprichst du?",
+    "exampleRu": "На каких языках ты говоришь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0060",
+    "de": "ledig",
+    "ru": "неженатый, незамужняя",
+    "categories": [
+      "person"
+    ],
+    "lesson": 1,
+    "example": "Ich bin ledig.",
+    "exampleRu": "Я не женат.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0061",
+    "de": "verheiratet",
+    "ru": "женатый, замужняя",
+    "categories": [
+      "person"
+    ],
+    "lesson": 1,
+    "example": "Ich bin verheiratet.",
+    "exampleRu": "Я женат.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0062",
+    "de": "der Beruf",
+    "ru": "профессия",
+    "categories": [
+      "beruf"
+    ],
+    "lesson": 2,
+    "example": "Was bist du von Beruf?",
+    "exampleRu": "Кто ты по профессии?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0063",
+    "de": "der Arzt",
+    "ru": "врач",
+    "categories": [
+      "beruf"
+    ],
+    "lesson": 2,
+    "example": "Der Arzt arbeitet im Krankenhaus.",
+    "exampleRu": "Врач работает в больнице.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Ärzte"
+  },
+  {
+    "id": "w_0064",
+    "de": "die Ärztin",
+    "ru": "врач (женщина)",
+    "categories": [
+      "beruf"
+    ],
+    "lesson": 2,
+    "example": "Die Ärztin ist heute da.",
+    "exampleRu": "Врач сегодня здесь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Ärztinnen"
+  },
+  {
+    "id": "w_0065",
+    "de": "der Lehrer",
+    "ru": "учитель",
+    "categories": [
+      "beruf"
+    ],
+    "lesson": 2,
+    "example": "Mein Lehrer spricht Deutsch.",
+    "exampleRu": "Мой учитель говорит по-немецки.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0066",
+    "de": "die Lehrerin",
+    "ru": "учительница",
+    "categories": [
+      "beruf"
+    ],
+    "lesson": 2,
+    "example": "Die Lehrerin erklärt die Aufgabe.",
+    "exampleRu": "Учительница объясняет задание.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0067",
+    "de": "der Verkäufer",
+    "ru": "продавец",
+    "categories": [
+      "beruf"
+    ],
+    "lesson": 2,
+    "example": "Der Verkäufer hilft mir.",
+    "exampleRu": "Продавец мне помогает.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0068",
+    "de": "das Büro",
+    "ru": "офис",
+    "categories": [
+      "beruf"
+    ],
+    "lesson": 2,
+    "example": "Ich arbeite im Büro.",
+    "exampleRu": "Я работаю в офисе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0069",
+    "de": "die Firma",
+    "ru": "фирма",
+    "categories": [
+      "beruf"
+    ],
+    "lesson": 2,
+    "example": "Ich arbeite bei einer Firma.",
+    "exampleRu": "Я работаю в фирме.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0070",
+    "de": "der Kollege",
+    "ru": "коллега",
+    "categories": [
+      "beruf"
+    ],
+    "lesson": 2,
+    "example": "Mein Kollege ist im Urlaub.",
+    "exampleRu": "Мой коллега в отпуске.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0071",
+    "de": "die Arbeit",
+    "ru": "работа",
+    "categories": [
+      "beruf"
+    ],
+    "lesson": 2,
+    "example": "Ich gehe zur Arbeit.",
+    "exampleRu": "Я иду на работу.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0072",
+    "de": "null",
+    "ru": "ноль",
+    "categories": [
+      "zahlen"
+    ],
+    "lesson": 2,
+    "example": "Das kostet null Euro.",
+    "exampleRu": "Это стоит ноль евро.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0073",
+    "de": "eins",
+    "ru": "один",
+    "categories": [
+      "zahlen"
+    ],
+    "lesson": 2,
+    "example": "Ich habe nur einen Euro.",
+    "exampleRu": "У меня только один евро.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0074",
+    "de": "zwei",
+    "ru": "два",
+    "categories": [
+      "zahlen"
+    ],
+    "lesson": 2,
+    "example": "Wir haben zwei Kinder.",
+    "exampleRu": "У нас двое детей.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0075",
+    "de": "drei",
+    "ru": "три",
+    "categories": [
+      "zahlen"
+    ],
+    "lesson": 2,
+    "example": "Ich komme um drei Uhr.",
+    "exampleRu": "Я приду в три часа.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0076",
+    "de": "zwanzig",
+    "ru": "двадцать",
+    "categories": [
+      "zahlen"
+    ],
+    "lesson": 2,
+    "example": "Ich habe zwanzig Minuten.",
+    "exampleRu": "У меня двадцать минут.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0077",
+    "de": "hundert",
+    "ru": "сто",
+    "categories": [
+      "zahlen"
+    ],
+    "lesson": 2,
+    "example": "Das kostet hundert Euro.",
+    "exampleRu": "Это стоит сто евро.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0078",
+    "de": "die Uhr",
+    "ru": "часы",
+    "categories": [
+      "zahlen"
+    ],
+    "lesson": 2,
+    "example": "Wie viel Uhr ist es?",
+    "exampleRu": "Который час?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Uhren",
+    "image": "images/photo/uhr.webp"
+  },
+  {
+    "id": "w_0079",
+    "de": "die Minute",
+    "ru": "минута",
+    "categories": [
+      "zahlen"
+    ],
+    "lesson": 2,
+    "example": "Warte eine Minute.",
+    "exampleRu": "Подожди минуту.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0080",
+    "de": "die Stunde",
+    "ru": "час",
+    "categories": [
+      "zahlen"
+    ],
+    "lesson": 2,
+    "example": "Ich brauche eine Stunde.",
+    "exampleRu": "Мне нужен час.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0081",
+    "de": "das Buch",
+    "ru": "книга",
+    "categories": [
+      "gegen"
+    ],
+    "lesson": 3,
+    "example": "Ich lese ein Buch.",
+    "exampleRu": "Я читаю книгу.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Bücher",
+    "image": "images/photo/buch.webp"
+  },
+  {
+    "id": "w_0082",
+    "de": "der Stift",
+    "ru": "ручка, карандаш",
+    "categories": [
+      "gegen"
+    ],
+    "lesson": 3,
+    "example": "Hast du einen Stift?",
+    "exampleRu": "У тебя есть ручка?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0083",
+    "de": "der Schlüssel",
+    "ru": "ключ",
+    "categories": [
+      "gegen"
+    ],
+    "lesson": 3,
+    "example": "Wo ist mein Schlüssel?",
+    "exampleRu": "Где мой ключ?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0084",
+    "de": "die Tasche",
+    "ru": "сумка",
+    "categories": [
+      "gegen"
+    ],
+    "lesson": 3,
+    "example": "Meine Tasche ist schwer.",
+    "exampleRu": "Моя сумка тяжёлая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Taschen"
+  },
+  {
+    "id": "w_0085",
+    "de": "das Handy",
+    "ru": "мобильный телефон",
+    "categories": [
+      "gegen"
+    ],
+    "lesson": 3,
+    "example": "Mein Handy ist neu.",
+    "exampleRu": "Мой телефон новый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0086",
+    "de": "der Tisch",
+    "ru": "стол",
+    "categories": [
+      "gegen"
+    ],
+    "lesson": 3,
+    "example": "Das Buch liegt auf dem Tisch.",
+    "exampleRu": "Книга лежит на столе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Tische"
+  },
+  {
+    "id": "w_0087",
+    "de": "der Stuhl",
+    "ru": "стул",
+    "categories": [
+      "gegen"
+    ],
+    "lesson": 3,
+    "example": "Der Stuhl steht am Fenster.",
+    "exampleRu": "Стул стоит у окна.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Stühle"
+  },
+  {
+    "id": "w_0088",
+    "de": "die Brille",
+    "ru": "очки",
+    "categories": [
+      "gegen"
+    ],
+    "lesson": 3,
+    "example": "Ich brauche meine Brille.",
+    "exampleRu": "Мне нужны мои очки.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0089",
+    "de": "der Regenschirm",
+    "ru": "зонт",
+    "categories": [
+      "gegen"
+    ],
+    "lesson": 3,
+    "example": "Nimm einen Regenschirm mit.",
+    "exampleRu": "Возьми с собой зонт.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0090",
+    "de": "der Rucksack",
+    "ru": "рюкзак",
+    "categories": [
+      "gegen"
+    ],
+    "lesson": 3,
+    "example": "Mein Rucksack ist blau.",
+    "exampleRu": "Мой рюкзак синий.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0091",
+    "de": "grün",
+    "ru": "зелёный",
+    "categories": [
+      "farben"
+    ],
+    "lesson": 14,
+    "example": "Die Tasche ist grün.",
+    "exampleRu": "Сумка зелёная.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0092",
+    "de": "gelb",
+    "ru": "жёлтый",
+    "categories": [
+      "farben"
+    ],
+    "lesson": 14,
+    "example": "Die Banane ist gelb.",
+    "exampleRu": "Банан жёлтый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0093",
+    "de": "schwarz",
+    "ru": "чёрный",
+    "categories": [
+      "farben"
+    ],
+    "lesson": 14,
+    "example": "Die Schuhe sind schwarz.",
+    "exampleRu": "Туфли чёрные.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0094",
+    "de": "weiß",
+    "ru": "белый",
+    "categories": [
+      "farben"
+    ],
+    "lesson": 14,
+    "example": "Das T-Shirt ist weiß.",
+    "exampleRu": "Футболка белая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0095",
+    "de": "grau",
+    "ru": "серый",
+    "categories": [
+      "farben"
+    ],
+    "lesson": 14,
+    "example": "Der Pullover ist grau.",
+    "exampleRu": "Свитер серый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0096",
+    "de": "braun",
+    "ru": "коричневый",
+    "categories": [
+      "farben"
+    ],
+    "lesson": 14,
+    "example": "Der Tisch ist braun.",
+    "exampleRu": "Стол коричневый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0097",
+    "de": "der Sport",
+    "ru": "спорт",
+    "categories": [
+      "freizeit"
+    ],
+    "lesson": 4,
+    "example": "Machst du gern Sport?",
+    "exampleRu": "Ты любишь заниматься спортом?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0098",
+    "de": "das Fitnessstudio",
+    "ru": "фитнес-клуб",
+    "categories": [
+      "freizeit"
+    ],
+    "lesson": 4,
+    "example": "Ich gehe ins Fitnessstudio.",
+    "exampleRu": "Я хожу в фитнес-клуб.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0099",
+    "de": "das Fahrrad",
+    "ru": "велосипед",
+    "categories": [
+      "freizeit"
+    ],
+    "lesson": 4,
+    "example": "Ich fahre Fahrrad.",
+    "exampleRu": "Я езжу на велосипеде.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "image": "images/photo/fahrrad.webp"
+  },
+  {
+    "id": "w_0100",
+    "de": "schwimmen",
+    "ru": "плавать",
+    "categories": [
+      "freizeit",
+      "strong"
+    ],
+    "lesson": 4,
+    "example": "Ich schwimme im See.",
+    "exampleRu": "Я плаваю в озере.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "schwimmt",
+      "perfekt": "ist geschwommen"
+    }
+  },
+  {
+    "id": "w_0101",
+    "de": "tanzen",
+    "ru": "танцевать",
+    "categories": [
+      "freizeit"
+    ],
+    "lesson": 4,
+    "example": "Wir tanzen am Wochenende.",
+    "exampleRu": "Мы танцуем на выходных.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0102",
+    "de": "wandern",
+    "ru": "ходить в походы",
+    "categories": [
+      "freizeit"
+    ],
+    "lesson": 4,
+    "example": "Wir wandern in den Bergen.",
+    "exampleRu": "Мы ходим в походы в горах.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0103",
+    "de": "spazieren gehen",
+    "ru": "гулять",
+    "categories": [
+      "freizeit"
+    ],
+    "lesson": 4,
+    "example": "Wir gehen spazieren.",
+    "exampleRu": "Мы идём гулять.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0104",
+    "de": "das Hobby",
+    "ru": "увлечение",
+    "categories": [
+      "freizeit"
+    ],
+    "lesson": 4,
+    "example": "Was ist dein Hobby?",
+    "exampleRu": "Какое у тебя хобби?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0105",
+    "de": "das Spiel",
+    "ru": "игра",
+    "categories": [
+      "freizeit"
+    ],
+    "lesson": 4,
+    "example": "Das Spiel macht Spaß.",
+    "exampleRu": "Игра доставляет удовольствие.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0106",
+    "de": "der Morgen",
+    "ru": "утро",
+    "categories": [
+      "alltag"
+    ],
+    "lesson": 5,
+    "example": "Am Morgen trinke ich Kaffee.",
+    "exampleRu": "Утром я пью кофе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0107",
+    "de": "der Abend",
+    "ru": "вечер",
+    "categories": [
+      "alltag"
+    ],
+    "lesson": 5,
+    "example": "Am Abend lese ich.",
+    "exampleRu": "Вечером я читаю.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0108",
+    "de": "früh",
+    "ru": "рано",
+    "categories": [
+      "alltag"
+    ],
+    "lesson": 5,
+    "example": "Ich stehe früh auf.",
+    "exampleRu": "Я рано встаю.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0109",
+    "de": "spät",
+    "ru": "поздно",
+    "categories": [
+      "alltag"
+    ],
+    "lesson": 5,
+    "example": "Heute komme ich spät.",
+    "exampleRu": "Сегодня я приду поздно.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0110",
+    "de": "aufräumen",
+    "ru": "прибирать",
+    "categories": [
+      "alltag",
+      "separable"
+    ],
+    "lesson": 5,
+    "example": "Ich räume mein Zimmer auf.",
+    "exampleRu": "Я убираю свою комнату.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "räumt auf",
+      "perfekt": "hat aufgeräumt"
+    }
+  },
+  {
+    "id": "w_0111",
+    "de": "putzen",
+    "ru": "чистить, убирать",
+    "categories": [
+      "alltag",
+      "regular"
+    ],
+    "lesson": 5,
+    "example": "Ich putze das Bad.",
+    "exampleRu": "Я убираю ванную.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "putzt",
+      "perfekt": "hat geputzt"
+    }
+  },
+  {
+    "id": "w_0112",
+    "de": "schlafen",
+    "ru": "спать",
+    "categories": [
+      "alltag",
+      "strong"
+    ],
+    "lesson": 5,
+    "example": "Ich schlafe acht Stunden.",
+    "exampleRu": "Я сплю восемь часов.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "schläft",
+      "perfekt": "hat geschlafen"
+    }
+  },
+  {
+    "id": "w_0113",
+    "de": "aufstehen",
+    "ru": "вставать",
+    "categories": [
+      "alltag",
+      "separable"
+    ],
+    "lesson": 5,
+    "example": "Ich stehe um sieben auf.",
+    "exampleRu": "Я встаю в семь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "steht auf",
+      "perfekt": "ist aufgestanden"
+    }
+  },
+  {
+    "id": "w_0114",
+    "de": "frühstücken",
+    "ru": "завтракать",
+    "categories": [
+      "alltag"
+    ],
+    "lesson": 5,
+    "example": "Wir frühstücken um acht.",
+    "exampleRu": "Мы завтракаем в восемь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0115",
+    "de": "einkaufen",
+    "ru": "делать покупки",
+    "categories": [
+      "alltag",
+      "separable"
+    ],
+    "lesson": 5,
+    "example": "Ich kaufe heute ein.",
+    "exampleRu": "Я сегодня делаю покупки.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "kauft ein",
+      "perfekt": "hat eingekauft"
+    }
+  },
+  {
+    "id": "w_0116",
+    "de": "die Familie",
+    "ru": "семья",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Meine Familie wohnt hier.",
+    "exampleRu": "Моя семья живёт здесь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Familien"
+  },
+  {
+    "id": "w_0117",
+    "de": "die Mutter",
+    "ru": "мама",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Meine Mutter arbeitet.",
+    "exampleRu": "Моя мама работает.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0118",
+    "de": "der Vater",
+    "ru": "папа",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Mein Vater kocht gern.",
+    "exampleRu": "Мой папа любит готовить.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0119",
+    "de": "das Kind",
+    "ru": "ребёнок",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Das Kind spielt.",
+    "exampleRu": "Ребёнок играет.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Kinder"
+  },
+  {
+    "id": "w_0120",
+    "de": "der Sohn",
+    "ru": "сын",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Mein Sohn geht zur Schule.",
+    "exampleRu": "Мой сын ходит в школу.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0121",
+    "de": "die Tochter",
+    "ru": "дочь",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Meine Tochter liest gern.",
+    "exampleRu": "Моя дочь любит читать.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0122",
+    "de": "der Bruder",
+    "ru": "брат",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Mein Bruder wohnt in Berlin.",
+    "exampleRu": "Мой брат живёт в Берлине.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Brüder"
+  },
+  {
+    "id": "w_0123",
+    "de": "die Schwester",
+    "ru": "сестра",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Meine Schwester ist neun Jahre alt.",
+    "exampleRu": "Моей сестре девять лет.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Schwestern"
+  },
+  {
+    "id": "w_0124",
+    "de": "die Eltern",
+    "ru": "родители",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Meine Eltern kommen morgen.",
+    "exampleRu": "Мои родители приезжают завтра.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0125",
+    "de": "der Freund",
+    "ru": "друг",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Mein Freund hilft mir.",
+    "exampleRu": "Мой друг мне помогает.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0126",
+    "de": "die Freundin",
+    "ru": "подруга",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Ich treffe meine Freundin.",
+    "exampleRu": "Я встречаюсь с подругой.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0127",
+    "de": "die Großmutter",
+    "ru": "бабушка",
+    "categories": [
+      "familie"
+    ],
+    "lesson": 6,
+    "example": "Meine Großmutter ist fit.",
+    "exampleRu": "Моя бабушка в форме.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0128",
+    "de": "der Apfel",
+    "ru": "яблоко",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Ich esse einen Apfel.",
+    "exampleRu": "Я ем яблоко.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Äpfel",
+    "image": "images/photo/apfel.webp"
+  },
+  {
+    "id": "w_0129",
+    "de": "die Banane",
+    "ru": "банан",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Die Banane ist gelb.",
+    "exampleRu": "Банан жёлтый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Bananen"
+  },
+  {
+    "id": "w_0130",
+    "de": "das Brot",
+    "ru": "хлеб",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Ich kaufe Brot.",
+    "exampleRu": "Я покупаю хлеб.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "image": "images/photo/brot.webp"
+  },
+  {
+    "id": "w_0131",
+    "de": "die Milch",
+    "ru": "молоко",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Ich trinke Milch.",
+    "exampleRu": "Я пью молоко.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0132",
+    "de": "das Wasser",
+    "ru": "вода",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Ich trinke gern Wasser.",
+    "exampleRu": "Я люблю пить воду.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "image": "images/photo/wasser.webp"
+  },
+  {
+    "id": "w_0133",
+    "de": "der Kaffee",
+    "ru": "кофе",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Ich möchte einen Kaffee.",
+    "exampleRu": "Я хотел бы кофе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "image": "images/photo/kaffee.webp"
+  },
+  {
+    "id": "w_0134",
+    "de": "der Tee",
+    "ru": "чай",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Möchtest du Tee?",
+    "exampleRu": "Хочешь чай?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0135",
+    "de": "das Gemüse",
+    "ru": "овощи",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Ich esse gern Gemüse.",
+    "exampleRu": "Я люблю есть овощи.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0136",
+    "de": "das Obst",
+    "ru": "фрукты",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Obst ist gesund.",
+    "exampleRu": "Фрукты полезны.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0137",
+    "de": "der Käse",
+    "ru": "сыр",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Ich esse Brot mit Käse.",
+    "exampleRu": "Я ем хлеб с сыром.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0138",
+    "de": "die Butter",
+    "ru": "сливочное масло",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Ich brauche Butter.",
+    "exampleRu": "Мне нужно масло.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0139",
+    "de": "das Ei",
+    "ru": "яйцо",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Ich möchte ein Ei.",
+    "exampleRu": "Я хочу яйцо.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0140",
+    "de": "das Fleisch",
+    "ru": "мясо",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Isst du Fleisch?",
+    "exampleRu": "Ты ешь мясо?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0141",
+    "de": "der Fisch",
+    "ru": "рыба",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Ich esse heute Fisch.",
+    "exampleRu": "Сегодня я ем рыбу.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0142",
+    "de": "der Reis",
+    "ru": "рис",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Wir kochen Reis.",
+    "exampleRu": "Мы готовим рис.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0143",
+    "de": "die Kartoffel",
+    "ru": "картофель",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Ich kaufe Kartoffeln.",
+    "exampleRu": "Я покупаю картофель.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0144",
+    "de": "die Tomate",
+    "ru": "помидор",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Die Tomate ist rot.",
+    "exampleRu": "Помидор красный.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Tomaten"
+  },
+  {
+    "id": "w_0145",
+    "de": "das Salz",
+    "ru": "соль",
+    "categories": [
+      "essen"
+    ],
+    "lesson": 7,
+    "example": "Gib mir bitte das Salz.",
+    "exampleRu": "Передай, пожалуйста, соль.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0146",
+    "de": "der Supermarkt",
+    "ru": "супермаркет",
+    "categories": [
+      "einkauf"
+    ],
+    "lesson": 7,
+    "example": "Ich gehe zum Supermarkt.",
+    "exampleRu": "Я иду в супермаркет.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0147",
+    "de": "der Preis",
+    "ru": "цена",
+    "categories": [
+      "einkauf"
+    ],
+    "lesson": 7,
+    "example": "Wie hoch ist der Preis?",
+    "exampleRu": "Какова цена?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Preise"
+  },
+  {
+    "id": "w_0148",
+    "de": "das Geld",
+    "ru": "деньги",
+    "categories": [
+      "einkauf"
+    ],
+    "lesson": 7,
+    "example": "Ich habe kein Geld dabei.",
+    "exampleRu": "У меня нет с собой денег.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0149",
+    "de": "die Kasse",
+    "ru": "касса",
+    "categories": [
+      "einkauf"
+    ],
+    "lesson": 7,
+    "example": "Wo ist die Kasse?",
+    "exampleRu": "Где касса?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0150",
+    "de": "die Rechnung",
+    "ru": "счёт",
+    "categories": [
+      "einkauf"
+    ],
+    "lesson": 7,
+    "example": "Die Rechnung, bitte.",
+    "exampleRu": "Счёт, пожалуйста.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0151",
+    "de": "das Angebot",
+    "ru": "предложение, акция",
+    "categories": [
+      "einkauf"
+    ],
+    "lesson": 7,
+    "example": "Das ist ein gutes Angebot.",
+    "exampleRu": "Это хорошее предложение.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0152",
+    "de": "bezahlen",
+    "ru": "платить",
+    "categories": [
+      "einkauf",
+      "regular"
+    ],
+    "lesson": 7,
+    "example": "Ich habe mit Karte bezahlt.",
+    "exampleRu": "Я заплатил картой.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "bezahlt",
+      "perfekt": "hat bezahlt"
+    }
+  },
+  {
+    "id": "w_0153",
+    "de": "kosten",
+    "ru": "стоить",
+    "categories": [
+      "einkauf"
+    ],
+    "lesson": 7,
+    "example": "Was kostet das?",
+    "exampleRu": "Сколько это стоит?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0154",
+    "de": "billig",
+    "ru": "дешёвый",
+    "categories": [
+      "einkauf",
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 7,
+    "example": "Das ist sehr billig.",
+    "exampleRu": "Это очень дёшево.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0155",
+    "de": "teuer",
+    "ru": "дорогой",
+    "categories": [
+      "einkauf",
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 7,
+    "example": "Das ist zu teuer.",
+    "exampleRu": "Это слишком дорого.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0156",
+    "de": "der Schnee",
+    "ru": "снег",
+    "categories": [
+      "wetter"
+    ],
+    "lesson": 8,
+    "example": "Im Winter gibt es Schnee.",
+    "exampleRu": "Зимой бывает снег.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0157",
+    "de": "der Wind",
+    "ru": "ветер",
+    "categories": [
+      "wetter"
+    ],
+    "lesson": 8,
+    "example": "Heute ist viel Wind.",
+    "exampleRu": "Сегодня сильный ветер.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0158",
+    "de": "die Wolke",
+    "ru": "облако",
+    "categories": [
+      "wetter"
+    ],
+    "lesson": 8,
+    "example": "Am Himmel sind Wolken.",
+    "exampleRu": "На небе облака.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0159",
+    "de": "warm",
+    "ru": "тёплый",
+    "categories": [
+      "wetter",
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 8,
+    "example": "Heute ist es warm.",
+    "exampleRu": "Сегодня тепло.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0160",
+    "de": "kalt",
+    "ru": "холодный",
+    "categories": [
+      "wetter",
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 8,
+    "example": "Mir ist kalt.",
+    "exampleRu": "Мне холодно.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0161",
+    "de": "sonnig",
+    "ru": "солнечный",
+    "categories": [
+      "wetter"
+    ],
+    "lesson": 8,
+    "example": "Heute ist es sonnig.",
+    "exampleRu": "Сегодня солнечно.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0162",
+    "de": "regnen",
+    "ru": "идти (о дожде)",
+    "categories": [
+      "wetter"
+    ],
+    "lesson": 8,
+    "example": "Es regnet.",
+    "exampleRu": "Идёт дождь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0163",
+    "de": "schneien",
+    "ru": "идти (о снеге)",
+    "categories": [
+      "wetter"
+    ],
+    "lesson": 8,
+    "example": "Es schneit.",
+    "exampleRu": "Идёт снег.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0164",
+    "de": "der Bus",
+    "ru": "автобус",
+    "categories": [
+      "verkehr"
+    ],
+    "lesson": 9,
+    "example": "Ich fahre mit dem Bus.",
+    "exampleRu": "Я еду на автобусе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Busse",
+    "image": "images/photo/bus.webp"
+  },
+  {
+    "id": "w_0165",
+    "de": "die Straßenbahn",
+    "ru": "трамвай",
+    "categories": [
+      "verkehr"
+    ],
+    "lesson": 9,
+    "example": "Wir fahren mit der Straßenbahn.",
+    "exampleRu": "Мы едем на трамвае.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0166",
+    "de": "der Zug",
+    "ru": "поезд",
+    "categories": [
+      "verkehr"
+    ],
+    "lesson": 9,
+    "example": "Der Zug kommt später.",
+    "exampleRu": "Поезд прибывает позже.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Züge",
+    "image": "images/photo/zug.webp"
+  },
+  {
+    "id": "w_0167",
+    "de": "die U-Bahn",
+    "ru": "метро",
+    "categories": [
+      "verkehr"
+    ],
+    "lesson": 9,
+    "example": "Ich fahre mit der U-Bahn.",
+    "exampleRu": "Я еду на метро.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0168",
+    "de": "die S-Bahn",
+    "ru": "городская электричка",
+    "categories": [
+      "verkehr"
+    ],
+    "lesson": 9,
+    "example": "Wir nehmen die S-Bahn.",
+    "exampleRu": "Мы поедем на электричке.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0169",
+    "de": "das Auto",
+    "ru": "автомобиль",
+    "categories": [
+      "verkehr"
+    ],
+    "lesson": 9,
+    "example": "Ich fahre mit dem Auto.",
+    "exampleRu": "Я еду на машине.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Autos"
+  },
+  {
+    "id": "w_0170",
+    "de": "das Flugzeug",
+    "ru": "самолёт",
+    "categories": [
+      "verkehr"
+    ],
+    "lesson": 9,
+    "example": "Das Flugzeug fliegt nach Wien.",
+    "exampleRu": "Самолёт летит в Вену.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0171",
+    "de": "das Ticket",
+    "ru": "билет",
+    "categories": [
+      "verkehr"
+    ],
+    "lesson": 9,
+    "example": "Ich brauche ein Ticket.",
+    "exampleRu": "Мне нужен билет.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0172",
+    "de": "der Bahnhof",
+    "ru": "вокзал",
+    "categories": [
+      "verkehr"
+    ],
+    "lesson": 9,
+    "example": "Wo ist der Bahnhof?",
+    "exampleRu": "Где вокзал?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0173",
+    "de": "der Fahrplan",
+    "ru": "расписание",
+    "categories": [
+      "verkehr"
+    ],
+    "lesson": 9,
+    "example": "Wo ist der Fahrplan?",
+    "exampleRu": "Где расписание?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0174",
+    "de": "die Straße",
+    "ru": "улица",
+    "categories": [
+      "wege"
+    ],
+    "lesson": 15,
+    "example": "Gehen Sie diese Straße entlang.",
+    "exampleRu": "Идите вдоль этой улицы.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Straßen"
+  },
+  {
+    "id": "w_0175",
+    "de": "die Ampel",
+    "ru": "светофор",
+    "categories": [
+      "wege"
+    ],
+    "lesson": 15,
+    "example": "An der Ampel links.",
+    "exampleRu": "На светофоре налево.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0176",
+    "de": "die Kreuzung",
+    "ru": "перекрёсток",
+    "categories": [
+      "wege"
+    ],
+    "lesson": 15,
+    "example": "Biegen Sie an der Kreuzung rechts ab.",
+    "exampleRu": "На перекрёстке поверните направо.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0177",
+    "de": "geradeaus",
+    "ru": "прямо",
+    "categories": [
+      "wege"
+    ],
+    "lesson": 15,
+    "example": "Gehen Sie geradeaus.",
+    "exampleRu": "Идите прямо.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0178",
+    "de": "die Haltestelle",
+    "ru": "остановка",
+    "categories": [
+      "wege"
+    ],
+    "lesson": 15,
+    "example": "Wo ist die Haltestelle?",
+    "exampleRu": "Где остановка?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0179",
+    "de": "die Post",
+    "ru": "почта",
+    "categories": [
+      "wege"
+    ],
+    "lesson": 15,
+    "example": "Ich gehe zur Post.",
+    "exampleRu": "Я иду на почту.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0180",
+    "de": "die Apotheke",
+    "ru": "аптека",
+    "categories": [
+      "wege"
+    ],
+    "lesson": 15,
+    "example": "Die Apotheke ist hier.",
+    "exampleRu": "Аптека здесь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0181",
+    "de": "die Bank",
+    "ru": "банк",
+    "categories": [
+      "wege"
+    ],
+    "lesson": 15,
+    "example": "Die Bank ist neben der Post.",
+    "exampleRu": "Банк рядом с почтой.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0182",
+    "de": "die Wohnung",
+    "ru": "квартира",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Meine Wohnung ist groß.",
+    "exampleRu": "Моя квартира большая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Wohnungen"
+  },
+  {
+    "id": "w_0183",
+    "de": "das Haus",
+    "ru": "дом",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Unser Haus hat einen Garten.",
+    "exampleRu": "У нашего дома есть сад.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Häuser",
+    "image": "images/photo/haus.webp"
+  },
+  {
+    "id": "w_0184",
+    "de": "das Zimmer",
+    "ru": "комната",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Mein Zimmer ist hell.",
+    "exampleRu": "Моя комната светлая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Zimmer"
+  },
+  {
+    "id": "w_0185",
+    "de": "das Wohnzimmer",
+    "ru": "гостиная",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Wir sitzen im Wohnzimmer.",
+    "exampleRu": "Мы сидим в гостиной.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0186",
+    "de": "das Schlafzimmer",
+    "ru": "спальня",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Das Bett steht im Schlafzimmer.",
+    "exampleRu": "Кровать стоит в спальне.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0187",
+    "de": "das Badezimmer",
+    "ru": "ванная комната",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Das Badezimmer ist klein.",
+    "exampleRu": "Ванная маленькая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0188",
+    "de": "die Küche",
+    "ru": "кухня",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Die Küche ist neu.",
+    "exampleRu": "Кухня новая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0189",
+    "de": "das Fenster",
+    "ru": "окно",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Das Fenster ist offen.",
+    "exampleRu": "Окно открыто.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0190",
+    "de": "die Tür",
+    "ru": "дверь",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Mach bitte die Tür zu.",
+    "exampleRu": "Закрой, пожалуйста, дверь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0191",
+    "de": "das Bett",
+    "ru": "кровать",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Das Bett ist bequem.",
+    "exampleRu": "Кровать удобная.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0192",
+    "de": "der Schrank",
+    "ru": "шкаф",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Der Schrank steht im Flur.",
+    "exampleRu": "Шкаф стоит в коридоре.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0193",
+    "de": "das Sofa",
+    "ru": "диван",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Das Sofa ist bequem.",
+    "exampleRu": "Диван удобный.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0194",
+    "de": "die Lampe",
+    "ru": "лампа",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Die Lampe steht auf dem Tisch.",
+    "exampleRu": "Лампа стоит на столе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0195",
+    "de": "der Kühlschrank",
+    "ru": "холодильник",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Die Milch steht im Kühlschrank.",
+    "exampleRu": "Молоко стоит в холодильнике.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0196",
+    "de": "der Herd",
+    "ru": "плита",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Der Topf steht auf dem Herd.",
+    "exampleRu": "Кастрюля стоит на плите.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0197",
+    "de": "der Ofen",
+    "ru": "духовка",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Der Kuchen ist im Ofen.",
+    "exampleRu": "Пирог в духовке.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0198",
+    "de": "der Topf",
+    "ru": "кастрюля",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Der Topf ist heiß.",
+    "exampleRu": "Кастрюля горячая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0199",
+    "de": "die Pfanne",
+    "ru": "сковорода",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Die Pfanne ist neu.",
+    "exampleRu": "Сковорода новая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0200",
+    "de": "das Messer",
+    "ru": "нож",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Ich brauche ein Messer.",
+    "exampleRu": "Мне нужен нож.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0201",
+    "de": "die Gabel",
+    "ru": "вилка",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Die Gabel liegt auf dem Tisch.",
+    "exampleRu": "Вилка лежит на столе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0202",
+    "de": "der Löffel",
+    "ru": "ложка",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Der Löffel ist sauber.",
+    "exampleRu": "Ложка чистая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0203",
+    "de": "der Teller",
+    "ru": "тарелка",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Der Teller ist leer.",
+    "exampleRu": "Тарелка пустая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0204",
+    "de": "die Tasse",
+    "ru": "чашка",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Die Tasse ist blau.",
+    "exampleRu": "Чашка синяя.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0205",
+    "de": "das Glas",
+    "ru": "стакан",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Ich brauche ein Glas Wasser.",
+    "exampleRu": "Мне нужен стакан воды.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0206",
+    "de": "die Gesundheit",
+    "ru": "здоровье",
+    "categories": [
+      "gesund"
+    ],
+    "lesson": 12,
+    "example": "Gesundheit ist wichtig.",
+    "exampleRu": "Здоровье важно.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0207",
+    "de": "der Arzttermin",
+    "ru": "приём у врача",
+    "categories": [
+      "gesund"
+    ],
+    "lesson": 12,
+    "example": "Ich habe einen Arzttermin.",
+    "exampleRu": "У меня приём у врача.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0208",
+    "de": "die Krankheit",
+    "ru": "болезнь",
+    "categories": [
+      "gesund"
+    ],
+    "lesson": 12,
+    "example": "Die Krankheit dauert lange.",
+    "exampleRu": "Болезнь длится долго.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0209",
+    "de": "das Fieber",
+    "ru": "температура, жар",
+    "categories": [
+      "gesund"
+    ],
+    "lesson": 12,
+    "example": "Ich habe Fieber.",
+    "exampleRu": "У меня температура.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0210",
+    "de": "der Husten",
+    "ru": "кашель",
+    "categories": [
+      "gesund"
+    ],
+    "lesson": 12,
+    "example": "Ich habe Husten.",
+    "exampleRu": "У меня кашель.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0211",
+    "de": "die Schmerzen",
+    "ru": "боли",
+    "categories": [
+      "gesund"
+    ],
+    "lesson": 12,
+    "example": "Ich habe Schmerzen.",
+    "exampleRu": "У меня боли.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0212",
+    "de": "die Tablette",
+    "ru": "таблетка",
+    "categories": [
+      "gesund"
+    ],
+    "lesson": 12,
+    "example": "Ich nehme eine Tablette.",
+    "exampleRu": "Я принимаю таблетку.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0213",
+    "de": "das Rezept",
+    "ru": "рецепт",
+    "categories": [
+      "gesund"
+    ],
+    "lesson": 12,
+    "example": "Der Arzt gibt mir ein Rezept.",
+    "exampleRu": "Врач даёт мне рецепт.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0214",
+    "de": "gesund",
+    "ru": "здоровый",
+    "categories": [
+      "gesund",
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 12,
+    "example": "Ich bin wieder gesund.",
+    "exampleRu": "Я снова здоров.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0215",
+    "de": "krank",
+    "ru": "больной",
+    "categories": [
+      "gesund",
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 12,
+    "example": "Heute bin ich krank.",
+    "exampleRu": "Сегодня я болею.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0216",
+    "de": "der Kopf",
+    "ru": "голова",
+    "categories": [
+      "koerper"
+    ],
+    "lesson": 12,
+    "example": "Mein Kopf tut weh.",
+    "exampleRu": "У меня болит голова.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0217",
+    "de": "der Rücken",
+    "ru": "спина",
+    "categories": [
+      "koerper"
+    ],
+    "lesson": 12,
+    "example": "Mein Rücken tut weh.",
+    "exampleRu": "У меня болит спина.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0218",
+    "de": "der Arm",
+    "ru": "рука (от плеча)",
+    "categories": [
+      "koerper"
+    ],
+    "lesson": 12,
+    "example": "Mein Arm tut weh.",
+    "exampleRu": "У меня болит рука.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0219",
+    "de": "die Hand",
+    "ru": "кисть руки",
+    "categories": [
+      "koerper"
+    ],
+    "lesson": 12,
+    "example": "Meine Hand ist kalt.",
+    "exampleRu": "Моя кисть холодная.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0220",
+    "de": "das Bein",
+    "ru": "нога",
+    "categories": [
+      "koerper"
+    ],
+    "lesson": 12,
+    "example": "Mein Bein tut weh.",
+    "exampleRu": "У меня болит нога.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0221",
+    "de": "der Fuß",
+    "ru": "ступня",
+    "categories": [
+      "koerper"
+    ],
+    "lesson": 12,
+    "example": "Mein Fuß tut weh.",
+    "exampleRu": "У меня болит ступня.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0222",
+    "de": "der Bauch",
+    "ru": "живот",
+    "categories": [
+      "koerper"
+    ],
+    "lesson": 12,
+    "example": "Mein Bauch tut weh.",
+    "exampleRu": "У меня болит живот.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0223",
+    "de": "das Auge",
+    "ru": "глаз",
+    "categories": [
+      "koerper"
+    ],
+    "lesson": 12,
+    "example": "Mein Auge ist rot.",
+    "exampleRu": "Мой глаз красный.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0224",
+    "de": "das Ohr",
+    "ru": "ухо",
+    "categories": [
+      "koerper"
+    ],
+    "lesson": 12,
+    "example": "Mein Ohr tut weh.",
+    "exampleRu": "У меня болит ухо.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0225",
+    "de": "der Mund",
+    "ru": "рот",
+    "categories": [
+      "koerper"
+    ],
+    "lesson": 12,
+    "example": "Mach bitte den Mund auf.",
+    "exampleRu": "Открой, пожалуйста, рот.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0226",
+    "de": "der Geburtstag",
+    "ru": "день рождения",
+    "categories": [
+      "feste"
+    ],
+    "lesson": 13,
+    "example": "Wann hast du Geburtstag?",
+    "exampleRu": "Когда у тебя день рождения?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0227",
+    "de": "das Geschenk",
+    "ru": "подарок",
+    "categories": [
+      "feste"
+    ],
+    "lesson": 13,
+    "example": "Das Geschenk ist für dich.",
+    "exampleRu": "Этот подарок тебе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "image": "images/photo/geschenk.webp"
+  },
+  {
+    "id": "w_0228",
+    "de": "die Einladung",
+    "ru": "приглашение",
+    "categories": [
+      "feste"
+    ],
+    "lesson": 13,
+    "example": "Danke für die Einladung.",
+    "exampleRu": "Спасибо за приглашение.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0229",
+    "de": "die Party",
+    "ru": "вечеринка",
+    "categories": [
+      "feste"
+    ],
+    "lesson": 13,
+    "example": "Die Party beginnt um acht.",
+    "exampleRu": "Вечеринка начинается в восемь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0230",
+    "de": "feiern",
+    "ru": "праздновать",
+    "categories": [
+      "feste",
+      "regular"
+    ],
+    "lesson": 13,
+    "example": "Wir feiern Geburtstag.",
+    "exampleRu": "Мы празднуем день рождения.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "feiert",
+      "perfekt": "hat gefeiert"
+    }
+  },
+  {
+    "id": "w_0231",
+    "de": "Weihnachten",
+    "ru": "Рождество",
+    "categories": [
+      "feste"
+    ],
+    "lesson": 13,
+    "example": "Wir feiern Weihnachten.",
+    "exampleRu": "Мы празднуем Рождество.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0232",
+    "de": "Ostern",
+    "ru": "Пасха",
+    "categories": [
+      "feste"
+    ],
+    "lesson": 13,
+    "example": "An Ostern besuchen wir die Familie.",
+    "exampleRu": "На Пасху мы навещаем семью.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0233",
+    "de": "gratulieren",
+    "ru": "поздравлять",
+    "categories": [
+      "feste"
+    ],
+    "lesson": 13,
+    "example": "Ich gratuliere dir.",
+    "exampleRu": "Я тебя поздравляю.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0234",
+    "de": "das T-Shirt",
+    "ru": "футболка",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Das T-Shirt ist rot.",
+    "exampleRu": "Футболка красная.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0235",
+    "de": "der Pullover",
+    "ru": "свитер",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Der Pullover ist warm.",
+    "exampleRu": "Свитер тёплый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0236",
+    "de": "die Hose",
+    "ru": "брюки",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Die Hose ist zu lang.",
+    "exampleRu": "Брюки слишком длинные.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0237",
+    "de": "das Hemd",
+    "ru": "рубашка",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Das Hemd ist blau.",
+    "exampleRu": "Рубашка синяя.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "image": "images/photo/hemd.webp"
+  },
+  {
+    "id": "w_0238",
+    "de": "das Kleid",
+    "ru": "платье",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Das Kleid gefällt mir.",
+    "exampleRu": "Мне нравится платье.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0239",
+    "de": "die Jacke",
+    "ru": "куртка",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Ich brauche eine Jacke.",
+    "exampleRu": "Мне нужна куртка.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0240",
+    "de": "die Schuhe",
+    "ru": "обувь",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Die Schuhe sind bequem.",
+    "exampleRu": "Обувь удобная.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0241",
+    "de": "die Größe",
+    "ru": "размер",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Welche Größe haben Sie?",
+    "exampleRu": "Какой у вас размер?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0242",
+    "de": "anprobieren",
+    "ru": "примерять",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Kann ich das anprobieren?",
+    "exampleRu": "Можно мне это примерить?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0243",
+    "de": "passen",
+    "ru": "подходить (по размеру)",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Die Hose passt gut.",
+    "exampleRu": "Брюки хорошо сидят.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0244",
+    "de": "die Reise",
+    "ru": "поездка",
+    "categories": [
+      "reisen"
+    ],
+    "lesson": 16,
+    "example": "Die Reise war schön.",
+    "exampleRu": "Поездка была хорошей.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0245",
+    "de": "das Hotel",
+    "ru": "отель",
+    "categories": [
+      "reisen"
+    ],
+    "lesson": 16,
+    "example": "Wir wohnen im Hotel.",
+    "exampleRu": "Мы живём в отеле.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0246",
+    "de": "die Fahrkarte",
+    "ru": "проездной билет",
+    "categories": [
+      "reisen"
+    ],
+    "lesson": 16,
+    "example": "Ich kaufe eine Fahrkarte.",
+    "exampleRu": "Я покупаю билет.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0247",
+    "de": "der Koffer",
+    "ru": "чемодан",
+    "categories": [
+      "reisen"
+    ],
+    "lesson": 16,
+    "example": "Mein Koffer ist schwer.",
+    "exampleRu": "Мой чемодан тяжёлый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0248",
+    "de": "der Ausflug",
+    "ru": "экскурсия",
+    "categories": [
+      "reisen"
+    ],
+    "lesson": 16,
+    "example": "Wir machen einen Ausflug.",
+    "exampleRu": "Мы едем на экскурсию.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0249",
+    "de": "die Berge",
+    "ru": "горы",
+    "categories": [
+      "reisen"
+    ],
+    "lesson": 16,
+    "example": "Wir fahren in die Berge.",
+    "exampleRu": "Мы едем в горы.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0250",
+    "de": "das Meer",
+    "ru": "море",
+    "categories": [
+      "reisen"
+    ],
+    "lesson": 16,
+    "example": "Wir fahren ans Meer.",
+    "exampleRu": "Мы едем к морю.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0251",
+    "de": "die Unterkunft",
+    "ru": "жильё на время поездки",
+    "categories": [
+      "reisen"
+    ],
+    "lesson": 16,
+    "example": "Wir suchen eine Unterkunft.",
+    "exampleRu": "Мы ищем жильё.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0252",
+    "de": "buchen",
+    "ru": "бронировать",
+    "categories": [
+      "reisen"
+    ],
+    "lesson": 16,
+    "example": "Ich buche ein Hotel.",
+    "exampleRu": "Я бронирую отель.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0253",
+    "de": "alt",
+    "ru": "старый",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Das Haus ist alt.",
+    "exampleRu": "Дом старый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0254",
+    "de": "neu",
+    "ru": "новый",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Mein Handy ist neu.",
+    "exampleRu": "Мой телефон новый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0255",
+    "de": "schön",
+    "ru": "красивый",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Das Wetter ist schön.",
+    "exampleRu": "Погода хорошая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0256",
+    "de": "hässlich",
+    "ru": "некрасивый",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Das Gebäude ist hässlich.",
+    "exampleRu": "Здание некрасивое.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0257",
+    "de": "schnell",
+    "ru": "быстрый",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Der Zug ist schnell.",
+    "exampleRu": "Поезд быстрый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0258",
+    "de": "langsam",
+    "ru": "медленный",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Der Bus fährt langsam.",
+    "exampleRu": "Автобус едет медленно.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0259",
+    "de": "leicht",
+    "ru": "лёгкий",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Die Tasche ist leicht.",
+    "exampleRu": "Сумка лёгкая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0260",
+    "de": "schwer",
+    "ru": "тяжёлый",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Der Koffer ist schwer.",
+    "exampleRu": "Чемодан тяжёлый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0261",
+    "de": "hell",
+    "ru": "светлый",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Das Zimmer ist hell.",
+    "exampleRu": "Комната светлая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0262",
+    "de": "dunkel",
+    "ru": "тёмный",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Das Zimmer ist dunkel.",
+    "exampleRu": "Комната тёмная.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0263",
+    "de": "laut",
+    "ru": "громкий",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Die Musik ist laut.",
+    "exampleRu": "Музыка громкая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0264",
+    "de": "leise",
+    "ru": "тихий",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Bitte sei leise.",
+    "exampleRu": "Пожалуйста, веди себя тихо.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0265",
+    "de": "sauber",
+    "ru": "чистый",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Die Küche ist sauber.",
+    "exampleRu": "Кухня чистая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0266",
+    "de": "schmutzig",
+    "ru": "грязный",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Die Schuhe sind schmutzig.",
+    "exampleRu": "Обувь грязная.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0267",
+    "de": "voll",
+    "ru": "полный",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Der Bus ist voll.",
+    "exampleRu": "Автобус полный.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0268",
+    "de": "leer",
+    "ru": "пустой",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Das Glas ist leer.",
+    "exampleRu": "Стакан пустой.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0269",
+    "de": "freundlich",
+    "ru": "дружелюбный",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Die Nachbarin ist freundlich.",
+    "exampleRu": "Соседка дружелюбная.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0270",
+    "de": "müde",
+    "ru": "уставший",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Ich bin müde.",
+    "exampleRu": "Я устал.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0271",
+    "de": "interessant",
+    "ru": "интересный",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Das Buch ist interessant.",
+    "exampleRu": "Книга интересная.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0272",
+    "de": "langweilig",
+    "ru": "скучный",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Der Film ist langweilig.",
+    "exampleRu": "Фильм скучный.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0273",
+    "de": "richtig",
+    "ru": "правильный",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Das ist richtig.",
+    "exampleRu": "Это правильно.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0274",
+    "de": "falsch",
+    "ru": "неправильный",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Das ist falsch.",
+    "exampleRu": "Это неправильно.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0275",
+    "de": "offen",
+    "ru": "открытый",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Das Fenster ist offen.",
+    "exampleRu": "Окно открыто.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0276",
+    "de": "geschlossen",
+    "ru": "закрытый",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Die Tür ist geschlossen.",
+    "exampleRu": "Дверь закрыта.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0277",
+    "de": "wichtig",
+    "ru": "важный",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Das ist wichtig.",
+    "exampleRu": "Это важно.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0278",
+    "de": "einfach",
+    "ru": "простой",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Die Aufgabe ist einfach.",
+    "exampleRu": "Задание простое.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0279",
+    "de": "schwierig",
+    "ru": "сложный",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Das ist schwierig.",
+    "exampleRu": "Это сложно.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0280",
+    "de": "bequem",
+    "ru": "удобный",
+    "categories": [
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 14,
+    "example": "Der Stuhl ist bequem.",
+    "exampleRu": "Стул удобный.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0281",
+    "de": "heute",
+    "ru": "сегодня",
+    "categories": [
+      "zeiten"
+    ],
+    "lesson": 8,
+    "example": "Heute habe ich Zeit.",
+    "exampleRu": "Сегодня у меня есть время.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0282",
+    "de": "morgen",
+    "ru": "завтра",
+    "categories": [
+      "zeiten"
+    ],
+    "lesson": 8,
+    "example": "Morgen arbeite ich.",
+    "exampleRu": "Завтра я работаю.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0283",
+    "de": "gestern",
+    "ru": "вчера",
+    "categories": [
+      "zeiten"
+    ],
+    "lesson": 8,
+    "example": "Gestern war ich zu Hause.",
+    "exampleRu": "Вчера я был дома.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0284",
+    "de": "jetzt",
+    "ru": "сейчас",
+    "categories": [
+      "zeiten"
+    ],
+    "lesson": 8,
+    "example": "Ich komme jetzt.",
+    "exampleRu": "Я сейчас иду.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0285",
+    "de": "gleich",
+    "ru": "скоро, сейчас",
+    "categories": [
+      "zeiten"
+    ],
+    "lesson": 8,
+    "example": "Ich komme gleich.",
+    "exampleRu": "Я скоро приду.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0286",
+    "de": "immer",
+    "ru": "всегда",
+    "categories": [
+      "zeiten"
+    ],
+    "lesson": 8,
+    "example": "Ich stehe immer früh auf.",
+    "exampleRu": "Я всегда рано встаю.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0287",
+    "de": "oft",
+    "ru": "часто",
+    "categories": [
+      "zeiten"
+    ],
+    "lesson": 8,
+    "example": "Ich gehe oft spazieren.",
+    "exampleRu": "Я часто гуляю.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0288",
+    "de": "manchmal",
+    "ru": "иногда",
+    "categories": [
+      "zeiten"
+    ],
+    "lesson": 8,
+    "example": "Manchmal lese ich abends.",
+    "exampleRu": "Иногда я читаю по вечерам.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0289",
+    "de": "nie",
+    "ru": "никогда",
+    "categories": [
+      "zeiten"
+    ],
+    "lesson": 8,
+    "example": "Ich rauche nie.",
+    "exampleRu": "Я никогда не курю.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0290",
+    "de": "zuerst",
+    "ru": "сначала",
+    "categories": [
+      "zeiten"
+    ],
+    "lesson": 8,
+    "example": "Zuerst frühstücke ich.",
+    "exampleRu": "Сначала я завтракаю.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0291",
+    "de": "dann",
+    "ru": "потом",
+    "categories": [
+      "zeiten"
+    ],
+    "lesson": 8,
+    "example": "Dann gehe ich zur Arbeit.",
+    "exampleRu": "Потом я иду на работу.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0292",
+    "de": "der Montag",
+    "ru": "понедельник",
+    "categories": [
+      "tage"
+    ],
+    "lesson": 8,
+    "example": "Am Montag habe ich Deutsch.",
+    "exampleRu": "В понедельник у меня немецкий.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0293",
+    "de": "der Dienstag",
+    "ru": "вторник",
+    "categories": [
+      "tage"
+    ],
+    "lesson": 8,
+    "example": "Am Dienstag arbeite ich.",
+    "exampleRu": "Во вторник я работаю.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0294",
+    "de": "der Mittwoch",
+    "ru": "среда",
+    "categories": [
+      "tage"
+    ],
+    "lesson": 8,
+    "example": "Am Mittwoch habe ich Zeit.",
+    "exampleRu": "В среду у меня есть время.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0295",
+    "de": "der Donnerstag",
+    "ru": "четверг",
+    "categories": [
+      "tage"
+    ],
+    "lesson": 8,
+    "example": "Am Donnerstag kommt Anna.",
+    "exampleRu": "В четверг придёт Анна.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0296",
+    "de": "der Freitag",
+    "ru": "пятница",
+    "categories": [
+      "tage"
+    ],
+    "lesson": 8,
+    "example": "Am Freitag gehe ich einkaufen.",
+    "exampleRu": "В пятницу я делаю покупки.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0297",
+    "de": "der Samstag",
+    "ru": "суббота",
+    "categories": [
+      "tage"
+    ],
+    "lesson": 8,
+    "example": "Am Samstag schlafe ich länger.",
+    "exampleRu": "В субботу я сплю дольше.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0298",
+    "de": "der Sonntag",
+    "ru": "воскресенье",
+    "categories": [
+      "tage"
+    ],
+    "lesson": 8,
+    "example": "Am Sonntag habe ich frei.",
+    "exampleRu": "В воскресенье я свободен.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0299",
+    "de": "die Woche",
+    "ru": "неделя",
+    "categories": [
+      "tage"
+    ],
+    "lesson": 8,
+    "example": "Die Woche beginnt am Montag.",
+    "exampleRu": "Неделя начинается в понедельник.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0300",
+    "de": "das Wochenende",
+    "ru": "выходные",
+    "categories": [
+      "tage"
+    ],
+    "lesson": 8,
+    "example": "Am Wochenende habe ich Zeit.",
+    "exampleRu": "На выходных у меня есть время.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0301",
+    "de": "der Monat",
+    "ru": "месяц",
+    "categories": [
+      "tage"
+    ],
+    "lesson": 8,
+    "example": "Der Monat hat vier Wochen.",
+    "exampleRu": "В месяце четыре недели.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0302",
+    "de": "das Jahr",
+    "ru": "год",
+    "categories": [
+      "tage"
+    ],
+    "lesson": 8,
+    "example": "Ich lerne seit einem Jahr Deutsch.",
+    "exampleRu": "Я учу немецкий уже год.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0303",
+    "de": "die Schule",
+    "ru": "школа",
+    "categories": [
+      "schule"
+    ],
+    "lesson": 10,
+    "example": "Die Schule beginnt um acht.",
+    "exampleRu": "Школа начинается в восемь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0304",
+    "de": "der Kurs",
+    "ru": "курс",
+    "categories": [
+      "schule"
+    ],
+    "lesson": 10,
+    "example": "Ich mache einen Deutschkurs.",
+    "exampleRu": "Я прохожу курс немецкого.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0305",
+    "de": "die Prüfung",
+    "ru": "экзамен",
+    "categories": [
+      "schule"
+    ],
+    "lesson": 10,
+    "example": "Morgen habe ich eine Prüfung.",
+    "exampleRu": "Завтра у меня экзамен.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0306",
+    "de": "die Aufgabe",
+    "ru": "задание",
+    "categories": [
+      "schule"
+    ],
+    "lesson": 10,
+    "example": "Ich mache die Aufgabe.",
+    "exampleRu": "Я делаю задание.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0307",
+    "de": "die Frage",
+    "ru": "вопрос",
+    "categories": [
+      "schule"
+    ],
+    "lesson": 10,
+    "example": "Ich habe eine Frage.",
+    "exampleRu": "У меня есть вопрос.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0308",
+    "de": "die Antwort",
+    "ru": "ответ",
+    "categories": [
+      "schule"
+    ],
+    "lesson": 10,
+    "example": "Die Antwort ist richtig.",
+    "exampleRu": "Ответ правильный.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0309",
+    "de": "das Wort",
+    "ru": "слово",
+    "categories": [
+      "schule"
+    ],
+    "lesson": 10,
+    "example": "Ich kenne das Wort.",
+    "exampleRu": "Я знаю это слово.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0310",
+    "de": "der Satz",
+    "ru": "предложение",
+    "categories": [
+      "schule"
+    ],
+    "lesson": 10,
+    "example": "Schreib einen Satz.",
+    "exampleRu": "Напиши предложение.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0311",
+    "de": "das Heft",
+    "ru": "тетрадь",
+    "categories": [
+      "schule"
+    ],
+    "lesson": 10,
+    "example": "Wo ist mein Heft?",
+    "exampleRu": "Где моя тетрадь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0312",
+    "de": "lernen",
+    "ru": "учить",
+    "categories": [
+      "schule",
+      "regular"
+    ],
+    "lesson": 10,
+    "example": "Ich lerne Deutsch.",
+    "exampleRu": "Я учу немецкий.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "lernt",
+      "perfekt": "hat gelernt"
+    }
+  },
+  {
+    "id": "w_0313",
+    "de": "sagen",
+    "ru": "сказать",
+    "categories": [
+      "kommunikation",
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Was sagst du?",
+    "exampleRu": "Что ты говоришь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "sagt",
+      "perfekt": "hat gesagt"
+    }
+  },
+  {
+    "id": "w_0314",
+    "de": "fragen",
+    "ru": "спрашивать",
+    "categories": [
+      "kommunikation",
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Ich frage den Lehrer.",
+    "exampleRu": "Я спрашиваю учителя.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "fragt",
+      "perfekt": "hat gefragt"
+    }
+  },
+  {
+    "id": "w_0315",
+    "de": "antworten",
+    "ru": "отвечать",
+    "categories": [
+      "kommunikation",
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Sie antwortet schnell.",
+    "exampleRu": "Она быстро отвечает.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "antwortet",
+      "perfekt": "hat geantwortet"
+    }
+  },
+  {
+    "id": "w_0316",
+    "de": "verstehen",
+    "ru": "понимать",
+    "categories": [
+      "kommunikation"
+    ],
+    "lesson": 1,
+    "example": "Ich verstehe das nicht.",
+    "exampleRu": "Я этого не понимаю.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0317",
+    "de": "wiederholen",
+    "ru": "повторять",
+    "categories": [
+      "kommunikation"
+    ],
+    "lesson": 1,
+    "example": "Können Sie das wiederholen?",
+    "exampleRu": "Можете это повторить?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0318",
+    "de": "sprechen",
+    "ru": "говорить",
+    "categories": [
+      "kommunikation",
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich spreche Deutsch.",
+    "exampleRu": "Я говорю по-немецки.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "spricht",
+      "perfekt": "hat gesprochen"
+    }
+  },
+  {
+    "id": "w_0319",
+    "de": "hören",
+    "ru": "слушать",
+    "categories": [
+      "kommunikation",
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Ich höre Musik.",
+    "exampleRu": "Я слушаю музыку.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "hört",
+      "perfekt": "hat gehört"
+    }
+  },
+  {
+    "id": "w_0320",
+    "de": "lesen",
+    "ru": "читать",
+    "categories": [
+      "kommunikation",
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich lese ein Buch.",
+    "exampleRu": "Я читаю книгу.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "liest",
+      "perfekt": "hat gelesen"
+    }
+  },
+  {
+    "id": "w_0321",
+    "de": "schreiben",
+    "ru": "писать",
+    "categories": [
+      "kommunikation",
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich schreibe eine E-Mail.",
+    "exampleRu": "Я пишу письмо.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "schreibt",
+      "perfekt": "hat geschrieben"
+    }
+  },
+  {
+    "id": "w_0322",
+    "de": "erklären",
+    "ru": "объяснять",
+    "categories": [
+      "kommunikation",
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Die Lehrerin erklärt es.",
+    "exampleRu": "Учительница это объясняет.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "erklärt",
+      "perfekt": "hat erklärt"
+    }
+  },
+  {
+    "id": "w_0323",
+    "de": "der Computer",
+    "ru": "компьютер",
+    "categories": [
+      "technik"
+    ],
+    "lesson": 10,
+    "example": "Mein Computer ist neu.",
+    "exampleRu": "Мой компьютер новый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0324",
+    "de": "der Bildschirm",
+    "ru": "экран",
+    "categories": [
+      "technik"
+    ],
+    "lesson": 10,
+    "example": "Der Bildschirm ist groß.",
+    "exampleRu": "Экран большой.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0325",
+    "de": "das Internet",
+    "ru": "интернет",
+    "categories": [
+      "technik"
+    ],
+    "lesson": 10,
+    "example": "Das Internet funktioniert.",
+    "exampleRu": "Интернет работает.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0326",
+    "de": "die Nachricht",
+    "ru": "сообщение",
+    "categories": [
+      "technik"
+    ],
+    "lesson": 10,
+    "example": "Ich habe eine Nachricht.",
+    "exampleRu": "У меня сообщение.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0327",
+    "de": "die App",
+    "ru": "приложение",
+    "categories": [
+      "technik"
+    ],
+    "lesson": 10,
+    "example": "Ich benutze eine App.",
+    "exampleRu": "Я использую приложение.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0328",
+    "de": "der Akku",
+    "ru": "аккумулятор",
+    "categories": [
+      "technik"
+    ],
+    "lesson": 10,
+    "example": "Mein Akku ist leer.",
+    "exampleRu": "Мой аккумулятор разряжен.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0329",
+    "de": "die Kamera",
+    "ru": "камера",
+    "categories": [
+      "technik"
+    ],
+    "lesson": 10,
+    "example": "Die Kamera funktioniert.",
+    "exampleRu": "Камера работает.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0330",
+    "de": "das Passwort",
+    "ru": "пароль",
+    "categories": [
+      "technik"
+    ],
+    "lesson": 10,
+    "example": "Ich habe mein Passwort vergessen.",
+    "exampleRu": "Я забыл пароль.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0331",
+    "de": "der Baum",
+    "ru": "дерево",
+    "categories": [
+      "natur"
+    ],
+    "lesson": 16,
+    "example": "Der Baum ist groß.",
+    "exampleRu": "Дерево большое.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0332",
+    "de": "die Blume",
+    "ru": "цветок",
+    "categories": [
+      "natur"
+    ],
+    "lesson": 16,
+    "example": "Die Blume ist schön.",
+    "exampleRu": "Цветок красивый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "image": "images/photo/blume.webp"
+  },
+  {
+    "id": "w_0333",
+    "de": "der Garten",
+    "ru": "сад",
+    "categories": [
+      "natur"
+    ],
+    "lesson": 16,
+    "example": "Wir sitzen im Garten.",
+    "exampleRu": "Мы сидим в саду.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0334",
+    "de": "der Wald",
+    "ru": "лес",
+    "categories": [
+      "natur"
+    ],
+    "lesson": 16,
+    "example": "Wir gehen in den Wald.",
+    "exampleRu": "Мы идём в лес.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0335",
+    "de": "der See",
+    "ru": "озеро",
+    "categories": [
+      "natur"
+    ],
+    "lesson": 16,
+    "example": "Der See ist schön.",
+    "exampleRu": "Озеро красивое.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0336",
+    "de": "der Fluss",
+    "ru": "река",
+    "categories": [
+      "natur"
+    ],
+    "lesson": 16,
+    "example": "Der Fluss ist lang.",
+    "exampleRu": "Река длинная.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0337",
+    "de": "der Berg",
+    "ru": "гора",
+    "categories": [
+      "natur"
+    ],
+    "lesson": 16,
+    "example": "Der Berg ist hoch.",
+    "exampleRu": "Гора высокая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0338",
+    "de": "das Tier",
+    "ru": "животное",
+    "categories": [
+      "natur"
+    ],
+    "lesson": 16,
+    "example": "Das Tier ist klein.",
+    "exampleRu": "Животное маленькое.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0339",
+    "de": "der Hund",
+    "ru": "собака",
+    "categories": [
+      "natur"
+    ],
+    "lesson": 16,
+    "example": "Der Hund schläft.",
+    "exampleRu": "Собака спит.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "image": "images/photo/hund.webp"
+  },
+  {
+    "id": "w_0340",
+    "de": "die Katze",
+    "ru": "кошка",
+    "categories": [
+      "natur"
+    ],
+    "lesson": 16,
+    "example": "Die Katze sitzt am Fenster.",
+    "exampleRu": "Кошка сидит у окна.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0341",
+    "de": "mit",
+    "ru": "с, при помощи",
+    "categories": [
+      "praep"
+    ],
+    "lesson": 15,
+    "example": "Ich fahre mit dem Bus.",
+    "exampleRu": "Я еду на автобусе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0342",
+    "de": "nach",
+    "ru": "в, после",
+    "categories": [
+      "praep"
+    ],
+    "lesson": 15,
+    "example": "Ich fahre nach Berlin.",
+    "exampleRu": "Я еду в Берлин.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0343",
+    "de": "zu",
+    "ru": "к",
+    "categories": [
+      "praep"
+    ],
+    "lesson": 15,
+    "example": "Ich gehe zum Arzt.",
+    "exampleRu": "Я иду к врачу.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0344",
+    "de": "aus",
+    "ru": "из",
+    "categories": [
+      "praep"
+    ],
+    "lesson": 15,
+    "example": "Ich komme aus der Ukraine.",
+    "exampleRu": "Я из Украины.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0345",
+    "de": "von",
+    "ru": "от, из",
+    "categories": [
+      "praep"
+    ],
+    "lesson": 15,
+    "example": "Ich komme von der Arbeit.",
+    "exampleRu": "Я иду с работы.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0346",
+    "de": "bei",
+    "ru": "у, при",
+    "categories": [
+      "praep"
+    ],
+    "lesson": 15,
+    "example": "Ich bin bei meiner Freundin.",
+    "exampleRu": "Я у подруги.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0347",
+    "de": "in",
+    "ru": "в",
+    "categories": [
+      "praep"
+    ],
+    "lesson": 15,
+    "example": "Ich bin in der Küche.",
+    "exampleRu": "Я на кухне.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0348",
+    "de": "auf",
+    "ru": "на",
+    "categories": [
+      "praep"
+    ],
+    "lesson": 15,
+    "example": "Das Buch liegt auf dem Tisch.",
+    "exampleRu": "Книга лежит на столе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0349",
+    "de": "unter",
+    "ru": "под",
+    "categories": [
+      "praep"
+    ],
+    "lesson": 15,
+    "example": "Der Ball liegt unter dem Tisch.",
+    "exampleRu": "Мяч лежит под столом.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0350",
+    "de": "neben",
+    "ru": "рядом с",
+    "categories": [
+      "praep"
+    ],
+    "lesson": 15,
+    "example": "Die Tasche steht neben dem Bett.",
+    "exampleRu": "Сумка стоит рядом с кроватью.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0351",
+    "de": "hinter",
+    "ru": "за",
+    "categories": [
+      "praep"
+    ],
+    "lesson": 15,
+    "example": "Der Garten ist hinter dem Haus.",
+    "exampleRu": "Сад за домом.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0352",
+    "de": "vor",
+    "ru": "перед",
+    "categories": [
+      "praep"
+    ],
+    "lesson": 15,
+    "example": "Das Auto steht vor dem Haus.",
+    "exampleRu": "Машина стоит перед домом.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0353",
+    "de": "Wie geht es dir?",
+    "ru": "Как дела?",
+    "categories": [
+      "phrases"
+    ],
+    "lesson": 1,
+    "example": "Hallo, wie geht es dir?",
+    "exampleRu": "Привет, как дела?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0354",
+    "de": "Mir geht es gut.",
+    "ru": "У меня всё хорошо.",
+    "categories": [
+      "phrases"
+    ],
+    "lesson": 1,
+    "example": "Danke, mir geht es gut.",
+    "exampleRu": "Спасибо, у меня всё хорошо.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0355",
+    "de": "Ich hätte gern ...",
+    "ru": "Я бы хотел ...",
+    "categories": [
+      "phrases"
+    ],
+    "lesson": 1,
+    "example": "Ich hätte gern einen Kaffee.",
+    "exampleRu": "Я бы хотел кофе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0356",
+    "de": "Es tut mir leid.",
+    "ru": "Мне жаль, извините.",
+    "categories": [
+      "phrases"
+    ],
+    "lesson": 1,
+    "example": "Es tut mir leid, ich bin spät.",
+    "exampleRu": "Извините, я опоздал.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0357",
+    "de": "Kein Problem!",
+    "ru": "Без проблем!",
+    "categories": [
+      "phrases"
+    ],
+    "lesson": 1,
+    "example": "Danke! Kein Problem!",
+    "exampleRu": "Спасибо! Без проблем!",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0358",
+    "de": "Ich weiß nicht.",
+    "ru": "Я не знаю.",
+    "categories": [
+      "phrases"
+    ],
+    "lesson": 1,
+    "example": "Ich weiß nicht, wo er ist.",
+    "exampleRu": "Я не знаю, где он.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0359",
+    "de": "Können Sie mir helfen?",
+    "ru": "Можете мне помочь?",
+    "categories": [
+      "phrases"
+    ],
+    "lesson": 1,
+    "example": "Entschuldigung, können Sie mir helfen?",
+    "exampleRu": "Извините, можете мне помочь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0360",
+    "de": "Wo ist die Toilette?",
+    "ru": "Где туалет?",
+    "categories": [
+      "phrases"
+    ],
+    "lesson": 1,
+    "example": "Entschuldigung, wo ist die Toilette?",
+    "exampleRu": "Извините, где туалет?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0361",
+    "de": "Gute Besserung!",
+    "ru": "Выздоравливай!",
+    "categories": [
+      "phrases"
+    ],
+    "lesson": 1,
+    "example": "Du bist krank? Gute Besserung!",
+    "exampleRu": "Ты болеешь? Выздоравливай!",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0362",
+    "de": "beginnen",
+    "ru": "начинать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Der Kurs beginnt um neun Uhr.",
+    "exampleRu": "Курс начинается в девять.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "beginnt",
+      "perfekt": "hat begonnen"
+    }
+  },
+  {
+    "id": "w_0363",
+    "de": "bleiben",
+    "ru": "оставаться",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich bleibe heute zu Hause.",
+    "exampleRu": "Я сегодня останусь дома.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "bleibt",
+      "perfekt": "ist geblieben"
+    }
+  },
+  {
+    "id": "w_0364",
+    "de": "essen",
+    "ru": "есть, кушать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich esse gern Obst.",
+    "exampleRu": "Я люблю есть фрукты.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "isst",
+      "perfekt": "hat gegessen"
+    }
+  },
+  {
+    "id": "w_0365",
+    "de": "fahren",
+    "ru": "ехать, ездить",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich fahre morgen nach München.",
+    "exampleRu": "Завтра я еду в Мюнхен.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "fährt",
+      "perfekt": "ist gefahren"
+    }
+  },
+  {
+    "id": "w_0366",
+    "de": "finden",
+    "ru": "находить",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich finde meinen Schlüssel.",
+    "exampleRu": "Я нахожу свой ключ.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "findet",
+      "perfekt": "hat gefunden"
+    }
+  },
+  {
+    "id": "w_0367",
+    "de": "fliegen",
+    "ru": "лететь",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Wir fliegen nach Berlin.",
+    "exampleRu": "Мы летим в Берлин.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "fliegt",
+      "perfekt": "ist geflogen"
+    }
+  },
+  {
+    "id": "w_0368",
+    "de": "geben",
+    "ru": "давать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Gib mir bitte das Buch.",
+    "exampleRu": "Дай мне, пожалуйста, книгу.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "gibt",
+      "perfekt": "hat gegeben"
+    }
+  },
+  {
+    "id": "w_0369",
+    "de": "gehen",
+    "ru": "идти",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich gehe nach Hause.",
+    "exampleRu": "Я иду домой.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "geht",
+      "perfekt": "ist gegangen"
+    }
+  },
+  {
+    "id": "w_0370",
+    "de": "helfen",
+    "ru": "помогать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Kannst du mir helfen?",
+    "exampleRu": "Можешь мне помочь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "hilft",
+      "perfekt": "hat geholfen"
+    }
+  },
+  {
+    "id": "w_0371",
+    "de": "kommen",
+    "ru": "приходить",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Wann kommst du?",
+    "exampleRu": "Когда ты придёшь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "kommt",
+      "perfekt": "ist gekommen"
+    }
+  },
+  {
+    "id": "w_0372",
+    "de": "nehmen",
+    "ru": "брать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich nehme den Bus.",
+    "exampleRu": "Я поеду на автобусе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "nimmt",
+      "perfekt": "hat genommen"
+    }
+  },
+  {
+    "id": "w_0373",
+    "de": "rufen",
+    "ru": "звать, звонить",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich rufe dich morgen.",
+    "exampleRu": "Я позвоню тебе завтра.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "ruft",
+      "perfekt": "hat gerufen"
+    }
+  },
+  {
+    "id": "w_0374",
+    "de": "sehen",
+    "ru": "видеть",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich sehe den Bus.",
+    "exampleRu": "Я вижу автобус.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "sieht",
+      "perfekt": "hat gesehen"
+    }
+  },
+  {
+    "id": "w_0375",
+    "de": "sein",
+    "ru": "быть",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich bin zu Hause.",
+    "exampleRu": "Я дома.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "ist",
+      "perfekt": "ist gewesen"
+    }
+  },
+  {
+    "id": "w_0376",
+    "de": "singen",
+    "ru": "петь",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Wir singen zusammen.",
+    "exampleRu": "Мы поём вместе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "singt",
+      "perfekt": "hat gesungen"
+    }
+  },
+  {
+    "id": "w_0377",
+    "de": "stehen",
+    "ru": "стоять",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Der Tisch steht am Fenster.",
+    "exampleRu": "Стол стоит у окна.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "steht",
+      "perfekt": "hat gestanden"
+    }
+  },
+  {
+    "id": "w_0378",
+    "de": "treffen",
+    "ru": "встречать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich treffe meine Freundin.",
+    "exampleRu": "Я встречаю подругу.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "trifft",
+      "perfekt": "hat getroffen"
+    }
+  },
+  {
+    "id": "w_0379",
+    "de": "trinken",
+    "ru": "пить",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich trinke Wasser.",
+    "exampleRu": "Я пью воду.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "trinkt",
+      "perfekt": "hat getrunken"
+    }
+  },
+  {
+    "id": "w_0380",
+    "de": "tun",
+    "ru": "делать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Was tut dir weh?",
+    "exampleRu": "Что у тебя болит?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "tut",
+      "perfekt": "hat getan"
+    }
+  },
+  {
+    "id": "w_0381",
+    "de": "werden",
+    "ru": "становиться",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Es wird kalt.",
+    "exampleRu": "Становится холодно.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "wird",
+      "perfekt": "ist geworden"
+    }
+  },
+  {
+    "id": "w_0382",
+    "de": "ziehen",
+    "ru": "тянуть, переезжать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Wir ziehen im Sommer um.",
+    "exampleRu": "Мы переезжаем летом.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "zieht",
+      "perfekt": "hat gezogen"
+    }
+  },
+  {
+    "id": "w_0383",
+    "de": "fallen",
+    "ru": "падать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Das Buch fällt auf den Boden.",
+    "exampleRu": "Книга падает на пол.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "fällt",
+      "perfekt": "ist gefallen"
+    }
+  },
+  {
+    "id": "w_0384",
+    "de": "laufen",
+    "ru": "бежать, ходить",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich laufe jeden Morgen.",
+    "exampleRu": "Я бегаю каждое утро.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "läuft",
+      "perfekt": "ist gelaufen"
+    }
+  },
+  {
+    "id": "w_0385",
+    "de": "gefallen",
+    "ru": "нравиться",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Das gefällt mir.",
+    "exampleRu": "Мне это нравится.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "gefällt",
+      "perfekt": "hat gefallen"
+    }
+  },
+  {
+    "id": "w_0386",
+    "de": "heißen",
+    "ru": "называться",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Wie heißt du?",
+    "exampleRu": "Как тебя зовут?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "heißt",
+      "perfekt": "hat geheißen"
+    }
+  },
+  {
+    "id": "w_0387",
+    "de": "machen",
+    "ru": "делать",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Ich mache die Hausaufgaben.",
+    "exampleRu": "Я делаю домашнее задание.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "macht",
+      "perfekt": "hat gemacht"
+    }
+  },
+  {
+    "id": "w_0388",
+    "de": "spielen",
+    "ru": "играть",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Die Kinder spielen draußen.",
+    "exampleRu": "Дети играют на улице.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "spielt",
+      "perfekt": "hat gespielt"
+    }
+  },
+  {
+    "id": "w_0389",
+    "de": "kaufen",
+    "ru": "покупать",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Ich kaufe ein Brot.",
+    "exampleRu": "Я покупаю хлеб.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "kauft",
+      "perfekt": "hat gekauft"
+    }
+  },
+  {
+    "id": "w_0390",
+    "de": "wohnen",
+    "ru": "жить, проживать",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Ich wohne in Augsburg.",
+    "exampleRu": "Я живу в Аугсбурге.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "wohnt",
+      "perfekt": "hat gewohnt"
+    }
+  },
+  {
+    "id": "w_0391",
+    "de": "arbeiten",
+    "ru": "работать",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Ich arbeite heute.",
+    "exampleRu": "Я сегодня работаю.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "arbeitet",
+      "perfekt": "hat gearbeitet"
+    }
+  },
+  {
+    "id": "w_0392",
+    "de": "kochen",
+    "ru": "готовить",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Ich koche heute.",
+    "exampleRu": "Я сегодня готовлю.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "kocht",
+      "perfekt": "hat gekocht"
+    }
+  },
+  {
+    "id": "w_0393",
+    "de": "besuchen",
+    "ru": "посещать",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Ich besuche meine Eltern.",
+    "exampleRu": "Я навещаю родителей.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "besucht",
+      "perfekt": "hat besucht"
+    }
+  },
+  {
+    "id": "w_0394",
+    "de": "brauchen",
+    "ru": "нуждаться",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Ich brauche Hilfe.",
+    "exampleRu": "Мне нужна помощь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "braucht",
+      "perfekt": "hat gebraucht"
+    }
+  },
+  {
+    "id": "w_0395",
+    "de": "suchen",
+    "ru": "искать",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Ich suche meine Tasche.",
+    "exampleRu": "Я ищу сумку.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "sucht",
+      "perfekt": "hat gesucht"
+    }
+  },
+  {
+    "id": "w_0396",
+    "de": "zeigen",
+    "ru": "показывать",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Zeig mir das Foto.",
+    "exampleRu": "Покажи мне фотографию.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "zeigt",
+      "perfekt": "hat gezeigt"
+    }
+  },
+  {
+    "id": "w_0397",
+    "de": "öffnen",
+    "ru": "открывать",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Ich öffne das Fenster.",
+    "exampleRu": "Я открываю окно.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "öffnet",
+      "perfekt": "hat geöffnet"
+    }
+  },
+  {
+    "id": "w_0398",
+    "de": "lieben",
+    "ru": "любить",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Ich liebe meine Familie.",
+    "exampleRu": "Я люблю свою семью.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "liebt",
+      "perfekt": "hat geliebt"
+    }
+  },
+  {
+    "id": "w_0399",
+    "de": "leben",
+    "ru": "жить",
+    "categories": [
+      "regular"
+    ],
+    "lesson": 1,
+    "example": "Wir leben in Deutschland.",
+    "exampleRu": "Мы живём в Германии.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "lebt",
+      "perfekt": "hat gelebt"
+    }
+  },
+  {
+    "id": "w_0400",
+    "de": "bringen",
+    "ru": "приносить",
+    "categories": [
+      "mixed"
+    ],
+    "lesson": 1,
+    "example": "Ich bringe dir das Buch.",
+    "exampleRu": "Я принесу тебе книгу.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "bringt",
+      "perfekt": "hat gebracht"
+    }
+  },
+  {
+    "id": "w_0401",
+    "de": "denken",
+    "ru": "думать",
+    "categories": [
+      "mixed"
+    ],
+    "lesson": 1,
+    "example": "Ich denke an dich.",
+    "exampleRu": "Я думаю о тебе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "denkt",
+      "perfekt": "hat gedacht"
+    }
+  },
+  {
+    "id": "w_0402",
+    "de": "kennen",
+    "ru": "знать (быть знакомым)",
+    "categories": [
+      "mixed"
+    ],
+    "lesson": 1,
+    "example": "Ich kenne den Mann.",
+    "exampleRu": "Я знаю этого мужчину.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "kennt",
+      "perfekt": "hat gekannt"
+    }
+  },
+  {
+    "id": "w_0403",
+    "de": "wissen",
+    "ru": "знать (факт)",
+    "categories": [
+      "mixed"
+    ],
+    "lesson": 1,
+    "example": "Ich weiß die Antwort.",
+    "exampleRu": "Я знаю ответ.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "weiß",
+      "perfekt": "hat gewusst"
+    }
+  },
+  {
+    "id": "w_0404",
+    "de": "haben",
+    "ru": "иметь",
+    "categories": [
+      "mixed"
+    ],
+    "lesson": 1,
+    "example": "Ich habe zwei Kinder.",
+    "exampleRu": "У меня двое детей.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "hat",
+      "perfekt": "hat gehabt"
+    }
+  },
+  {
+    "id": "w_0405",
+    "de": "können",
+    "ru": "мочь, уметь",
+    "categories": [
+      "modal"
+    ],
+    "lesson": 1,
+    "example": "Ich kann Deutsch sprechen.",
+    "exampleRu": "Я могу говорить по-немецки.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "kann",
+      "perfekt": "hat gekonnt"
+    }
+  },
+  {
+    "id": "w_0406",
+    "de": "müssen",
+    "ru": "быть должным",
+    "categories": [
+      "modal"
+    ],
+    "lesson": 1,
+    "example": "Ich muss heute arbeiten.",
+    "exampleRu": "Я должен сегодня работать.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "muss",
+      "perfekt": "hat gemusst"
+    }
+  },
+  {
+    "id": "w_0407",
+    "de": "dürfen",
+    "ru": "иметь разрешение",
+    "categories": [
+      "modal"
+    ],
+    "lesson": 1,
+    "example": "Darf ich hier parken?",
+    "exampleRu": "Можно мне здесь парковаться?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "darf",
+      "perfekt": "hat gedurft"
+    }
+  },
+  {
+    "id": "w_0408",
+    "de": "sollen",
+    "ru": "следует, должен",
+    "categories": [
+      "modal"
+    ],
+    "lesson": 1,
+    "example": "Du sollst viel trinken.",
+    "exampleRu": "Тебе следует много пить.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "soll",
+      "perfekt": "hat gesollt"
+    }
+  },
+  {
+    "id": "w_0409",
+    "de": "wollen",
+    "ru": "хотеть",
+    "categories": [
+      "modal"
+    ],
+    "lesson": 1,
+    "example": "Ich will nach Hause.",
+    "exampleRu": "Я хочу домой.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "will",
+      "perfekt": "hat gewollt"
+    }
+  },
+  {
+    "id": "w_0410",
+    "de": "mögen",
+    "ru": "любить, нравиться",
+    "categories": [
+      "modal"
+    ],
+    "lesson": 1,
+    "example": "Ich mag Kaffee.",
+    "exampleRu": "Я люблю кофе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "mag",
+      "perfekt": "hat gemocht"
+    }
+  },
+  {
+    "id": "w_0411",
+    "de": "möchten",
+    "ru": "хотел(а) бы",
+    "categories": [
+      "modal"
+    ],
+    "lesson": 1,
+    "example": "Ich möchte einen Tee.",
+    "exampleRu": "Я хотел бы чай.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "möchte",
+      "perfekt": "—"
+    }
+  },
+  {
+    "id": "w_0412",
+    "de": "anrufen",
+    "ru": "звонить",
+    "categories": [
+      "separable"
+    ],
+    "lesson": 1,
+    "example": "Ich rufe meine Mutter an.",
+    "exampleRu": "Я звоню маме.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "ruft an",
+      "perfekt": "hat angerufen"
+    }
+  },
+  {
+    "id": "w_0413",
+    "de": "ankommen",
+    "ru": "прибывать",
+    "categories": [
+      "separable"
+    ],
+    "lesson": 1,
+    "example": "Der Zug kommt um neun an.",
+    "exampleRu": "Поезд прибывает в девять.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "kommt an",
+      "perfekt": "ist angekommen"
+    }
+  },
+  {
+    "id": "w_0414",
+    "de": "abfahren",
+    "ru": "отправляться",
+    "categories": [
+      "separable"
+    ],
+    "lesson": 1,
+    "example": "Der Zug fährt um acht ab.",
+    "exampleRu": "Поезд отправляется в восемь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "fährt ab",
+      "perfekt": "ist abgefahren"
+    }
+  },
+  {
+    "id": "w_0415",
+    "de": "einsteigen",
+    "ru": "садиться (в транспорт)",
+    "categories": [
+      "separable"
+    ],
+    "lesson": 1,
+    "example": "Ich steige in den Bus ein.",
+    "exampleRu": "Я сажусь в автобус.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "steigt ein",
+      "perfekt": "ist eingestiegen"
+    }
+  },
+  {
+    "id": "w_0416",
+    "de": "aussteigen",
+    "ru": "выходить (из транспорта)",
+    "categories": [
+      "separable"
+    ],
+    "lesson": 1,
+    "example": "Ich steige hier aus.",
+    "exampleRu": "Я выхожу здесь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "steigt aus",
+      "perfekt": "ist ausgestiegen"
+    }
+  },
+  {
+    "id": "w_0417",
+    "de": "umsteigen",
+    "ru": "делать пересадку",
+    "categories": [
+      "separable"
+    ],
+    "lesson": 1,
+    "example": "Ich steige am Bahnhof um.",
+    "exampleRu": "Я пересаживаюсь на вокзале.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "steigt um",
+      "perfekt": "ist umgestiegen"
+    }
+  },
+  {
+    "id": "w_0418",
+    "de": "mitbringen",
+    "ru": "приносить с собой",
+    "categories": [
+      "separable"
+    ],
+    "lesson": 1,
+    "example": "Ich bringe Brot mit.",
+    "exampleRu": "Я принесу хлеб.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "bringt mit",
+      "perfekt": "hat mitgebracht"
+    }
+  },
+  {
+    "id": "w_0419",
+    "de": "fernsehen",
+    "ru": "смотреть телевизор",
+    "categories": [
+      "separable"
+    ],
+    "lesson": 1,
+    "example": "Ich sehe abends fern.",
+    "exampleRu": "Я смотрю телевизор по вечерам.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "sieht fern",
+      "perfekt": "hat ferngesehen"
+    }
+  },
+  {
+    "id": "w_0420",
+    "de": "wer",
+    "ru": "кто",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wer kommt heute?",
+    "exampleRu": "Кто придёт сегодня?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0421",
+    "de": "wen",
+    "ru": "кого (Akkusativ)",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wen besuchst du?",
+    "exampleRu": "Кого ты навещаешь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0422",
+    "de": "wem",
+    "ru": "кому (Dativ)",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wem hilfst du?",
+    "exampleRu": "Кому ты помогаешь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0423",
+    "de": "wessen",
+    "ru": "чей, чья, чьё",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wessen Tasche ist das?",
+    "exampleRu": "Чья это сумка?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0424",
+    "de": "was",
+    "ru": "что",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Was machst du?",
+    "exampleRu": "Что ты делаешь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0425",
+    "de": "wann",
+    "ru": "когда",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wann beginnt der Kurs?",
+    "exampleRu": "Когда начинается курс?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0426",
+    "de": "wo",
+    "ru": "где",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wo wohnst du?",
+    "exampleRu": "Где ты живёшь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0427",
+    "de": "wohin",
+    "ru": "куда",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wohin gehst du?",
+    "exampleRu": "Куда ты идёшь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0428",
+    "de": "woher",
+    "ru": "откуда",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Woher kommst du?",
+    "exampleRu": "Откуда ты?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0429",
+    "de": "warum",
+    "ru": "почему",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Warum lernst du Deutsch?",
+    "exampleRu": "Почему ты учишь немецкий?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0430",
+    "de": "wieso",
+    "ru": "почему",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wieso bist du müde?",
+    "exampleRu": "Почему ты устал?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0431",
+    "de": "weshalb",
+    "ru": "по какой причине",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Weshalb bist du hier?",
+    "exampleRu": "По какой причине ты здесь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0432",
+    "de": "wie",
+    "ru": "как",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wie geht es dir?",
+    "exampleRu": "Как у тебя дела?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0433",
+    "de": "wie viel",
+    "ru": "сколько (масса/количество)",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wie viel Wasser brauchst du?",
+    "exampleRu": "Сколько воды тебе нужно?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0434",
+    "de": "wie viele",
+    "ru": "сколько (штук)",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wie viele Kinder hast du?",
+    "exampleRu": "Сколько у тебя детей?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0435",
+    "de": "wie lange",
+    "ru": "как долго",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wie lange dauert der Kurs?",
+    "exampleRu": "Как долго длится курс?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0436",
+    "de": "wie oft",
+    "ru": "как часто",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wie oft trainierst du?",
+    "exampleRu": "Как часто ты тренируешься?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0437",
+    "de": "wie spät",
+    "ru": "который час",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wie spät ist es?",
+    "exampleRu": "Который час?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0438",
+    "de": "seit wann",
+    "ru": "с каких пор",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Seit wann wohnst du hier?",
+    "exampleRu": "С каких пор ты здесь живёшь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0439",
+    "de": "bis wann",
+    "ru": "до какого момента",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Bis wann arbeitest du?",
+    "exampleRu": "До скольких ты работаешь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0440",
+    "de": "ab wann",
+    "ru": "с какого момента",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Ab wann hast du Zeit?",
+    "exampleRu": "С какого времени ты свободен?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0441",
+    "de": "mit wem",
+    "ru": "с кем",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Mit wem gehst du?",
+    "exampleRu": "С кем ты идёшь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0442",
+    "de": "womit",
+    "ru": "чем, с помощью чего",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Womit fährst du?",
+    "exampleRu": "На чём ты едешь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0443",
+    "de": "wofür",
+    "ru": "для чего",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wofür brauchst du das?",
+    "exampleRu": "Для чего тебе это нужно?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0444",
+    "de": "woran",
+    "ru": "о чём / над чем",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Woran denkst du?",
+    "exampleRu": "О чём ты думаешь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0445",
+    "de": "worauf",
+    "ru": "на что / чего",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Worauf wartest du?",
+    "exampleRu": "Чего ты ждёшь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0446",
+    "de": "worüber",
+    "ru": "о чём",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Worüber sprecht ihr?",
+    "exampleRu": "О чём вы говорите?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0447",
+    "de": "wovon",
+    "ru": "о чём / от чего",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wovon träumst du?",
+    "exampleRu": "О чём ты мечтаешь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0448",
+    "de": "wobei",
+    "ru": "при чём / в чём",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wobei kann ich helfen?",
+    "exampleRu": "С чем я могу помочь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0449",
+    "de": "wodurch",
+    "ru": "через что / благодаря чему",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wodurch ist das passiert?",
+    "exampleRu": "Из-за чего это произошло?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0450",
+    "de": "welcher",
+    "ru": "какой (м.р.)",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Welcher Bus fährt zum Bahnhof?",
+    "exampleRu": "Какой автобус едет на вокзал?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0451",
+    "de": "welche",
+    "ru": "какая / какие",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Welche Jacke gefällt dir?",
+    "exampleRu": "Какая куртка тебе нравится?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0452",
+    "de": "welches",
+    "ru": "какое (ср.р.)",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Welches Buch liest du?",
+    "exampleRu": "Какую книгу ты читаешь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0453",
+    "de": "wie alt",
+    "ru": "сколько лет",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wie alt bist du?",
+    "exampleRu": "Сколько тебе лет?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0454",
+    "de": "wie groß",
+    "ru": "какого роста / насколько большой",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wie groß bist du?",
+    "exampleRu": "Какого ты роста?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0455",
+    "de": "wie weit",
+    "ru": "как далеко",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wie weit ist es zum Bahnhof?",
+    "exampleRu": "Как далеко до вокзала?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "verb_extra_001",
+    "de": "fangen",
+    "ru": "ловить",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Er fängt den Ball.",
+    "exampleRu": "Он ловит мяч.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "fängt",
+      "perfekt": "hat gefangen"
+    }
+  },
+  {
+    "id": "verb_extra_002",
+    "de": "backen",
+    "ru": "печь",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich backe Brot.",
+    "exampleRu": "Я пеку хлеб.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "backt",
+      "perfekt": "hat gebacken"
+    }
+  },
+  {
+    "id": "verb_extra_003",
+    "de": "biegen",
+    "ru": "поворачивать, сгибать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Der Bus biegt links ab.",
+    "exampleRu": "Автобус поворачивает налево.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "biegt",
+      "perfekt": "hat gebogen"
+    }
+  },
+  {
+    "id": "verb_extra_004",
+    "de": "bieten",
+    "ru": "предлагать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Sie bietet mir Hilfe an.",
+    "exampleRu": "Она предлагает мне помощь.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "bietet",
+      "perfekt": "hat geboten"
+    }
+  },
+  {
+    "id": "verb_extra_005",
+    "de": "bitten",
+    "ru": "просить",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich bitte dich um Hilfe.",
+    "exampleRu": "Я прошу тебя о помощи.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "bittet",
+      "perfekt": "hat gebeten"
+    }
+  },
+  {
+    "id": "verb_extra_006",
+    "de": "braten",
+    "ru": "жарить",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich brate Kartoffeln.",
+    "exampleRu": "Я жарю картофель.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "brät",
+      "perfekt": "hat gebraten"
+    }
+  },
+  {
+    "id": "verb_extra_007",
+    "de": "gewinnen",
+    "ru": "выигрывать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Wir gewinnen das Spiel.",
+    "exampleRu": "Мы выигрываем игру.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "gewinnt",
+      "perfekt": "hat gewonnen"
+    }
+  },
+  {
+    "id": "verb_extra_008",
+    "de": "laden",
+    "ru": "загружать, приглашать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Er lädt das Auto.",
+    "exampleRu": "Он загружает машину.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "lädt",
+      "perfekt": "hat geladen"
+    }
+  },
+  {
+    "id": "verb_extra_009",
+    "de": "liegen",
+    "ru": "лежать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Das Buch liegt auf dem Tisch.",
+    "exampleRu": "Книга лежит на столе.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "liegt",
+      "perfekt": "hat gelegen"
+    }
+  },
+  {
+    "id": "verb_extra_010",
+    "de": "nennen",
+    "ru": "называть",
+    "categories": [
+      "mixed"
+    ],
+    "lesson": null,
+    "example": "Wie nennt man das?",
+    "exampleRu": "Как это называется?",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "nennt",
+      "perfekt": "hat genannt"
+    }
+  },
+  {
+    "id": "verb_extra_011",
+    "de": "rennen",
+    "ru": "бежать",
+    "categories": [
+      "mixed"
+    ],
+    "lesson": null,
+    "example": "Das Kind rennt schnell.",
+    "exampleRu": "Ребёнок быстро бежит.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "rennt",
+      "perfekt": "ist gerannt"
+    }
+  },
+  {
+    "id": "verb_extra_012",
+    "de": "riechen",
+    "ru": "пахнуть, нюхать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Die Blumen riechen gut.",
+    "exampleRu": "Цветы приятно пахнут.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "riecht",
+      "perfekt": "hat gerochen"
+    }
+  },
+  {
+    "id": "verb_extra_013",
+    "de": "schließen",
+    "ru": "закрывать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich schließe das Fenster.",
+    "exampleRu": "Я закрываю окно.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "schließt",
+      "perfekt": "hat geschlossen"
+    }
+  },
+  {
+    "id": "verb_extra_014",
+    "de": "sitzen",
+    "ru": "сидеть",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich sitze auf dem Stuhl.",
+    "exampleRu": "Я сижу на стуле.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "sitzt",
+      "perfekt": "hat gesessen"
+    }
+  },
+  {
+    "id": "verb_extra_015",
+    "de": "steigen",
+    "ru": "подниматься",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Die Preise steigen.",
+    "exampleRu": "Цены растут.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "steigt",
+      "perfekt": "ist gestiegen"
+    }
+  },
+  {
+    "id": "verb_extra_016",
+    "de": "sterben",
+    "ru": "умирать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Die Pflanze ist gestorben.",
+    "exampleRu": "Растение погибло.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "stirbt",
+      "perfekt": "ist gestorben"
+    }
+  },
+  {
+    "id": "verb_extra_017",
+    "de": "vergessen",
+    "ru": "забывать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich vergesse das nie.",
+    "exampleRu": "Я никогда этого не забуду.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "vergisst",
+      "perfekt": "hat vergessen"
+    }
+  },
+  {
+    "id": "verb_extra_018",
+    "de": "verlieren",
+    "ru": "терять",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich verliere meinen Schlüssel.",
+    "exampleRu": "Я теряю свой ключ.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "verliert",
+      "perfekt": "hat verloren"
+    }
+  },
+  {
+    "id": "verb_extra_019",
+    "de": "wachsen",
+    "ru": "расти",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Die Kinder sind gewachsen.",
+    "exampleRu": "Дети выросли.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "wächst",
+      "perfekt": "ist gewachsen"
+    }
+  },
+  {
+    "id": "verb_extra_020",
+    "de": "waschen",
+    "ru": "мыть, стирать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich wasche meine Hände.",
+    "exampleRu": "Я мою руки.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "wäscht",
+      "perfekt": "hat gewaschen"
+    }
+  },
+  {
+    "id": "verb_extra_021",
+    "de": "werfen",
+    "ru": "бросать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Er wirft den Ball.",
+    "exampleRu": "Он бросает мяч.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "wirft",
+      "perfekt": "hat geworfen"
+    }
+  },
+  {
+    "id": "verb_extra_022",
+    "de": "befehlen",
+    "ru": "приказывать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Der Chef befiehlt etwas.",
+    "exampleRu": "Начальник что-то приказывает.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "befiehlt",
+      "perfekt": "hat befohlen"
+    }
+  },
+  {
+    "id": "verb_extra_023",
+    "de": "beißen",
+    "ru": "кусать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Der Hund beißt nicht.",
+    "exampleRu": "Собака не кусается.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "beißt",
+      "perfekt": "hat gebissen"
+    }
+  },
+  {
+    "id": "verb_extra_024",
+    "de": "binden",
+    "ru": "связывать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich binde die Schuhe.",
+    "exampleRu": "Я завязываю обувь.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "bindet",
+      "perfekt": "hat gebunden"
+    }
+  },
+  {
+    "id": "verb_extra_025",
+    "de": "brechen",
+    "ru": "ломать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Er hat den Arm gebrochen.",
+    "exampleRu": "Он сломал руку.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "bricht",
+      "perfekt": "hat gebrochen"
+    }
+  },
+  {
+    "id": "verb_extra_026",
+    "de": "brennen",
+    "ru": "гореть",
+    "categories": [
+      "mixed"
+    ],
+    "lesson": null,
+    "example": "Das Licht brennt noch.",
+    "exampleRu": "Свет ещё горит.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "brennt",
+      "perfekt": "hat gebrannt"
+    }
+  },
+  {
+    "id": "verb_extra_027",
+    "de": "empfehlen",
+    "ru": "рекомендовать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich empfehle dieses Buch.",
+    "exampleRu": "Я рекомендую эту книгу.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "empfiehlt",
+      "perfekt": "hat empfohlen"
+    }
+  },
+  {
+    "id": "verb_extra_028",
+    "de": "frieren",
+    "ru": "мёрзнуть",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich friere heute.",
+    "exampleRu": "Мне сегодня холодно.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "friert",
+      "perfekt": "hat gefroren"
+    }
+  },
+  {
+    "id": "verb_extra_029",
+    "de": "genießen",
+    "ru": "наслаждаться",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich genieße den Urlaub.",
+    "exampleRu": "Я наслаждаюсь отпуском.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "genießt",
+      "perfekt": "hat genossen"
+    }
+  },
+  {
+    "id": "verb_extra_030",
+    "de": "halten",
+    "ru": "держать, останавливаться",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Der Bus hält hier.",
+    "exampleRu": "Автобус здесь останавливается.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "hält",
+      "perfekt": "hat gehalten"
+    }
+  },
+  {
+    "id": "verb_extra_031",
+    "de": "lassen",
+    "ru": "позволять, оставлять",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Lass das bitte!",
+    "exampleRu": "Оставь это, пожалуйста!",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "lässt",
+      "perfekt": "hat gelassen"
+    }
+  },
+  {
+    "id": "verb_extra_032",
+    "de": "messen",
+    "ru": "измерять",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich messe den Tisch.",
+    "exampleRu": "Я измеряю стол.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "misst",
+      "perfekt": "hat gemessen"
+    }
+  }
+]

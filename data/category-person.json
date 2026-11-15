@@ -1,0 +1,173 @@
+[
+  {
+    "id": "w_0003",
+    "de": "Ich heiße …",
+    "ru": "Меня зовут …",
+    "categories": [
+      "person",
+      "phrases"
+    ],
+    "lesson": 1,
+    "example": "Ich heiße Anna.",
+    "exampleRu": "Меня зовут Анна.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0004",
+    "de": "Woher kommst du?",
+    "ru": "Откуда ты?",
+    "categories": [
+      "person"
+    ],
+    "lesson": 1,
+    "example": "Ich komme aus Deutschland.",
+    "exampleRu": "Я из Германии.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0051",
+    "de": "der Name",
+    "ru": "имя",
+    "categories": [
+      "person"
+    ],
+    "lesson": 1,
+    "example": "Wie ist dein Name?",
+    "exampleRu": "Как тебя зовут?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0052",
+    "de": "der Vorname",
+    "ru": "имя",
+    "categories": [
+      "person"
+    ],
+    "lesson": 1,
+    "example": "Mein Vorname ist Anna.",
+    "exampleRu": "Меня зовут Анна.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0053",
+    "de": "der Nachname",
+    "ru": "фамилия",
+    "categories": [
+      "person"
+    ],
+    "lesson": 1,
+    "example": "Wie ist Ihr Nachname?",
+    "exampleRu": "Какая у вас фамилия?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0054",
+    "de": "die Adresse",
+    "ru": "адрес",
+    "categories": [
+      "person"
+    ],
+    "lesson": 1,
+    "example": "Wie ist deine Adresse?",
+    "exampleRu": "Какой у тебя адрес?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0055",
+    "de": "die Telefonnummer",
+    "ru": "номер телефона",
+    "categories": [
+      "person"
+    ],
+    "lesson": 1,
+    "example": "Was ist deine Telefonnummer?",
+    "exampleRu": "Какой у тебя номер телефона?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0056",
+    "de": "die E-Mail-Adresse",
+    "ru": "адрес электронной почты",
+    "categories": [
+      "person"
+    ],
+    "lesson": 1,
+    "example": "Ich brauche deine E-Mail-Adresse.",
+    "exampleRu": "Мне нужен твой адрес электронной почты.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0057",
+    "de": "das Land",
+    "ru": "страна",
+    "categories": [
+      "person"
+    ],
+    "lesson": 1,
+    "example": "Aus welchem Land kommst du?",
+    "exampleRu": "Из какой ты страны?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0058",
+    "de": "die Stadt",
+    "ru": "город",
+    "categories": [
+      "person"
+    ],
+    "lesson": 1,
+    "example": "Ich wohne in einer Stadt.",
+    "exampleRu": "Я живу в городе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Städte"
+  },
+  {
+    "id": "w_0059",
+    "de": "die Sprache",
+    "ru": "язык",
+    "categories": [
+      "person"
+    ],
+    "lesson": 1,
+    "example": "Welche Sprachen sprichst du?",
+    "exampleRu": "На каких языках ты говоришь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0060",
+    "de": "ledig",
+    "ru": "неженатый, незамужняя",
+    "categories": [
+      "person"
+    ],
+    "lesson": 1,
+    "example": "Ich bin ledig.",
+    "exampleRu": "Я не женат.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0061",
+    "de": "verheiratet",
+    "ru": "женатый, замужняя",
+    "categories": [
+      "person"
+    ],
+    "lesson": 1,
+    "example": "Ich bin verheiratet.",
+    "exampleRu": "Я женат.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

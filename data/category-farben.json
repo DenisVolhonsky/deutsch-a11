@@ -1,0 +1,110 @@
+[
+  {
+    "id": "w_0011",
+    "de": "rot",
+    "ru": "красный",
+    "categories": [
+      "farben",
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 3,
+    "example": "Die Tasche ist rot.",
+    "exampleRu": "Сумка красная.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0012",
+    "de": "blau",
+    "ru": "синий",
+    "categories": [
+      "farben",
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 3,
+    "example": "Das Auto ist blau.",
+    "exampleRu": "Машина синяя.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0091",
+    "de": "grün",
+    "ru": "зелёный",
+    "categories": [
+      "farben"
+    ],
+    "lesson": 14,
+    "example": "Die Tasche ist grün.",
+    "exampleRu": "Сумка зелёная.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0092",
+    "de": "gelb",
+    "ru": "жёлтый",
+    "categories": [
+      "farben"
+    ],
+    "lesson": 14,
+    "example": "Die Banane ist gelb.",
+    "exampleRu": "Банан жёлтый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0093",
+    "de": "schwarz",
+    "ru": "чёрный",
+    "categories": [
+      "farben"
+    ],
+    "lesson": 14,
+    "example": "Die Schuhe sind schwarz.",
+    "exampleRu": "Туфли чёрные.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0094",
+    "de": "weiß",
+    "ru": "белый",
+    "categories": [
+      "farben"
+    ],
+    "lesson": 14,
+    "example": "Das T-Shirt ist weiß.",
+    "exampleRu": "Футболка белая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0095",
+    "de": "grau",
+    "ru": "серый",
+    "categories": [
+      "farben"
+    ],
+    "lesson": 14,
+    "example": "Der Pullover ist grau.",
+    "exampleRu": "Свитер серый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0096",
+    "de": "braun",
+    "ru": "коричневый",
+    "categories": [
+      "farben"
+    ],
+    "lesson": 14,
+    "example": "Der Tisch ist braun.",
+    "exampleRu": "Стол коричневый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

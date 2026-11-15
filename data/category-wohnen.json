@@ -1,0 +1,230 @@
+[
+  {
+    "id": "w_0009",
+    "de": "der Tisch, die Tische",
+    "ru": "стол",
+    "categories": [
+      "gegen",
+      "wohnen"
+    ],
+    "lesson": 3,
+    "example": "Der Tisch steht im Zimmer.",
+    "exampleRu": "Стол стоит в комнате.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0010",
+    "de": "der Stuhl, die Stühle",
+    "ru": "стул",
+    "categories": [
+      "gegen",
+      "wohnen"
+    ],
+    "lesson": 3,
+    "example": "Der Stuhl ist bequem.",
+    "exampleRu": "Стул удобный.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0025",
+    "de": "die Küche, die Küchen",
+    "ru": "кухня",
+    "categories": [
+      "wohnen",
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Die Küche ist hell.",
+    "exampleRu": "Кухня светлая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0026",
+    "de": "der Schrank, die Schränke",
+    "ru": "шкаф",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Der Schrank steht im Schlafzimmer.",
+    "exampleRu": "Шкаф стоит в спальне.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0182",
+    "de": "die Wohnung",
+    "ru": "квартира",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Meine Wohnung ist groß.",
+    "exampleRu": "Моя квартира большая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Wohnungen"
+  },
+  {
+    "id": "w_0183",
+    "de": "das Haus",
+    "ru": "дом",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Unser Haus hat einen Garten.",
+    "exampleRu": "У нашего дома есть сад.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Häuser",
+    "image": "images/photo/haus.webp"
+  },
+  {
+    "id": "w_0184",
+    "de": "das Zimmer",
+    "ru": "комната",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Mein Zimmer ist hell.",
+    "exampleRu": "Моя комната светлая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Zimmer"
+  },
+  {
+    "id": "w_0185",
+    "de": "das Wohnzimmer",
+    "ru": "гостиная",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Wir sitzen im Wohnzimmer.",
+    "exampleRu": "Мы сидим в гостиной.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0186",
+    "de": "das Schlafzimmer",
+    "ru": "спальня",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Das Bett steht im Schlafzimmer.",
+    "exampleRu": "Кровать стоит в спальне.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0187",
+    "de": "das Badezimmer",
+    "ru": "ванная комната",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Das Badezimmer ist klein.",
+    "exampleRu": "Ванная маленькая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0188",
+    "de": "die Küche",
+    "ru": "кухня",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Die Küche ist neu.",
+    "exampleRu": "Кухня новая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0189",
+    "de": "das Fenster",
+    "ru": "окно",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Das Fenster ist offen.",
+    "exampleRu": "Окно открыто.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0190",
+    "de": "die Tür",
+    "ru": "дверь",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Mach bitte die Tür zu.",
+    "exampleRu": "Закрой, пожалуйста, дверь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0191",
+    "de": "das Bett",
+    "ru": "кровать",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Das Bett ist bequem.",
+    "exampleRu": "Кровать удобная.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0192",
+    "de": "der Schrank",
+    "ru": "шкаф",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Der Schrank steht im Flur.",
+    "exampleRu": "Шкаф стоит в коридоре.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0193",
+    "de": "das Sofa",
+    "ru": "диван",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Das Sofa ist bequem.",
+    "exampleRu": "Диван удобный.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0194",
+    "de": "die Lampe",
+    "ru": "лампа",
+    "categories": [
+      "wohnen"
+    ],
+    "lesson": 11,
+    "example": "Die Lampe steht auf dem Tisch.",
+    "exampleRu": "Лампа стоит на столе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

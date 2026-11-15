@@ -1,0 +1,133 @@
+[
+  {
+    "id": "w_0023",
+    "de": "links",
+    "ru": "слева, налево",
+    "categories": [
+      "wege"
+    ],
+    "lesson": 15,
+    "example": "Gehen Sie hier links.",
+    "exampleRu": "Поверните здесь налево.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0024",
+    "de": "rechts",
+    "ru": "справа, направо",
+    "categories": [
+      "wege"
+    ],
+    "lesson": 15,
+    "example": "Dann gehen Sie rechts.",
+    "exampleRu": "Затем поверните направо.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0174",
+    "de": "die Straße",
+    "ru": "улица",
+    "categories": [
+      "wege"
+    ],
+    "lesson": 15,
+    "example": "Gehen Sie diese Straße entlang.",
+    "exampleRu": "Идите вдоль этой улицы.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Straßen"
+  },
+  {
+    "id": "w_0175",
+    "de": "die Ampel",
+    "ru": "светофор",
+    "categories": [
+      "wege"
+    ],
+    "lesson": 15,
+    "example": "An der Ampel links.",
+    "exampleRu": "На светофоре налево.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0176",
+    "de": "die Kreuzung",
+    "ru": "перекрёсток",
+    "categories": [
+      "wege"
+    ],
+    "lesson": 15,
+    "example": "Biegen Sie an der Kreuzung rechts ab.",
+    "exampleRu": "На перекрёстке поверните направо.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0177",
+    "de": "geradeaus",
+    "ru": "прямо",
+    "categories": [
+      "wege"
+    ],
+    "lesson": 15,
+    "example": "Gehen Sie geradeaus.",
+    "exampleRu": "Идите прямо.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0178",
+    "de": "die Haltestelle",
+    "ru": "остановка",
+    "categories": [
+      "wege"
+    ],
+    "lesson": 15,
+    "example": "Wo ist die Haltestelle?",
+    "exampleRu": "Где остановка?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0179",
+    "de": "die Post",
+    "ru": "почта",
+    "categories": [
+      "wege"
+    ],
+    "lesson": 15,
+    "example": "Ich gehe zur Post.",
+    "exampleRu": "Я иду на почту.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0180",
+    "de": "die Apotheke",
+    "ru": "аптека",
+    "categories": [
+      "wege"
+    ],
+    "lesson": 15,
+    "example": "Die Apotheke ist hier.",
+    "exampleRu": "Аптека здесь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0181",
+    "de": "die Bank",
+    "ru": "банк",
+    "categories": [
+      "wege"
+    ],
+    "lesson": 15,
+    "example": "Die Bank ist neben der Post.",
+    "exampleRu": "Банк рядом с почтой.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

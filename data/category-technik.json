@@ -1,0 +1,106 @@
+[
+  {
+    "id": "w_0323",
+    "de": "der Computer",
+    "ru": "компьютер",
+    "categories": [
+      "technik"
+    ],
+    "lesson": 10,
+    "example": "Mein Computer ist neu.",
+    "exampleRu": "Мой компьютер новый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0324",
+    "de": "der Bildschirm",
+    "ru": "экран",
+    "categories": [
+      "technik"
+    ],
+    "lesson": 10,
+    "example": "Der Bildschirm ist groß.",
+    "exampleRu": "Экран большой.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0325",
+    "de": "das Internet",
+    "ru": "интернет",
+    "categories": [
+      "technik"
+    ],
+    "lesson": 10,
+    "example": "Das Internet funktioniert.",
+    "exampleRu": "Интернет работает.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0326",
+    "de": "die Nachricht",
+    "ru": "сообщение",
+    "categories": [
+      "technik"
+    ],
+    "lesson": 10,
+    "example": "Ich habe eine Nachricht.",
+    "exampleRu": "У меня сообщение.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0327",
+    "de": "die App",
+    "ru": "приложение",
+    "categories": [
+      "technik"
+    ],
+    "lesson": 10,
+    "example": "Ich benutze eine App.",
+    "exampleRu": "Я использую приложение.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0328",
+    "de": "der Akku",
+    "ru": "аккумулятор",
+    "categories": [
+      "technik"
+    ],
+    "lesson": 10,
+    "example": "Mein Akku ist leer.",
+    "exampleRu": "Мой аккумулятор разряжен.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0329",
+    "de": "die Kamera",
+    "ru": "камера",
+    "categories": [
+      "technik"
+    ],
+    "lesson": 10,
+    "example": "Die Kamera funktioniert.",
+    "exampleRu": "Камера работает.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0330",
+    "de": "das Passwort",
+    "ru": "пароль",
+    "categories": [
+      "technik"
+    ],
+    "lesson": 10,
+    "example": "Ich habe mein Passwort vergessen.",
+    "exampleRu": "Я забыл пароль.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

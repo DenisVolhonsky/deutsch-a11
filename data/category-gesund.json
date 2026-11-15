@@ -1,0 +1,162 @@
+[
+  {
+    "id": "w_0029",
+    "de": "der Kopf, die Köpfe",
+    "ru": "голова",
+    "categories": [
+      "gesund"
+    ],
+    "lesson": 12,
+    "example": "Mein Kopf tut weh.",
+    "exampleRu": "У меня болит голова.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0030",
+    "de": "zum Arzt gehen",
+    "ru": "идти к врачу",
+    "categories": [
+      "gesund"
+    ],
+    "lesson": 12,
+    "example": "Ich muss zum Arzt gehen.",
+    "exampleRu": "Мне нужно пойти к врачу.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0206",
+    "de": "die Gesundheit",
+    "ru": "здоровье",
+    "categories": [
+      "gesund"
+    ],
+    "lesson": 12,
+    "example": "Gesundheit ist wichtig.",
+    "exampleRu": "Здоровье важно.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0207",
+    "de": "der Arzttermin",
+    "ru": "приём у врача",
+    "categories": [
+      "gesund"
+    ],
+    "lesson": 12,
+    "example": "Ich habe einen Arzttermin.",
+    "exampleRu": "У меня приём у врача.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0208",
+    "de": "die Krankheit",
+    "ru": "болезнь",
+    "categories": [
+      "gesund"
+    ],
+    "lesson": 12,
+    "example": "Die Krankheit dauert lange.",
+    "exampleRu": "Болезнь длится долго.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0209",
+    "de": "das Fieber",
+    "ru": "температура, жар",
+    "categories": [
+      "gesund"
+    ],
+    "lesson": 12,
+    "example": "Ich habe Fieber.",
+    "exampleRu": "У меня температура.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0210",
+    "de": "der Husten",
+    "ru": "кашель",
+    "categories": [
+      "gesund"
+    ],
+    "lesson": 12,
+    "example": "Ich habe Husten.",
+    "exampleRu": "У меня кашель.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0211",
+    "de": "die Schmerzen",
+    "ru": "боли",
+    "categories": [
+      "gesund"
+    ],
+    "lesson": 12,
+    "example": "Ich habe Schmerzen.",
+    "exampleRu": "У меня боли.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0212",
+    "de": "die Tablette",
+    "ru": "таблетка",
+    "categories": [
+      "gesund"
+    ],
+    "lesson": 12,
+    "example": "Ich nehme eine Tablette.",
+    "exampleRu": "Я принимаю таблетку.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0213",
+    "de": "das Rezept",
+    "ru": "рецепт",
+    "categories": [
+      "gesund"
+    ],
+    "lesson": 12,
+    "example": "Der Arzt gibt mir ein Rezept.",
+    "exampleRu": "Врач даёт мне рецепт.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0214",
+    "de": "gesund",
+    "ru": "здоровый",
+    "categories": [
+      "gesund",
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 12,
+    "example": "Ich bin wieder gesund.",
+    "exampleRu": "Я снова здоров.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0215",
+    "de": "krank",
+    "ru": "больной",
+    "categories": [
+      "gesund",
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 12,
+    "example": "Heute bin ich krank.",
+    "exampleRu": "Сегодня я болею.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "w_0216",
+    "de": "der Kopf",
+    "ru": "голова",
+    "categories": [
+      "koerper"
+    ],
+    "lesson": 12,
+    "example": "Mein Kopf tut weh.",
+    "exampleRu": "У меня болит голова.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0217",
+    "de": "der Rücken",
+    "ru": "спина",
+    "categories": [
+      "koerper"
+    ],
+    "lesson": 12,
+    "example": "Mein Rücken tut weh.",
+    "exampleRu": "У меня болит спина.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0218",
+    "de": "der Arm",
+    "ru": "рука (от плеча)",
+    "categories": [
+      "koerper"
+    ],
+    "lesson": 12,
+    "example": "Mein Arm tut weh.",
+    "exampleRu": "У меня болит рука.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0219",
+    "de": "die Hand",
+    "ru": "кисть руки",
+    "categories": [
+      "koerper"
+    ],
+    "lesson": 12,
+    "example": "Meine Hand ist kalt.",
+    "exampleRu": "Моя кисть холодная.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0220",
+    "de": "das Bein",
+    "ru": "нога",
+    "categories": [
+      "koerper"
+    ],
+    "lesson": 12,
+    "example": "Mein Bein tut weh.",
+    "exampleRu": "У меня болит нога.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0221",
+    "de": "der Fuß",
+    "ru": "ступня",
+    "categories": [
+      "koerper"
+    ],
+    "lesson": 12,
+    "example": "Mein Fuß tut weh.",
+    "exampleRu": "У меня болит ступня.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0222",
+    "de": "der Bauch",
+    "ru": "живот",
+    "categories": [
+      "koerper"
+    ],
+    "lesson": 12,
+    "example": "Mein Bauch tut weh.",
+    "exampleRu": "У меня болит живот.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0223",
+    "de": "das Auge",
+    "ru": "глаз",
+    "categories": [
+      "koerper"
+    ],
+    "lesson": 12,
+    "example": "Mein Auge ist rot.",
+    "exampleRu": "Мой глаз красный.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0224",
+    "de": "das Ohr",
+    "ru": "ухо",
+    "categories": [
+      "koerper"
+    ],
+    "lesson": 12,
+    "example": "Mein Ohr tut weh.",
+    "exampleRu": "У меня болит ухо.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0225",
+    "de": "der Mund",
+    "ru": "рот",
+    "categories": [
+      "koerper"
+    ],
+    "lesson": 12,
+    "example": "Mach bitte den Mund auf.",
+    "exampleRu": "Открой, пожалуйста, рот.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

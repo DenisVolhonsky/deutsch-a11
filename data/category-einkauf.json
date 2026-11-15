@@ -1,0 +1,183 @@
+[
+  {
+    "id": "w_0016",
+    "de": "der Apfel, die Äpfel",
+    "ru": "яблоко",
+    "categories": [
+      "essen",
+      "einkauf"
+    ],
+    "lesson": 7,
+    "example": "Ich esse einen Apfel.",
+    "exampleRu": "Я ем яблоко.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0017",
+    "de": "das Brot, die Brote",
+    "ru": "хлеб",
+    "categories": [
+      "essen",
+      "einkauf"
+    ],
+    "lesson": 7,
+    "example": "Ich kaufe Brot.",
+    "exampleRu": "Я покупаю хлеб.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0018",
+    "de": "Wie viel kostet das?",
+    "ru": "Сколько это стоит?",
+    "categories": [
+      "einkauf",
+      "phrases"
+    ],
+    "lesson": 7,
+    "example": "Wie viel kostet das Brot?",
+    "exampleRu": "Сколько стоит хлеб?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0146",
+    "de": "der Supermarkt",
+    "ru": "супермаркет",
+    "categories": [
+      "einkauf"
+    ],
+    "lesson": 7,
+    "example": "Ich gehe zum Supermarkt.",
+    "exampleRu": "Я иду в супермаркет.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0147",
+    "de": "der Preis",
+    "ru": "цена",
+    "categories": [
+      "einkauf"
+    ],
+    "lesson": 7,
+    "example": "Wie hoch ist der Preis?",
+    "exampleRu": "Какова цена?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Preise"
+  },
+  {
+    "id": "w_0148",
+    "de": "das Geld",
+    "ru": "деньги",
+    "categories": [
+      "einkauf"
+    ],
+    "lesson": 7,
+    "example": "Ich habe kein Geld dabei.",
+    "exampleRu": "У меня нет с собой денег.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0149",
+    "de": "die Kasse",
+    "ru": "касса",
+    "categories": [
+      "einkauf"
+    ],
+    "lesson": 7,
+    "example": "Wo ist die Kasse?",
+    "exampleRu": "Где касса?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0150",
+    "de": "die Rechnung",
+    "ru": "счёт",
+    "categories": [
+      "einkauf"
+    ],
+    "lesson": 7,
+    "example": "Die Rechnung, bitte.",
+    "exampleRu": "Счёт, пожалуйста.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0151",
+    "de": "das Angebot",
+    "ru": "предложение, акция",
+    "categories": [
+      "einkauf"
+    ],
+    "lesson": 7,
+    "example": "Das ist ein gutes Angebot.",
+    "exampleRu": "Это хорошее предложение.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0152",
+    "de": "bezahlen",
+    "ru": "платить",
+    "categories": [
+      "einkauf",
+      "regular"
+    ],
+    "lesson": 7,
+    "example": "Ich habe mit Karte bezahlt.",
+    "exampleRu": "Я заплатил картой.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "bezahlt",
+      "perfekt": "hat bezahlt"
+    }
+  },
+  {
+    "id": "w_0153",
+    "de": "kosten",
+    "ru": "стоить",
+    "categories": [
+      "einkauf"
+    ],
+    "lesson": 7,
+    "example": "Was kostet das?",
+    "exampleRu": "Сколько это стоит?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0154",
+    "de": "billig",
+    "ru": "дешёвый",
+    "categories": [
+      "einkauf",
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 7,
+    "example": "Das ist sehr billig.",
+    "exampleRu": "Это очень дёшево.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0155",
+    "de": "teuer",
+    "ru": "дорогой",
+    "categories": [
+      "einkauf",
+      "adjektive",
+      "gegenteile"
+    ],
+    "lesson": 7,
+    "example": "Das ist zu teuer.",
+    "exampleRu": "Это слишком дорого.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

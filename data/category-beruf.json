@@ -1,0 +1,174 @@
+[
+  {
+    "id": "w_0005",
+    "de": "der Arzt, die Ärzte",
+    "ru": "врач",
+    "categories": [
+      "beruf"
+    ],
+    "lesson": 2,
+    "example": "Der Arzt arbeitet heute.",
+    "exampleRu": "Врач сегодня работает.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0006",
+    "de": "die Lehrerin, die Lehrerinnen",
+    "ru": "учительница",
+    "categories": [
+      "beruf"
+    ],
+    "lesson": 2,
+    "example": "Sie ist Lehrerin.",
+    "exampleRu": "Она учительница.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0040",
+    "de": "der Termin, die Termine",
+    "ru": "назначенная встреча, запись",
+    "categories": [
+      "beruf",
+      "alltag"
+    ],
+    "lesson": 10,
+    "example": "Ich habe morgen einen Termin.",
+    "exampleRu": "У меня завтра назначенная встреча.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0062",
+    "de": "der Beruf",
+    "ru": "профессия",
+    "categories": [
+      "beruf"
+    ],
+    "lesson": 2,
+    "example": "Was bist du von Beruf?",
+    "exampleRu": "Кто ты по профессии?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0063",
+    "de": "der Arzt",
+    "ru": "врач",
+    "categories": [
+      "beruf"
+    ],
+    "lesson": 2,
+    "example": "Der Arzt arbeitet im Krankenhaus.",
+    "exampleRu": "Врач работает в больнице.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Ärzte"
+  },
+  {
+    "id": "w_0064",
+    "de": "die Ärztin",
+    "ru": "врач (женщина)",
+    "categories": [
+      "beruf"
+    ],
+    "lesson": 2,
+    "example": "Die Ärztin ist heute da.",
+    "exampleRu": "Врач сегодня здесь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "plural": "die Ärztinnen"
+  },
+  {
+    "id": "w_0065",
+    "de": "der Lehrer",
+    "ru": "учитель",
+    "categories": [
+      "beruf"
+    ],
+    "lesson": 2,
+    "example": "Mein Lehrer spricht Deutsch.",
+    "exampleRu": "Мой учитель говорит по-немецки.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0066",
+    "de": "die Lehrerin",
+    "ru": "учительница",
+    "categories": [
+      "beruf"
+    ],
+    "lesson": 2,
+    "example": "Die Lehrerin erklärt die Aufgabe.",
+    "exampleRu": "Учительница объясняет задание.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0067",
+    "de": "der Verkäufer",
+    "ru": "продавец",
+    "categories": [
+      "beruf"
+    ],
+    "lesson": 2,
+    "example": "Der Verkäufer hilft mir.",
+    "exampleRu": "Продавец мне помогает.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0068",
+    "de": "das Büro",
+    "ru": "офис",
+    "categories": [
+      "beruf"
+    ],
+    "lesson": 2,
+    "example": "Ich arbeite im Büro.",
+    "exampleRu": "Я работаю в офисе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0069",
+    "de": "die Firma",
+    "ru": "фирма",
+    "categories": [
+      "beruf"
+    ],
+    "lesson": 2,
+    "example": "Ich arbeite bei einer Firma.",
+    "exampleRu": "Я работаю в фирме.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0070",
+    "de": "der Kollege",
+    "ru": "коллега",
+    "categories": [
+      "beruf"
+    ],
+    "lesson": 2,
+    "example": "Mein Kollege ist im Urlaub.",
+    "exampleRu": "Мой коллега в отпуске.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0071",
+    "de": "die Arbeit",
+    "ru": "работа",
+    "categories": [
+      "beruf"
+    ],
+    "lesson": 2,
+    "example": "Ich gehe zur Arbeit.",
+    "exampleRu": "Я иду на работу.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

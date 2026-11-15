@@ -1,0 +1,951 @@
+[
+  {
+    "id": "w_0100",
+    "de": "schwimmen",
+    "ru": "плавать",
+    "categories": [
+      "freizeit",
+      "strong"
+    ],
+    "lesson": 4,
+    "example": "Ich schwimme im See.",
+    "exampleRu": "Я плаваю в озере.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "schwimmt",
+      "perfekt": "ist geschwommen"
+    }
+  },
+  {
+    "id": "w_0112",
+    "de": "schlafen",
+    "ru": "спать",
+    "categories": [
+      "alltag",
+      "strong"
+    ],
+    "lesson": 5,
+    "example": "Ich schlafe acht Stunden.",
+    "exampleRu": "Я сплю восемь часов.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "schläft",
+      "perfekt": "hat geschlafen"
+    }
+  },
+  {
+    "id": "w_0318",
+    "de": "sprechen",
+    "ru": "говорить",
+    "categories": [
+      "kommunikation",
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich spreche Deutsch.",
+    "exampleRu": "Я говорю по-немецки.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "spricht",
+      "perfekt": "hat gesprochen"
+    }
+  },
+  {
+    "id": "w_0320",
+    "de": "lesen",
+    "ru": "читать",
+    "categories": [
+      "kommunikation",
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich lese ein Buch.",
+    "exampleRu": "Я читаю книгу.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "liest",
+      "perfekt": "hat gelesen"
+    }
+  },
+  {
+    "id": "w_0321",
+    "de": "schreiben",
+    "ru": "писать",
+    "categories": [
+      "kommunikation",
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich schreibe eine E-Mail.",
+    "exampleRu": "Я пишу письмо.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "schreibt",
+      "perfekt": "hat geschrieben"
+    }
+  },
+  {
+    "id": "w_0362",
+    "de": "beginnen",
+    "ru": "начинать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Der Kurs beginnt um neun Uhr.",
+    "exampleRu": "Курс начинается в девять.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "beginnt",
+      "perfekt": "hat begonnen"
+    }
+  },
+  {
+    "id": "w_0363",
+    "de": "bleiben",
+    "ru": "оставаться",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich bleibe heute zu Hause.",
+    "exampleRu": "Я сегодня останусь дома.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "bleibt",
+      "perfekt": "ist geblieben"
+    }
+  },
+  {
+    "id": "w_0364",
+    "de": "essen",
+    "ru": "есть, кушать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich esse gern Obst.",
+    "exampleRu": "Я люблю есть фрукты.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "isst",
+      "perfekt": "hat gegessen"
+    }
+  },
+  {
+    "id": "w_0365",
+    "de": "fahren",
+    "ru": "ехать, ездить",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich fahre morgen nach München.",
+    "exampleRu": "Завтра я еду в Мюнхен.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "fährt",
+      "perfekt": "ist gefahren"
+    }
+  },
+  {
+    "id": "w_0366",
+    "de": "finden",
+    "ru": "находить",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich finde meinen Schlüssel.",
+    "exampleRu": "Я нахожу свой ключ.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "findet",
+      "perfekt": "hat gefunden"
+    }
+  },
+  {
+    "id": "w_0367",
+    "de": "fliegen",
+    "ru": "лететь",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Wir fliegen nach Berlin.",
+    "exampleRu": "Мы летим в Берлин.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "fliegt",
+      "perfekt": "ist geflogen"
+    }
+  },
+  {
+    "id": "w_0368",
+    "de": "geben",
+    "ru": "давать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Gib mir bitte das Buch.",
+    "exampleRu": "Дай мне, пожалуйста, книгу.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "gibt",
+      "perfekt": "hat gegeben"
+    }
+  },
+  {
+    "id": "w_0369",
+    "de": "gehen",
+    "ru": "идти",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich gehe nach Hause.",
+    "exampleRu": "Я иду домой.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "geht",
+      "perfekt": "ist gegangen"
+    }
+  },
+  {
+    "id": "w_0370",
+    "de": "helfen",
+    "ru": "помогать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Kannst du mir helfen?",
+    "exampleRu": "Можешь мне помочь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "hilft",
+      "perfekt": "hat geholfen"
+    }
+  },
+  {
+    "id": "w_0371",
+    "de": "kommen",
+    "ru": "приходить",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Wann kommst du?",
+    "exampleRu": "Когда ты придёшь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "kommt",
+      "perfekt": "ist gekommen"
+    }
+  },
+  {
+    "id": "w_0372",
+    "de": "nehmen",
+    "ru": "брать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich nehme den Bus.",
+    "exampleRu": "Я поеду на автобусе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "nimmt",
+      "perfekt": "hat genommen"
+    }
+  },
+  {
+    "id": "w_0373",
+    "de": "rufen",
+    "ru": "звать, звонить",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich rufe dich morgen.",
+    "exampleRu": "Я позвоню тебе завтра.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "ruft",
+      "perfekt": "hat gerufen"
+    }
+  },
+  {
+    "id": "w_0374",
+    "de": "sehen",
+    "ru": "видеть",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich sehe den Bus.",
+    "exampleRu": "Я вижу автобус.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "sieht",
+      "perfekt": "hat gesehen"
+    }
+  },
+  {
+    "id": "w_0375",
+    "de": "sein",
+    "ru": "быть",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich bin zu Hause.",
+    "exampleRu": "Я дома.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "ist",
+      "perfekt": "ist gewesen"
+    }
+  },
+  {
+    "id": "w_0376",
+    "de": "singen",
+    "ru": "петь",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Wir singen zusammen.",
+    "exampleRu": "Мы поём вместе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "singt",
+      "perfekt": "hat gesungen"
+    }
+  },
+  {
+    "id": "w_0377",
+    "de": "stehen",
+    "ru": "стоять",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Der Tisch steht am Fenster.",
+    "exampleRu": "Стол стоит у окна.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "steht",
+      "perfekt": "hat gestanden"
+    }
+  },
+  {
+    "id": "w_0378",
+    "de": "treffen",
+    "ru": "встречать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich treffe meine Freundin.",
+    "exampleRu": "Я встречаю подругу.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "trifft",
+      "perfekt": "hat getroffen"
+    }
+  },
+  {
+    "id": "w_0379",
+    "de": "trinken",
+    "ru": "пить",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich trinke Wasser.",
+    "exampleRu": "Я пью воду.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "trinkt",
+      "perfekt": "hat getrunken"
+    }
+  },
+  {
+    "id": "w_0380",
+    "de": "tun",
+    "ru": "делать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Was tut dir weh?",
+    "exampleRu": "Что у тебя болит?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "tut",
+      "perfekt": "hat getan"
+    }
+  },
+  {
+    "id": "w_0381",
+    "de": "werden",
+    "ru": "становиться",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Es wird kalt.",
+    "exampleRu": "Становится холодно.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "wird",
+      "perfekt": "ist geworden"
+    }
+  },
+  {
+    "id": "w_0382",
+    "de": "ziehen",
+    "ru": "тянуть, переезжать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Wir ziehen im Sommer um.",
+    "exampleRu": "Мы переезжаем летом.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "zieht",
+      "perfekt": "hat gezogen"
+    }
+  },
+  {
+    "id": "w_0383",
+    "de": "fallen",
+    "ru": "падать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Das Buch fällt auf den Boden.",
+    "exampleRu": "Книга падает на пол.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "fällt",
+      "perfekt": "ist gefallen"
+    }
+  },
+  {
+    "id": "w_0384",
+    "de": "laufen",
+    "ru": "бежать, ходить",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Ich laufe jeden Morgen.",
+    "exampleRu": "Я бегаю каждое утро.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "läuft",
+      "perfekt": "ist gelaufen"
+    }
+  },
+  {
+    "id": "w_0385",
+    "de": "gefallen",
+    "ru": "нравиться",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Das gefällt mir.",
+    "exampleRu": "Мне это нравится.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "gefällt",
+      "perfekt": "hat gefallen"
+    }
+  },
+  {
+    "id": "w_0386",
+    "de": "heißen",
+    "ru": "называться",
+    "categories": [
+      "strong"
+    ],
+    "lesson": 1,
+    "example": "Wie heißt du?",
+    "exampleRu": "Как тебя зовут?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "heißt",
+      "perfekt": "hat geheißen"
+    }
+  },
+  {
+    "id": "verb_extra_001",
+    "de": "fangen",
+    "ru": "ловить",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Er fängt den Ball.",
+    "exampleRu": "Он ловит мяч.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "fängt",
+      "perfekt": "hat gefangen"
+    }
+  },
+  {
+    "id": "verb_extra_002",
+    "de": "backen",
+    "ru": "печь",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich backe Brot.",
+    "exampleRu": "Я пеку хлеб.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "backt",
+      "perfekt": "hat gebacken"
+    }
+  },
+  {
+    "id": "verb_extra_003",
+    "de": "biegen",
+    "ru": "поворачивать, сгибать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Der Bus biegt links ab.",
+    "exampleRu": "Автобус поворачивает налево.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "biegt",
+      "perfekt": "hat gebogen"
+    }
+  },
+  {
+    "id": "verb_extra_004",
+    "de": "bieten",
+    "ru": "предлагать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Sie bietet mir Hilfe an.",
+    "exampleRu": "Она предлагает мне помощь.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "bietet",
+      "perfekt": "hat geboten"
+    }
+  },
+  {
+    "id": "verb_extra_005",
+    "de": "bitten",
+    "ru": "просить",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich bitte dich um Hilfe.",
+    "exampleRu": "Я прошу тебя о помощи.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "bittet",
+      "perfekt": "hat gebeten"
+    }
+  },
+  {
+    "id": "verb_extra_006",
+    "de": "braten",
+    "ru": "жарить",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich brate Kartoffeln.",
+    "exampleRu": "Я жарю картофель.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "brät",
+      "perfekt": "hat gebraten"
+    }
+  },
+  {
+    "id": "verb_extra_007",
+    "de": "gewinnen",
+    "ru": "выигрывать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Wir gewinnen das Spiel.",
+    "exampleRu": "Мы выигрываем игру.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "gewinnt",
+      "perfekt": "hat gewonnen"
+    }
+  },
+  {
+    "id": "verb_extra_008",
+    "de": "laden",
+    "ru": "загружать, приглашать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Er lädt das Auto.",
+    "exampleRu": "Он загружает машину.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "lädt",
+      "perfekt": "hat geladen"
+    }
+  },
+  {
+    "id": "verb_extra_009",
+    "de": "liegen",
+    "ru": "лежать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Das Buch liegt auf dem Tisch.",
+    "exampleRu": "Книга лежит на столе.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "liegt",
+      "perfekt": "hat gelegen"
+    }
+  },
+  {
+    "id": "verb_extra_012",
+    "de": "riechen",
+    "ru": "пахнуть, нюхать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Die Blumen riechen gut.",
+    "exampleRu": "Цветы приятно пахнут.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "riecht",
+      "perfekt": "hat gerochen"
+    }
+  },
+  {
+    "id": "verb_extra_013",
+    "de": "schließen",
+    "ru": "закрывать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich schließe das Fenster.",
+    "exampleRu": "Я закрываю окно.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "schließt",
+      "perfekt": "hat geschlossen"
+    }
+  },
+  {
+    "id": "verb_extra_014",
+    "de": "sitzen",
+    "ru": "сидеть",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich sitze auf dem Stuhl.",
+    "exampleRu": "Я сижу на стуле.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "sitzt",
+      "perfekt": "hat gesessen"
+    }
+  },
+  {
+    "id": "verb_extra_015",
+    "de": "steigen",
+    "ru": "подниматься",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Die Preise steigen.",
+    "exampleRu": "Цены растут.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "steigt",
+      "perfekt": "ist gestiegen"
+    }
+  },
+  {
+    "id": "verb_extra_016",
+    "de": "sterben",
+    "ru": "умирать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Die Pflanze ist gestorben.",
+    "exampleRu": "Растение погибло.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "stirbt",
+      "perfekt": "ist gestorben"
+    }
+  },
+  {
+    "id": "verb_extra_017",
+    "de": "vergessen",
+    "ru": "забывать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich vergesse das nie.",
+    "exampleRu": "Я никогда этого не забуду.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "vergisst",
+      "perfekt": "hat vergessen"
+    }
+  },
+  {
+    "id": "verb_extra_018",
+    "de": "verlieren",
+    "ru": "терять",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich verliere meinen Schlüssel.",
+    "exampleRu": "Я теряю свой ключ.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "verliert",
+      "perfekt": "hat verloren"
+    }
+  },
+  {
+    "id": "verb_extra_019",
+    "de": "wachsen",
+    "ru": "расти",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Die Kinder sind gewachsen.",
+    "exampleRu": "Дети выросли.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "wächst",
+      "perfekt": "ist gewachsen"
+    }
+  },
+  {
+    "id": "verb_extra_020",
+    "de": "waschen",
+    "ru": "мыть, стирать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich wasche meine Hände.",
+    "exampleRu": "Я мою руки.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "wäscht",
+      "perfekt": "hat gewaschen"
+    }
+  },
+  {
+    "id": "verb_extra_021",
+    "de": "werfen",
+    "ru": "бросать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Er wirft den Ball.",
+    "exampleRu": "Он бросает мяч.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "wirft",
+      "perfekt": "hat geworfen"
+    }
+  },
+  {
+    "id": "verb_extra_022",
+    "de": "befehlen",
+    "ru": "приказывать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Der Chef befiehlt etwas.",
+    "exampleRu": "Начальник что-то приказывает.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "befiehlt",
+      "perfekt": "hat befohlen"
+    }
+  },
+  {
+    "id": "verb_extra_023",
+    "de": "beißen",
+    "ru": "кусать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Der Hund beißt nicht.",
+    "exampleRu": "Собака не кусается.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "beißt",
+      "perfekt": "hat gebissen"
+    }
+  },
+  {
+    "id": "verb_extra_024",
+    "de": "binden",
+    "ru": "связывать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich binde die Schuhe.",
+    "exampleRu": "Я завязываю обувь.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "bindet",
+      "perfekt": "hat gebunden"
+    }
+  },
+  {
+    "id": "verb_extra_025",
+    "de": "brechen",
+    "ru": "ломать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Er hat den Arm gebrochen.",
+    "exampleRu": "Он сломал руку.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "bricht",
+      "perfekt": "hat gebrochen"
+    }
+  },
+  {
+    "id": "verb_extra_027",
+    "de": "empfehlen",
+    "ru": "рекомендовать",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich empfehle dieses Buch.",
+    "exampleRu": "Я рекомендую эту книгу.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "empfiehlt",
+      "perfekt": "hat empfohlen"
+    }
+  },
+  {
+    "id": "verb_extra_028",
+    "de": "frieren",
+    "ru": "мёрзнуть",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich friere heute.",
+    "exampleRu": "Мне сегодня холодно.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "friert",
+      "perfekt": "hat gefroren"
+    }
+  },
+  {
+    "id": "verb_extra_029",
+    "de": "genießen",
+    "ru": "наслаждаться",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich genieße den Urlaub.",
+    "exampleRu": "Я наслаждаюсь отпуском.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "genießt",
+      "perfekt": "hat genossen"
+    }
+  },
+  {
+    "id": "verb_extra_030",
+    "de": "halten",
+    "ru": "держать, останавливаться",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Der Bus hält hier.",
+    "exampleRu": "Автобус здесь останавливается.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "hält",
+      "perfekt": "hat gehalten"
+    }
+  },
+  {
+    "id": "verb_extra_031",
+    "de": "lassen",
+    "ru": "позволять, оставлять",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Lass das bitte!",
+    "exampleRu": "Оставь это, пожалуйста!",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "lässt",
+      "perfekt": "hat gelassen"
+    }
+  },
+  {
+    "id": "verb_extra_032",
+    "de": "messen",
+    "ru": "измерять",
+    "categories": [
+      "strong"
+    ],
+    "lesson": null,
+    "example": "Ich messe den Tisch.",
+    "exampleRu": "Я измеряю стол.",
+    "source": "Verben.pdf, дополнительные глаголы A1–B1; не обязательно входят в A1.1–A1.2",
+    "verb": {
+      "er": "misst",
+      "perfekt": "hat gemessen"
+    }
+  }
+]

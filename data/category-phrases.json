@@ -1,0 +1,174 @@
+[
+  {
+    "id": "w_0001",
+    "de": "Guten Morgen!",
+    "ru": "Доброе утро!",
+    "categories": [
+      "begr",
+      "phrases"
+    ],
+    "lesson": 1,
+    "example": "Guten Morgen! Wie geht es dir?",
+    "exampleRu": "Доброе утро! Как дела?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0003",
+    "de": "Ich heiße …",
+    "ru": "Меня зовут …",
+    "categories": [
+      "person",
+      "phrases"
+    ],
+    "lesson": 1,
+    "example": "Ich heiße Anna.",
+    "exampleRu": "Меня зовут Анна.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0018",
+    "de": "Wie viel kostet das?",
+    "ru": "Сколько это стоит?",
+    "categories": [
+      "einkauf",
+      "phrases"
+    ],
+    "lesson": 7,
+    "example": "Wie viel kostet das Brot?",
+    "exampleRu": "Сколько стоит хлеб?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0039",
+    "de": "Entschuldigung!",
+    "ru": "Извините!",
+    "categories": [
+      "phrases"
+    ],
+    "lesson": 15,
+    "example": "Entschuldigung, wo ist der Bahnhof?",
+    "exampleRu": "Извините, где вокзал?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0353",
+    "de": "Wie geht es dir?",
+    "ru": "Как дела?",
+    "categories": [
+      "phrases"
+    ],
+    "lesson": 1,
+    "example": "Hallo, wie geht es dir?",
+    "exampleRu": "Привет, как дела?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0354",
+    "de": "Mir geht es gut.",
+    "ru": "У меня всё хорошо.",
+    "categories": [
+      "phrases"
+    ],
+    "lesson": 1,
+    "example": "Danke, mir geht es gut.",
+    "exampleRu": "Спасибо, у меня всё хорошо.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0355",
+    "de": "Ich hätte gern ...",
+    "ru": "Я бы хотел ...",
+    "categories": [
+      "phrases"
+    ],
+    "lesson": 1,
+    "example": "Ich hätte gern einen Kaffee.",
+    "exampleRu": "Я бы хотел кофе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0356",
+    "de": "Es tut mir leid.",
+    "ru": "Мне жаль, извините.",
+    "categories": [
+      "phrases"
+    ],
+    "lesson": 1,
+    "example": "Es tut mir leid, ich bin spät.",
+    "exampleRu": "Извините, я опоздал.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0357",
+    "de": "Kein Problem!",
+    "ru": "Без проблем!",
+    "categories": [
+      "phrases"
+    ],
+    "lesson": 1,
+    "example": "Danke! Kein Problem!",
+    "exampleRu": "Спасибо! Без проблем!",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0358",
+    "de": "Ich weiß nicht.",
+    "ru": "Я не знаю.",
+    "categories": [
+      "phrases"
+    ],
+    "lesson": 1,
+    "example": "Ich weiß nicht, wo er ist.",
+    "exampleRu": "Я не знаю, где он.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0359",
+    "de": "Können Sie mir helfen?",
+    "ru": "Можете мне помочь?",
+    "categories": [
+      "phrases"
+    ],
+    "lesson": 1,
+    "example": "Entschuldigung, können Sie mir helfen?",
+    "exampleRu": "Извините, можете мне помочь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0360",
+    "de": "Wo ist die Toilette?",
+    "ru": "Где туалет?",
+    "categories": [
+      "phrases"
+    ],
+    "lesson": 1,
+    "example": "Entschuldigung, wo ist die Toilette?",
+    "exampleRu": "Извините, где туалет?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0361",
+    "de": "Gute Besserung!",
+    "ru": "Выздоравливай!",
+    "categories": [
+      "phrases"
+    ],
+    "lesson": 1,
+    "example": "Du bist krank? Gute Besserung!",
+    "exampleRu": "Ты болеешь? Выздоравливай!",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

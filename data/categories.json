@@ -1,0 +1,224 @@
+[
+  {
+    "id": "begr",
+    "ru": "Приветствия",
+    "de": "Begrüßung",
+    "order": 1
+  },
+  {
+    "id": "person",
+    "ru": "Знакомство и данные",
+    "de": "Kennenlernen",
+    "order": 2
+  },
+  {
+    "id": "beruf",
+    "ru": "Работа и профессии",
+    "de": "Arbeit und Berufe",
+    "order": 3
+  },
+  {
+    "id": "zahlen",
+    "ru": "Числа и время",
+    "de": "Zahlen und Uhrzeit",
+    "order": 4
+  },
+  {
+    "id": "gegen",
+    "ru": "Предметы",
+    "de": "Gegenstände",
+    "order": 5
+  },
+  {
+    "id": "farben",
+    "ru": "Цвета",
+    "de": "Farben",
+    "order": 6
+  },
+  {
+    "id": "freizeit",
+    "ru": "Спорт и досуг",
+    "de": "Freizeit und Sport",
+    "order": 7
+  },
+  {
+    "id": "alltag",
+    "ru": "Повседневные дела",
+    "de": "Alltag",
+    "order": 8
+  },
+  {
+    "id": "familie",
+    "ru": "Семья и друзья",
+    "de": "Familie und Freunde",
+    "order": 9
+  },
+  {
+    "id": "essen",
+    "ru": "Еда и напитки",
+    "de": "Essen und Trinken",
+    "order": 10
+  },
+  {
+    "id": "einkauf",
+    "ru": "Магазин и покупки",
+    "de": "Einkaufen",
+    "order": 11
+  },
+  {
+    "id": "wetter",
+    "ru": "Погода",
+    "de": "Wetter",
+    "order": 12
+  },
+  {
+    "id": "verkehr",
+    "ru": "Транспорт",
+    "de": "Verkehrsmittel",
+    "order": 13
+  },
+  {
+    "id": "wege",
+    "ru": "Направления и город",
+    "de": "Wege und Stadt",
+    "order": 14
+  },
+  {
+    "id": "wohnen",
+    "ru": "Жильё и мебель",
+    "de": "Wohnen und Möbel",
+    "order": 15
+  },
+  {
+    "id": "kueche",
+    "ru": "Кухня",
+    "de": "Küche",
+    "order": 16
+  },
+  {
+    "id": "gesund",
+    "ru": "Здоровье и тело",
+    "de": "Gesundheit und Körper",
+    "order": 17
+  },
+  {
+    "id": "feste",
+    "ru": "Праздники",
+    "de": "Feste und Feiern",
+    "order": 18
+  },
+  {
+    "id": "kleidung",
+    "ru": "Одежда",
+    "de": "Kleidung",
+    "order": 19
+  },
+  {
+    "id": "reisen",
+    "ru": "Поездки и отпуск",
+    "de": "Reisen und Urlaub",
+    "order": 20
+  },
+  {
+    "id": "adjektive",
+    "ru": "Прилагательные",
+    "de": "Adjektive",
+    "order": 21
+  },
+  {
+    "id": "regular",
+    "ru": "Слабые глаголы",
+    "de": "Regelmäßige Verben",
+    "order": 22
+  },
+  {
+    "id": "strong",
+    "ru": "Сильные глаголы",
+    "de": "Starke Verben",
+    "order": 23
+  },
+  {
+    "id": "mixed",
+    "ru": "Смешанные глаголы",
+    "de": "Gemischte Verben",
+    "order": 24
+  },
+  {
+    "id": "modal",
+    "ru": "Модальные глаголы",
+    "de": "Modalverben",
+    "order": 25
+  },
+  {
+    "id": "separable",
+    "ru": "Глаголы с приставками",
+    "de": "Trennbare Verben",
+    "order": 26
+  },
+  {
+    "id": "phrases",
+    "ru": "Разговорные фразы",
+    "de": "Redewendungen",
+    "order": 27
+  },
+  {
+    "id": "tage",
+    "de": "Tage und Monate",
+    "ru": "Дни и месяцы",
+    "order": 28
+  },
+  {
+    "id": "zeiten",
+    "de": "Zeit und Termine",
+    "ru": "Время и встречи",
+    "order": 29
+  },
+  {
+    "id": "schule",
+    "de": "Schule und Lernen",
+    "ru": "Учёба",
+    "order": 30
+  },
+  {
+    "id": "kommunikation",
+    "de": "Kommunikation",
+    "ru": "Общение",
+    "order": 31
+  },
+  {
+    "id": "technik",
+    "de": "Technik und Medien",
+    "ru": "Техника и связь",
+    "order": 32
+  },
+  {
+    "id": "natur",
+    "de": "Natur und Umwelt",
+    "ru": "Природа",
+    "order": 33
+  },
+  {
+    "id": "praep",
+    "de": "Präpositionen und Adverbien",
+    "ru": "Предлоги и наречия",
+    "order": 34
+  },
+  {
+    "id": "wfragen",
+    "de": "W-Fragen",
+    "ru": "Вопросительные слова",
+    "order": 35
+  },
+  {
+    "id": "koerper",
+    "de": "Körperteile",
+    "ru": "Части тела",
+    "order": 36
+  },
+  {
+    "id": "gegenteile",
+    "de": "Gegenteile",
+    "ru": "Антонимы",
+    "order": 37
+  }
+]

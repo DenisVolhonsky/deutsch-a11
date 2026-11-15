@@ -1,0 +1,470 @@
+[
+  {
+    "id": "w_0420",
+    "de": "wer",
+    "ru": "кто",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wer kommt heute?",
+    "exampleRu": "Кто придёт сегодня?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0421",
+    "de": "wen",
+    "ru": "кого (Akkusativ)",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wen besuchst du?",
+    "exampleRu": "Кого ты навещаешь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0422",
+    "de": "wem",
+    "ru": "кому (Dativ)",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wem hilfst du?",
+    "exampleRu": "Кому ты помогаешь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0423",
+    "de": "wessen",
+    "ru": "чей, чья, чьё",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wessen Tasche ist das?",
+    "exampleRu": "Чья это сумка?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0424",
+    "de": "was",
+    "ru": "что",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Was machst du?",
+    "exampleRu": "Что ты делаешь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0425",
+    "de": "wann",
+    "ru": "когда",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wann beginnt der Kurs?",
+    "exampleRu": "Когда начинается курс?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0426",
+    "de": "wo",
+    "ru": "где",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wo wohnst du?",
+    "exampleRu": "Где ты живёшь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0427",
+    "de": "wohin",
+    "ru": "куда",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wohin gehst du?",
+    "exampleRu": "Куда ты идёшь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0428",
+    "de": "woher",
+    "ru": "откуда",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Woher kommst du?",
+    "exampleRu": "Откуда ты?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0429",
+    "de": "warum",
+    "ru": "почему",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Warum lernst du Deutsch?",
+    "exampleRu": "Почему ты учишь немецкий?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0430",
+    "de": "wieso",
+    "ru": "почему",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wieso bist du müde?",
+    "exampleRu": "Почему ты устал?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0431",
+    "de": "weshalb",
+    "ru": "по какой причине",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Weshalb bist du hier?",
+    "exampleRu": "По какой причине ты здесь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0432",
+    "de": "wie",
+    "ru": "как",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wie geht es dir?",
+    "exampleRu": "Как у тебя дела?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0433",
+    "de": "wie viel",
+    "ru": "сколько (масса/количество)",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wie viel Wasser brauchst du?",
+    "exampleRu": "Сколько воды тебе нужно?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0434",
+    "de": "wie viele",
+    "ru": "сколько (штук)",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wie viele Kinder hast du?",
+    "exampleRu": "Сколько у тебя детей?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0435",
+    "de": "wie lange",
+    "ru": "как долго",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wie lange dauert der Kurs?",
+    "exampleRu": "Как долго длится курс?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0436",
+    "de": "wie oft",
+    "ru": "как часто",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wie oft trainierst du?",
+    "exampleRu": "Как часто ты тренируешься?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0437",
+    "de": "wie spät",
+    "ru": "который час",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wie spät ist es?",
+    "exampleRu": "Который час?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0438",
+    "de": "seit wann",
+    "ru": "с каких пор",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Seit wann wohnst du hier?",
+    "exampleRu": "С каких пор ты здесь живёшь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0439",
+    "de": "bis wann",
+    "ru": "до какого момента",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Bis wann arbeitest du?",
+    "exampleRu": "До скольких ты работаешь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0440",
+    "de": "ab wann",
+    "ru": "с какого момента",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Ab wann hast du Zeit?",
+    "exampleRu": "С какого времени ты свободен?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0441",
+    "de": "mit wem",
+    "ru": "с кем",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Mit wem gehst du?",
+    "exampleRu": "С кем ты идёшь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0442",
+    "de": "womit",
+    "ru": "чем, с помощью чего",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Womit fährst du?",
+    "exampleRu": "На чём ты едешь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0443",
+    "de": "wofür",
+    "ru": "для чего",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wofür brauchst du das?",
+    "exampleRu": "Для чего тебе это нужно?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0444",
+    "de": "woran",
+    "ru": "о чём / над чем",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Woran denkst du?",
+    "exampleRu": "О чём ты думаешь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0445",
+    "de": "worauf",
+    "ru": "на что / чего",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Worauf wartest du?",
+    "exampleRu": "Чего ты ждёшь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0446",
+    "de": "worüber",
+    "ru": "о чём",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Worüber sprecht ihr?",
+    "exampleRu": "О чём вы говорите?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0447",
+    "de": "wovon",
+    "ru": "о чём / от чего",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wovon träumst du?",
+    "exampleRu": "О чём ты мечтаешь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0448",
+    "de": "wobei",
+    "ru": "при чём / в чём",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wobei kann ich helfen?",
+    "exampleRu": "С чем я могу помочь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0449",
+    "de": "wodurch",
+    "ru": "через что / благодаря чему",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wodurch ist das passiert?",
+    "exampleRu": "Из-за чего это произошло?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0450",
+    "de": "welcher",
+    "ru": "какой (м.р.)",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Welcher Bus fährt zum Bahnhof?",
+    "exampleRu": "Какой автобус едет на вокзал?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0451",
+    "de": "welche",
+    "ru": "какая / какие",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Welche Jacke gefällt dir?",
+    "exampleRu": "Какая куртка тебе нравится?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0452",
+    "de": "welches",
+    "ru": "какое (ср.р.)",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Welches Buch liest du?",
+    "exampleRu": "Какую книгу ты читаешь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0453",
+    "de": "wie alt",
+    "ru": "сколько лет",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wie alt bist du?",
+    "exampleRu": "Сколько тебе лет?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0454",
+    "de": "wie groß",
+    "ru": "какого роста / насколько большой",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wie groß bist du?",
+    "exampleRu": "Какого ты роста?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0455",
+    "de": "wie weit",
+    "ru": "как далеко",
+    "categories": [
+      "wfragen"
+    ],
+    "lesson": 2,
+    "example": "Wie weit ist es zum Bahnhof?",
+    "exampleRu": "Как далеко до вокзала?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": "w_0013",
+    "de": "Fußball spielen",
+    "ru": "играть в футбол",
+    "categories": [
+      "freizeit"
+    ],
+    "lesson": 4,
+    "example": "Wir spielen am Sonntag Fußball.",
+    "exampleRu": "Мы играем в футбол в воскресенье.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0097",
+    "de": "der Sport",
+    "ru": "спорт",
+    "categories": [
+      "freizeit"
+    ],
+    "lesson": 4,
+    "example": "Machst du gern Sport?",
+    "exampleRu": "Ты любишь заниматься спортом?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0098",
+    "de": "das Fitnessstudio",
+    "ru": "фитнес-клуб",
+    "categories": [
+      "freizeit"
+    ],
+    "lesson": 4,
+    "example": "Ich gehe ins Fitnessstudio.",
+    "exampleRu": "Я хожу в фитнес-клуб.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0099",
+    "de": "das Fahrrad",
+    "ru": "велосипед",
+    "categories": [
+      "freizeit"
+    ],
+    "lesson": 4,
+    "example": "Ich fahre Fahrrad.",
+    "exampleRu": "Я езжу на велосипеде.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "image": "images/photo/fahrrad.webp"
+  },
+  {
+    "id": "w_0100",
+    "de": "schwimmen",
+    "ru": "плавать",
+    "categories": [
+      "freizeit",
+      "strong"
+    ],
+    "lesson": 4,
+    "example": "Ich schwimme im See.",
+    "exampleRu": "Я плаваю в озере.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "schwimmt",
+      "perfekt": "ist geschwommen"
+    }
+  },
+  {
+    "id": "w_0101",
+    "de": "tanzen",
+    "ru": "танцевать",
+    "categories": [
+      "freizeit"
+    ],
+    "lesson": 4,
+    "example": "Wir tanzen am Wochenende.",
+    "exampleRu": "Мы танцуем на выходных.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0102",
+    "de": "wandern",
+    "ru": "ходить в походы",
+    "categories": [
+      "freizeit"
+    ],
+    "lesson": 4,
+    "example": "Wir wandern in den Bergen.",
+    "exampleRu": "Мы ходим в походы в горах.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0103",
+    "de": "spazieren gehen",
+    "ru": "гулять",
+    "categories": [
+      "freizeit"
+    ],
+    "lesson": 4,
+    "example": "Wir gehen spazieren.",
+    "exampleRu": "Мы идём гулять.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0104",
+    "de": "das Hobby",
+    "ru": "увлечение",
+    "categories": [
+      "freizeit"
+    ],
+    "lesson": 4,
+    "example": "Was ist dein Hobby?",
+    "exampleRu": "Какое у тебя хобби?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0105",
+    "de": "das Spiel",
+    "ru": "игра",
+    "categories": [
+      "freizeit"
+    ],
+    "lesson": 4,
+    "example": "Das Spiel macht Spaß.",
+    "exampleRu": "Игра доставляет удовольствие.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

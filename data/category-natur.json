@@ -1,0 +1,134 @@
+[
+  {
+    "id": "w_0331",
+    "de": "der Baum",
+    "ru": "дерево",
+    "categories": [
+      "natur"
+    ],
+    "lesson": 16,
+    "example": "Der Baum ist groß.",
+    "exampleRu": "Дерево большое.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0332",
+    "de": "die Blume",
+    "ru": "цветок",
+    "categories": [
+      "natur"
+    ],
+    "lesson": 16,
+    "example": "Die Blume ist schön.",
+    "exampleRu": "Цветок красивый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "image": "images/photo/blume.webp"
+  },
+  {
+    "id": "w_0333",
+    "de": "der Garten",
+    "ru": "сад",
+    "categories": [
+      "natur"
+    ],
+    "lesson": 16,
+    "example": "Wir sitzen im Garten.",
+    "exampleRu": "Мы сидим в саду.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0334",
+    "de": "der Wald",
+    "ru": "лес",
+    "categories": [
+      "natur"
+    ],
+    "lesson": 16,
+    "example": "Wir gehen in den Wald.",
+    "exampleRu": "Мы идём в лес.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0335",
+    "de": "der See",
+    "ru": "озеро",
+    "categories": [
+      "natur"
+    ],
+    "lesson": 16,
+    "example": "Der See ist schön.",
+    "exampleRu": "Озеро красивое.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0336",
+    "de": "der Fluss",
+    "ru": "река",
+    "categories": [
+      "natur"
+    ],
+    "lesson": 16,
+    "example": "Der Fluss ist lang.",
+    "exampleRu": "Река длинная.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0337",
+    "de": "der Berg",
+    "ru": "гора",
+    "categories": [
+      "natur"
+    ],
+    "lesson": 16,
+    "example": "Der Berg ist hoch.",
+    "exampleRu": "Гора высокая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0338",
+    "de": "das Tier",
+    "ru": "животное",
+    "categories": [
+      "natur"
+    ],
+    "lesson": 16,
+    "example": "Das Tier ist klein.",
+    "exampleRu": "Животное маленькое.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0339",
+    "de": "der Hund",
+    "ru": "собака",
+    "categories": [
+      "natur"
+    ],
+    "lesson": 16,
+    "example": "Der Hund schläft.",
+    "exampleRu": "Собака спит.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "image": "images/photo/hund.webp"
+  },
+  {
+    "id": "w_0340",
+    "de": "die Katze",
+    "ru": "кошка",
+    "categories": [
+      "natur"
+    ],
+    "lesson": 16,
+    "example": "Die Katze sitzt am Fenster.",
+    "exampleRu": "Кошка сидит у окна.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

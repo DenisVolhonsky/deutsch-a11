@@ -1,0 +1,172 @@
+[
+  {
+    "id": "w_0033",
+    "de": "die Jacke, die Jacken",
+    "ru": "куртка",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Die Jacke ist warm.",
+    "exampleRu": "Куртка тёплая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0034",
+    "de": "die Hose, die Hosen",
+    "ru": "брюки",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Die Hose ist zu groß.",
+    "exampleRu": "Брюки слишком большие.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0041",
+    "de": "der Pullover, die Pullover",
+    "ru": "свитер",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Der Pullover ist blau.",
+    "exampleRu": "Свитер синий.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0234",
+    "de": "das T-Shirt",
+    "ru": "футболка",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Das T-Shirt ist rot.",
+    "exampleRu": "Футболка красная.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0235",
+    "de": "der Pullover",
+    "ru": "свитер",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Der Pullover ist warm.",
+    "exampleRu": "Свитер тёплый.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0236",
+    "de": "die Hose",
+    "ru": "брюки",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Die Hose ist zu lang.",
+    "exampleRu": "Брюки слишком длинные.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0237",
+    "de": "das Hemd",
+    "ru": "рубашка",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Das Hemd ist blau.",
+    "exampleRu": "Рубашка синяя.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null,
+    "image": "images/photo/hemd.webp"
+  },
+  {
+    "id": "w_0238",
+    "de": "das Kleid",
+    "ru": "платье",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Das Kleid gefällt mir.",
+    "exampleRu": "Мне нравится платье.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0239",
+    "de": "die Jacke",
+    "ru": "куртка",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Ich brauche eine Jacke.",
+    "exampleRu": "Мне нужна куртка.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0240",
+    "de": "die Schuhe",
+    "ru": "обувь",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Die Schuhe sind bequem.",
+    "exampleRu": "Обувь удобная.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0241",
+    "de": "die Größe",
+    "ru": "размер",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Welche Größe haben Sie?",
+    "exampleRu": "Какой у вас размер?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0242",
+    "de": "anprobieren",
+    "ru": "примерять",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Kann ich das anprobieren?",
+    "exampleRu": "Можно мне это примерить?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0243",
+    "de": "passen",
+    "ru": "подходить (по размеру)",
+    "categories": [
+      "kleidung"
+    ],
+    "lesson": 14,
+    "example": "Die Hose passt gut.",
+    "exampleRu": "Брюки хорошо сидят.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "w_0292",
+    "de": "der Montag",
+    "ru": "понедельник",
+    "categories": [
+      "tage"
+    ],
+    "lesson": 8,
+    "example": "Am Montag habe ich Deutsch.",
+    "exampleRu": "В понедельник у меня немецкий.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0293",
+    "de": "der Dienstag",
+    "ru": "вторник",
+    "categories": [
+      "tage"
+    ],
+    "lesson": 8,
+    "example": "Am Dienstag arbeite ich.",
+    "exampleRu": "Во вторник я работаю.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0294",
+    "de": "der Mittwoch",
+    "ru": "среда",
+    "categories": [
+      "tage"
+    ],
+    "lesson": 8,
+    "example": "Am Mittwoch habe ich Zeit.",
+    "exampleRu": "В среду у меня есть время.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0295",
+    "de": "der Donnerstag",
+    "ru": "четверг",
+    "categories": [
+      "tage"
+    ],
+    "lesson": 8,
+    "example": "Am Donnerstag kommt Anna.",
+    "exampleRu": "В четверг придёт Анна.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0296",
+    "de": "der Freitag",
+    "ru": "пятница",
+    "categories": [
+      "tage"
+    ],
+    "lesson": 8,
+    "example": "Am Freitag gehe ich einkaufen.",
+    "exampleRu": "В пятницу я делаю покупки.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0297",
+    "de": "der Samstag",
+    "ru": "суббота",
+    "categories": [
+      "tage"
+    ],
+    "lesson": 8,
+    "example": "Am Samstag schlafe ich länger.",
+    "exampleRu": "В субботу я сплю дольше.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0298",
+    "de": "der Sonntag",
+    "ru": "воскресенье",
+    "categories": [
+      "tage"
+    ],
+    "lesson": 8,
+    "example": "Am Sonntag habe ich frei.",
+    "exampleRu": "В воскресенье я свободен.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0299",
+    "de": "die Woche",
+    "ru": "неделя",
+    "categories": [
+      "tage"
+    ],
+    "lesson": 8,
+    "example": "Die Woche beginnt am Montag.",
+    "exampleRu": "Неделя начинается в понедельник.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0300",
+    "de": "das Wochenende",
+    "ru": "выходные",
+    "categories": [
+      "tage"
+    ],
+    "lesson": 8,
+    "example": "Am Wochenende habe ich Zeit.",
+    "exampleRu": "На выходных у меня есть время.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0301",
+    "de": "der Monat",
+    "ru": "месяц",
+    "categories": [
+      "tage"
+    ],
+    "lesson": 8,
+    "example": "Der Monat hat vier Wochen.",
+    "exampleRu": "В месяце четыре недели.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0302",
+    "de": "das Jahr",
+    "ru": "год",
+    "categories": [
+      "tage"
+    ],
+    "lesson": 8,
+    "example": "Ich lerne seit einem Jahr Deutsch.",
+    "exampleRu": "Я учу немецкий уже год.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

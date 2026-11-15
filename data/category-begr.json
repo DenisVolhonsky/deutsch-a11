@@ -1,0 +1,146 @@
+[
+  {
+    "id": "w_0001",
+    "de": "Guten Morgen!",
+    "ru": "Доброе утро!",
+    "categories": [
+      "begr",
+      "phrases"
+    ],
+    "lesson": 1,
+    "example": "Guten Morgen! Wie geht es dir?",
+    "exampleRu": "Доброе утро! Как дела?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0002",
+    "de": "Guten Tag!",
+    "ru": "Добрый день!",
+    "categories": [
+      "begr"
+    ],
+    "lesson": 1,
+    "example": "Guten Tag, Frau Müller!",
+    "exampleRu": "Добрый день, госпожа Мюллер!",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0042",
+    "de": "Hallo",
+    "ru": "привет",
+    "categories": [
+      "begr"
+    ],
+    "lesson": 1,
+    "example": "Hallo, wie geht es dir?",
+    "exampleRu": "Привет, как у тебя дела?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0043",
+    "de": "Guten Abend",
+    "ru": "добрый вечер",
+    "categories": [
+      "begr"
+    ],
+    "lesson": 1,
+    "example": "Guten Abend, Frau Klein!",
+    "exampleRu": "Добрый вечер, госпожа Кляйн!",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0044",
+    "de": "Gute Nacht",
+    "ru": "спокойной ночи",
+    "categories": [
+      "begr"
+    ],
+    "lesson": 1,
+    "example": "Gute Nacht, bis morgen!",
+    "exampleRu": "Спокойной ночи, до завтра!",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0045",
+    "de": "Auf Wiedersehen",
+    "ru": "до свидания",
+    "categories": [
+      "begr"
+    ],
+    "lesson": 1,
+    "example": "Auf Wiedersehen, bis Montag!",
+    "exampleRu": "До свидания, до понедельника!",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0046",
+    "de": "Tschüss",
+    "ru": "пока",
+    "categories": [
+      "begr"
+    ],
+    "lesson": 1,
+    "example": "Tschüss, bis bald!",
+    "exampleRu": "Пока, до скорого!",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0047",
+    "de": "Bis später",
+    "ru": "до встречи позже",
+    "categories": [
+      "begr"
+    ],
+    "lesson": 1,
+    "example": "Bis später im Kurs!",
+    "exampleRu": "До встречи позже на курсах!",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0048",
+    "de": "Danke",
+    "ru": "спасибо",
+    "categories": [
+      "begr"
+    ],
+    "lesson": 1,
+    "example": "Danke für deine Hilfe.",
+    "exampleRu": "Спасибо за твою помощь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0049",
+    "de": "Bitte",
+    "ru": "пожалуйста",
+    "categories": [
+      "begr"
+    ],
+    "lesson": 1,
+    "example": "Ein Wasser, bitte.",
+    "exampleRu": "Воду, пожалуйста.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0050",
+    "de": "Entschuldigung",
+    "ru": "извините",
+    "categories": [
+      "begr"
+    ],
+    "lesson": 1,
+    "example": "Entschuldigung, wo ist der Bahnhof?",
+    "exampleRu": "Извините, где вокзал?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

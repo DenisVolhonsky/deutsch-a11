@@ -1,0 +1,185 @@
+[
+  {
+    "id": "w_0025",
+    "de": "die Küche, die Küchen",
+    "ru": "кухня",
+    "categories": [
+      "wohnen",
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Die Küche ist hell.",
+    "exampleRu": "Кухня светлая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0027",
+    "de": "der Teller, die Teller",
+    "ru": "тарелка",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Der Teller steht auf dem Tisch.",
+    "exampleRu": "Тарелка стоит на столе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0028",
+    "de": "die Tasse, die Tassen",
+    "ru": "чашка",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Die Tasse ist sauber.",
+    "exampleRu": "Чашка чистая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0195",
+    "de": "der Kühlschrank",
+    "ru": "холодильник",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Die Milch steht im Kühlschrank.",
+    "exampleRu": "Молоко стоит в холодильнике.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0196",
+    "de": "der Herd",
+    "ru": "плита",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Der Topf steht auf dem Herd.",
+    "exampleRu": "Кастрюля стоит на плите.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0197",
+    "de": "der Ofen",
+    "ru": "духовка",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Der Kuchen ist im Ofen.",
+    "exampleRu": "Пирог в духовке.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0198",
+    "de": "der Topf",
+    "ru": "кастрюля",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Der Topf ist heiß.",
+    "exampleRu": "Кастрюля горячая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0199",
+    "de": "die Pfanne",
+    "ru": "сковорода",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Die Pfanne ist neu.",
+    "exampleRu": "Сковорода новая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0200",
+    "de": "das Messer",
+    "ru": "нож",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Ich brauche ein Messer.",
+    "exampleRu": "Мне нужен нож.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0201",
+    "de": "die Gabel",
+    "ru": "вилка",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Die Gabel liegt auf dem Tisch.",
+    "exampleRu": "Вилка лежит на столе.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0202",
+    "de": "der Löffel",
+    "ru": "ложка",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Der Löffel ist sauber.",
+    "exampleRu": "Ложка чистая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0203",
+    "de": "der Teller",
+    "ru": "тарелка",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Der Teller ist leer.",
+    "exampleRu": "Тарелка пустая.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0204",
+    "de": "die Tasse",
+    "ru": "чашка",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Die Tasse ist blau.",
+    "exampleRu": "Чашка синяя.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0205",
+    "de": "das Glas",
+    "ru": "стакан",
+    "categories": [
+      "kueche"
+    ],
+    "lesson": 11,
+    "example": "Ich brauche ein Glas Wasser.",
+    "exampleRu": "Мне нужен стакан воды.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "id": "w_0303",
+    "de": "die Schule",
+    "ru": "школа",
+    "categories": [
+      "schule"
+    ],
+    "lesson": 10,
+    "example": "Die Schule beginnt um acht.",
+    "exampleRu": "Школа начинается в восемь.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0304",
+    "de": "der Kurs",
+    "ru": "курс",
+    "categories": [
+      "schule"
+    ],
+    "lesson": 10,
+    "example": "Ich mache einen Deutschkurs.",
+    "exampleRu": "Я прохожу курс немецкого.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0305",
+    "de": "die Prüfung",
+    "ru": "экзамен",
+    "categories": [
+      "schule"
+    ],
+    "lesson": 10,
+    "example": "Morgen habe ich eine Prüfung.",
+    "exampleRu": "Завтра у меня экзамен.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0306",
+    "de": "die Aufgabe",
+    "ru": "задание",
+    "categories": [
+      "schule"
+    ],
+    "lesson": 10,
+    "example": "Ich mache die Aufgabe.",
+    "exampleRu": "Я делаю задание.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0307",
+    "de": "die Frage",
+    "ru": "вопрос",
+    "categories": [
+      "schule"
+    ],
+    "lesson": 10,
+    "example": "Ich habe eine Frage.",
+    "exampleRu": "У меня есть вопрос.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0308",
+    "de": "die Antwort",
+    "ru": "ответ",
+    "categories": [
+      "schule"
+    ],
+    "lesson": 10,
+    "example": "Die Antwort ist richtig.",
+    "exampleRu": "Ответ правильный.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0309",
+    "de": "das Wort",
+    "ru": "слово",
+    "categories": [
+      "schule"
+    ],
+    "lesson": 10,
+    "example": "Ich kenne das Wort.",
+    "exampleRu": "Я знаю это слово.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0310",
+    "de": "der Satz",
+    "ru": "предложение",
+    "categories": [
+      "schule"
+    ],
+    "lesson": 10,
+    "example": "Schreib einen Satz.",
+    "exampleRu": "Напиши предложение.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0311",
+    "de": "das Heft",
+    "ru": "тетрадь",
+    "categories": [
+      "schule"
+    ],
+    "lesson": 10,
+    "example": "Wo ist mein Heft?",
+    "exampleRu": "Где моя тетрадь?",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": null
+  },
+  {
+    "id": "w_0312",
+    "de": "lernen",
+    "ru": "учить",
+    "categories": [
+      "schule",
+      "regular"
+    ],
+    "lesson": 10,
+    "example": "Ich lerne Deutsch.",
+    "exampleRu": "Я учу немецкий.",
+    "source": "Тематический учебный пример; страница книги не подтверждена",
+    "verb": {
+      "er": "lernt",
+      "perfekt": "hat gelernt"
+    }
+  }
+]
