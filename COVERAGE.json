@@ -1,0 +1,14 @@
+{
+  "release": "v6 UI preview",
+  "source_pdf_scans": {"A1.1":72,"A1.2":72,"Verben":5,"Gram_1.1":9},
+  "vocabulary_records":487,
+  "categories":37,
+  "lessons":16,
+  "grammar_topics":30,
+  "image_assets_photos":16,
+  "image_word_links":15,
+  "confirmed_page_level_vocabulary_audit":0,
+  "source_completeness":"UNVERIFIED",
+  "spaced_repetition":"Standalone implementation of FSRS-4.5 formulas; not cross-tested against ts-fsrs",
+  "release_notes":"Updated app layout, animations, article colors, categories/lessons progress, dark blue theme, original icon and new review controls."
+}
