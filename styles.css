@@ -7,3 +7,8 @@ html[data-theme=dark]{color-scheme:dark;--bg:#101735;--surface:#1b2551;--surface
 @media(max-width:720px){.app{padding:0 14px 105px}.top{padding:17px 0}.logo{width:42px;height:42px;border-radius:13px}.brand strong{font-size:15px}.brand small{font-size:11px}.toolbar{grid-template-columns:1fr 1fr;gap:10px}.toolbar label:first-child{grid-column:1/-1}.quickGrid{grid-template-columns:1fr 1fr}.quick{padding:17px}.dashboard{padding:21px}.wordList{grid-template-columns:1fr}.grammarLayout{display:block}.topicList{max-height:190px;margin-bottom:14px}.grammarArticle{padding:15px}.statsCards{grid-template-columns:1fr 1fr}.stat{padding:15px}.categoryRow{border-radius:20px;padding:13px}.catIcon{width:47px;height:47px}.catBody b{font-size:15px}.flashCard{padding:16px 16px 20px}.cardPhoto{height:160px;max-width:330px}.bottomNav{padding:8px 2px calc(7px + env(safe-area-inset-bottom))}.navItem small{font-size:10px}}
 @media(max-width:365px){.app{padding-left:9px;padding-right:9px}.catIcon{width:40px;height:40px}.catBody small{font-size:11px}.quick b{font-size:15px}.navItem small{font-size:9px}.grading button span{font-size:11px}}
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;scroll-behavior:auto!important;transition:none!important}}
+
+/* v6.5: one card → reveal → rate → next. No manual skipping. */
+.flashCard{touch-action:pan-y;user-select:text;-webkit-user-select:text}
+.grading button{touch-action:manipulation;min-width:0}
+@media(max-width:420px){.grading{gap:7px}.grading button{padding:10px 4px;font-size:22px}.grading button span{font-size:11px;line-height:1.25}}

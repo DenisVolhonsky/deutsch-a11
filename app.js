@@ -6,7 +6,7 @@ const colorArticles=(s)=>esc(s).replace(/\b(der|die|das|den|dem|des)\b/gi,(m)=>`
 const key=(w,dir=direction())=>w.id+':'+dir;
 const cardKey=item=>key(item.w,item.dir);
 let lessons=[],categories=[],words=[],grammar=[],queue=[],pos=0,activeGrammar=null,organization='categories',currentBrowse='';
-let sessionGrades=new Set(), priorRatings=new Map(), suppressCardClick=false;
+
 let progress={};const save=()=>ProgressStore.save(progress).catch(err=>{console.error(err);alert('Не удалось сохранить прогресс. Экспортируй резервную копию.');});
 const categoryMap=()=>Object.fromEntries(categories.map(x=>[x.id,x]));
 function getEntries(filter){if(filter.startsWith('lesson:'))return words.filter(w=>w.lesson===Number(filter.slice(7)));if(filter.startsWith('cat:'))return words.filter(w=>(w.categories||[]).includes(filter.slice(4)));return words;}
@@ -35,25 +35,23 @@ function selectQueue(){
   }
   // Avoid immediate reverse-direction hinting: interleave directions by word.
   if(direction()==='both')candidates.sort((a,b)=>a.dir.localeCompare(b.dir));
-  queue=candidates;pos=0;sessionGrades.clear();priorRatings.clear();drawCard();
+  queue=candidates;pos=0;drawCard();
 }
-function updateCardNav(){const has=queue.length>0;$('prevCard').disabled=!has||pos<=0;$('nextCard').disabled=!has||pos>=queue.length-1;$('navHint').textContent=has?'Свайп: ← далее · назад →':'Выбери слова для тренировки'}
-function navigateCard(step){if(!queue.length)return;const next=pos+step;if(next<0||next>=queue.length)return;pos=next;drawCard(false);const card=$('flashCard');card.classList.remove('swipeToLeft','swipeToRight');void card.offsetWidth;card.classList.add(step>0?'swipeToLeft':'swipeToRight')}
 function imgFor(w){return w.image||null}
 let gradedAnimation=false;
-function drawCard(anim=false){let item=queue[pos],w=item?.w;updateCardNav();$('studyCount').textContent=queue.length?`${pos+1} из ${queue.length}`:'Нет карточек';$('studyCategoryProgress').textContent=queue.length?Math.round(pos/queue.length*100)+'% просмотрено':'';$('studyProgressBar').style.width=queue.length?((pos/queue.length)*100)+'%':'0%';$('answer').hidden=true;$('grading').hidden=true;$('cardFoot').hidden=false;const card=$('flashCard');card.classList.remove('isRevealed','flyNext');if(anim){void card.offsetWidth;card.classList.add('flyNext')}if(!w){$('front').textContent='Здесь пока нет карточек';$('frontExample').textContent='Выбери другую категорию или режим';$('picture').hidden=true;$('imageFallback').hidden=true;$('showAnswer').disabled=true;return}$('showAnswer').disabled=false;let image=imgFor(w);$('picture').hidden=!image;$('imageFallback').hidden=!!image;if(image){$('picture').src=image;$('picture').alt='Изображение для '+w.de}else{$('imageFallback').textContent=categoryFallback(w)}let reverse=item.dir==='ru-de';$('front').innerHTML=reverse?esc(w.ru):colorArticles(w.de);$('frontExample').innerHTML=reverse?esc(w.exampleRu||''):colorArticles(w.example||'');$('cardKind').textContent=w.verb?'ГЛАГОЛ':w.de.trim().includes(' ')?'ВЫРАЖЕНИЕ':'СЛОВО';$('cardNumber').textContent=`Урок ${w.lesson||'—'} · ${item.dir==='de-ru'?'DE → RU':'RU → DE'}`}
+function drawCard(anim=false){let item=queue[pos],w=item?.w;const completed=queue.length>0&&pos>=queue.length;const done=Math.min(pos,queue.length);$('studyCount').textContent=completed?`${queue.length} из ${queue.length} · готово`:queue.length?`${pos+1} из ${queue.length}`:'Нет карточек';$('studyCategoryProgress').textContent=queue.length?Math.round(done/queue.length*100)+'% пройдено':'';$('studyProgressBar').style.width=queue.length?((done/queue.length)*100)+'%':'0%';$('answer').hidden=true;$('grading').hidden=true;$('cardFoot').hidden=false;const card=$('flashCard');card.classList.remove('isRevealed','flyNext');if(anim){void card.offsetWidth;card.classList.add('flyNext')}if(!w){$('cardKind').textContent=completed?'ГОТОВО':'КАРТОЧКИ';$('cardNumber').textContent='';$('front').textContent=completed?'Тренировка завершена':'Здесь пока нет карточек';$('frontExample').textContent=completed?'Все карточки выбранного набора оценены. Выбери другую тему или режим, чтобы продолжить.':'Выбери другую категорию или режим';$('picture').hidden=true;$('imageFallback').hidden=true;$('cardFoot').hidden=true;$('showAnswer').disabled=true;return}$('showAnswer').disabled=false;let image=imgFor(w);$('picture').hidden=!image;$('imageFallback').hidden=!!image;if(image){$('picture').src=image;$('picture').alt='Изображение для '+w.de}else{$('imageFallback').textContent=categoryFallback(w)}let reverse=item.dir==='ru-de';$('front').innerHTML=reverse?esc(w.ru):colorArticles(w.de);$('frontExample').innerHTML=reverse?esc(w.exampleRu||''):colorArticles(w.example||'');$('cardKind').textContent=w.verb?'ГЛАГОЛ':w.de.trim().includes(' ')?'ВЫРАЖЕНИЕ':'СЛОВО';$('cardNumber').textContent=`Урок ${w.lesson||'—'} · ${item.dir==='de-ru'?'DE → RU':'RU → DE'}`}
 function categoryFallback(w){let c=(w.categories||[])[0];let icons={familie:'♧',verkehr:'▰',essen:'◈',koerper:'♡',gesund:'✚',wetter:'☀',strong:'↻',modal:'◇',adjektive:'✦',wohnen:'⌂',regular:'↻',wfragen:'?',kleidung:'◉',freizeit:'☆'};return icons[c]||'DE'}
 function showAnswer(){let item=queue[pos],w=item?.w;if(!w)return;const rev=item.dir==='ru-de';const forms=w.verb?`<div class="verbForms"><div><span>Инфинитив</span><b>${colorArticles(w.de)}</b></div><div><span>er / sie / es</span><b>${esc(w.verb.er||'—')}</b></div><div><span>Perfekt</span><b>${esc(w.verb.perfekt||'—')}</b></div></div>`:'';$('answer').innerHTML=`<div class="revealedWord">${rev?colorArticles(w.de):esc(w.ru)}</div>${forms}<div class="example"><b>${colorArticles(w.example||'')}</b><small>${esc(w.exampleRu||'')}</small></div>`;$('answer').hidden=false;$('cardFoot').hidden=true;$('grading').hidden=false;$('flashCard').classList.add('isRevealed')}
 function grade(value){
-  const item=queue[pos],w=item?.w;if(!w)return;
+  const item=queue[pos];
+  if(!item||!['again','hard','good'].includes(value))return;
   const k=cardKey(item);
-  // Regrading a previously visited card replaces its earlier rating rather than double-counting.
-  if(!priorRatings.has(k))priorRatings.set(k,progress[k]?structuredClone(progress[k]):null);
-  const previous=priorRatings.get(k);
-  progress[k]=FSRS.review(previous?.algorithm==='FSRS-4.5'?previous:null,value);
-  sessionGrades.add(k);save();
-  if(pos<queue.length-1)navigateCard(1);
-  else {drawCard();$('navHint').textContent='Последняя карточка · можно вернуться назад';}
+  // A card is graded only once per session. Navigating without grading is not possible.
+  progress[k]=FSRS.review(progress[k]?.algorithm==='FSRS-4.5'?progress[k]:null,value);
+  save();
+  pos++;
+  drawCard(pos<queue.length);
+  if(pos>=queue.length){drawHome();drawStats();}
 }
 
 function grammarResults(){let q=$('grammarSearch').value.toLocaleLowerCase().trim(),s=$('grammarSection').value;return grammar.filter(g=>(s==='all'||g.section===s)&&(!q||(g.title+' '+g.intro+' '+g.section).toLocaleLowerCase().includes(q)))}
@@ -81,11 +79,6 @@ async function restoreLocalBackup(){
   }catch(e){alert('Ошибка восстановления: '+e.message)}
 }
 
-function init(){fillFilters();for(let b of document.querySelectorAll('.navItem'))b.onclick=()=>showTab(b.dataset.tab);document.querySelectorAll('[data-go]').forEach(b=>b.onclick=()=>showTab(b.dataset.go));$('startToday').onclick=()=>{$('studyFilter').value='all';$('studyMode').value='due';selectQueue();if(!queue.length){$('studyMode').value='new';selectQueue()}showTab('study')};document.querySelectorAll('.segment').forEach(b=>b.onclick=()=>{organization=b.dataset.organization;drawBrowseList()});$('browseBack').onclick=()=>drawBrowseList();$('studyFilter').onchange=selectQueue;$('studyMode').onchange=selectQueue;$('direction').onchange=selectQueue;$('showAnswer').onclick=showAnswer;$('prevCard').onclick=()=>navigateCard(-1);$('nextCard').onclick=()=>navigateCard(1);$('flashCard').addEventListener('click',e=>{if(e.target.closest('button')||suppressCardClick)return;if($('answer').hidden)showAnswer()});$('flashCard').addEventListener('keydown',e=>{if((e.key==='Enter'||e.key===' ')&&e.target===$('flashCard')){e.preventDefault();if($('answer').hidden)showAnswer()}});// Horizontal touch gestures navigate; vertical page scrolling and button taps remain native.
-  let touchStart=null;
-  const cardEl=$('flashCard');
-  cardEl.addEventListener('touchstart',e=>{if(e.touches.length!==1||e.target.closest('button')){touchStart=null;return;}const t=e.touches[0];touchStart={x:t.clientX,y:t.clientY};},{passive:true});
-  cardEl.addEventListener('touchend',e=>{if(!touchStart||e.changedTouches.length!==1)return;const t=e.changedTouches[0],dx=t.clientX-touchStart.x,dy=t.clientY-touchStart.y;touchStart=null;if(Math.abs(dx)>55&&Math.abs(dx)>Math.abs(dy)*1.4){suppressCardClick=true;navigateCard(dx<0?1:-1);setTimeout(()=>{suppressCardClick=false},350)}},{passive:true});
-  cardEl.addEventListener('touchcancel',()=>{touchStart=null},{passive:true});
+function init(){fillFilters();for(let b of document.querySelectorAll('.navItem'))b.onclick=()=>showTab(b.dataset.tab);document.querySelectorAll('[data-go]').forEach(b=>b.onclick=()=>showTab(b.dataset.go));$('startToday').onclick=()=>{$('studyFilter').value='all';$('studyMode').value='due';selectQueue();if(!queue.length){$('studyMode').value='new';selectQueue()}showTab('study')};document.querySelectorAll('.segment').forEach(b=>b.onclick=()=>{organization=b.dataset.organization;drawBrowseList()});$('browseBack').onclick=()=>drawBrowseList();$('studyFilter').onchange=selectQueue;$('studyMode').onchange=selectQueue;$('direction').onchange=selectQueue;$('showAnswer').onclick=showAnswer;$('flashCard').addEventListener('click',e=>{if(e.target.closest('button'))return;if($('answer').hidden)showAnswer()});$('flashCard').addEventListener('keydown',e=>{if((e.key==='Enter'||e.key===' ')&&e.target===$('flashCard')){e.preventDefault();if($('answer').hidden)showAnswer()}});// Swipes between words deliberately disabled: every word requires an FSRS rating.
   document.querySelectorAll('[data-grade]').forEach(b=>b.onclick=()=>grade(b.dataset.grade));$('search').oninput=drawVocab;let secs=[...new Set(grammar.map(x=>x.section))];$('grammarSection').add(new Option('Все разделы','all'));for(let s of secs)$('grammarSection').add(new Option(s,s));$('grammarSection').onchange=drawGrammarList;$('grammarSearch').oninput=drawGrammarList;const theme=localStorage.getItem('deutsch-theme')||'system';document.documentElement.dataset.theme=theme;$('theme').onclick=()=>{let t=document.documentElement.dataset.theme||'system';document.documentElement.dataset.theme=t==='system'?'light':t==='light'?'dark':'system';localStorage.setItem('deutsch-theme',document.documentElement.dataset.theme)};$('export').onclick=exportBackup;$('import').onchange=importBackup;$('restoreLocal').onclick=restoreLocalBackup;drawBrowseList();drawGrammarList();selectQueue();drawStats();drawHome();}
 (async()=>{try{progress=await ProgressStore.init();await ProgressStore.pruneSnapshots();[lessons,categories,words,grammar]=await Promise.all(['lessons','categories','vocabulary','grammar'].map(n=>fetch('./data/'+n+'.json').then(r=>{if(!r.ok)throw Error(n+': '+r.status);return r.json()})));init()}catch(e){$('front').textContent='Ошибка загрузки: '+e.message;console.error(e)}})();
